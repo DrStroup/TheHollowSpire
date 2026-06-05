@@ -1,0 +1,36 @@
+# MAP-001A: Black Cells (DM Master Map)
+
+Layout
+
+             [Cell 11]
+                 |
+         [Hidden Observation]
+                 |
+      ------------------------
+      |                      |
+[Cell Block A]      [Cell Block B]
+      |                      |
+      -----[Rotunda]---------
+               |
+     [Shattered Corridor]
+               |
+      [Maintenance Hall]
+               |
+         [Breach Zone]
+               |
+         Floor 2 Exit
+
+Keyed Areas
+A. Cell Block A - Starting cells, graffiti, prisoner encounters.
+B. Cell Block B - Repeating/missing cell numbers.
+C. Rotunda - Party reunion, records office, explorer satchel clue.
+D. Shattered Corridor - Nib trapped under rubble.
+E. Maintenance Hall - Ancient machinery and lantern symbols.
+F. Hidden Observation Chamber - Secret records, Moon Lantern access.
+G. Cell 11 - Empty cell that should not exist.
+H. Breach Zone - Flooding escape route to Floor 2.
+
+Secrets
+- Observation chamber inaccessible initially.
+- Cell 11 exists despite records denying it.
+- Lantern symbols predate the prison.
