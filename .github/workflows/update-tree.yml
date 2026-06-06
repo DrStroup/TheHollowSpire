@@ -1,0 +1,41 @@
+name: Update Repository Tree
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-tree:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate repo-tree.txt
+        run: |
+          find . \
+            -path "./.git" -prune -o \
+            -path "./repo-tree.txt" -prune -o \
+            -type f -print \
+            | sed 's#^\./##' \
+            | sort > repo-tree.txt
+
+      - name: Commit updated repo tree
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git diff --quiet repo-tree.txt; then
+            echo "repo-tree.txt is already up to date."
+          else
+            git add repo-tree.txt
+            git commit -m "Update repository tree"
+            git push
+          fi
