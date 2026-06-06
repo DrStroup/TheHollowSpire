@@ -1,22 +1,22 @@
 {
-  "package": "TheHollowSpire_Floor001_Package",
-  "created": "2026-06-06",
-  "copied_images": {
-    "Maps/Canon/MAP-001A-DM-Master-v0.9.png": "/mnt/data/a_high_detail_illustrated_dungeon_map_poster._over.png",
-    "Maps/Canon/MAP-001B-Explorer-Guild-v1.0.png": "/mnt/data/a_detailed_fantasy_map_illustration_an_old_parchm.png",
-    "Maps/Explorer/MAP-001C-Edrin-Vale-Field-Notes-v1.0.png": "/mnt/data/a_high_detail_close_up_of_an_aged_parchment_field.png",
-    "Maps/Explorer/MAP-001D-Sera-Thorn-Trail-Map-v1.0.png": "/mnt/data/a_detailed_high_resolution_illustration_of_a_weat.png",
-    "Maps/Explorer/MAP-001E-Brother-Halden-Pilgrim-Journal-v1.0.png": "/mnt/data/a_high_detail_vintage_pilgrim_map_journal_page_o.png",
-    "Maps/Explorer/MAP-001F-Mara-Voss-Investigation-Map-v1.0.png": "/mnt/data/a_highly_detailed_hand_drawn_ink_and_wash_invest.png",
-    "Art/Reference/MAP-001-Concept-Board.png": "/mnt/data/a_high_resolution_composite_image_showing_a_set_of.png"
-  },
-  "missing_images": {},
-  "status": {
-    "MAP-001A": "CANON v0.9",
-    "MAP-001B": "CANON v1.0",
-    "MAP-001C": "CANON v1.0",
-    "MAP-001D": "CANON v1.0",
-    "MAP-001E": "CANON v1.0",
-    "MAP-001F": "CANON v1.0"
-  }
+  "export": "Hollow_Spire_Canon_v0_02",
+  "generated": "2026-06-06",
+  "status": "preservation export",
+  "folders": [
+    "00_Project_Status",
+    "01_Frameworks",
+    "02_Floor_001_Core_Canon",
+    "03_Maps",
+    "04_Bestiary",
+    "05_NPCs",
+    "06_Encounters",
+    "07_Registries",
+    "08_Art_Registry",
+    "09_Export_Log"
+  ],
+  "open_questions": [
+    "Original Floor 1-10 story writeups missing/not verified.",
+    "Flooded Approach placement pending.",
+    "Emberlight placement pending."
+  ]
 }
