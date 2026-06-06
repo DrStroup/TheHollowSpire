@@ -1,1 +1,0 @@
-Book One Canon Bible
