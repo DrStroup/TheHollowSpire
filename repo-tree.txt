@@ -37,6 +37,7 @@
 07_Registries/Discovery_Archive_v0.01.md
 07_Registries/Master_Recovery_Registry_v0.02.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
+08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
 09_Homebrewery/Book_01/Book_01_Assembly_Notes.md
 09_Homebrewery/Book_01/Book_01_Asset_Checklist.md
 09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md
@@ -54,6 +55,9 @@
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
 12_Exports/Export_Rule_v0.03.md
+12_Exports/Floor_001_Canon_Package_v1_0/CHANGELOG.md
+12_Exports/Floor_001_Canon_Package_v1_0/EXPORT_MANIFEST.json
+12_Exports/Floor_001_Canon_Package_v1_0/README.md
 12_Exports/Publication_Audit_Results_v0_01.md
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
