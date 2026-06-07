@@ -118,6 +118,7 @@
 09_Homebrewery/Book_01/Front_Matter/Title_Page.md
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
+09_Homebrewery/Book_01/Standards/Draft/Publication_Workflow_Lock_v1.0.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_Lock_v1.0.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1_Lock.md
