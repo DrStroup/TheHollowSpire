@@ -1,0 +1,28 @@
+PROMPT TRACE: Bite_Sized_Production_Workflow_v1.0
+
+Immediate User Request:
+The user explained that future Hollow Spire work should be divided into manageable bite-sized chunks, exported after completion, and supported by prompt-trace TXT files. They also requested new chats for each section and PDF exports at the end of each chat or section.
+
+Canon / Project Assumptions Used:
+- Hollow Spire is a Pathfinder 1e 100-floor megadungeon.
+- Work is currently in recovery/rebuild mode.
+- Book 01 covers Region One and Floors 1-10.
+- Canon drift and memory loss are known project risks.
+- The user wants GitHub-ready exports.
+
+Reasoning Path:
+The request implies a need for a formal production workflow rather than an informal chat preference. The workflow was written as a repository framework document because it governs future work across canon, manuscript, audits, registries, and exports.
+
+Output Created:
+- 01_Frameworks/Bite_Sized_Production_Workflow_v1.0.md
+- 12_Exports/Recovery_Exports/PROMPT_TRACE_Bite_Sized_Production_Workflow_v1.0.txt
+- 12_Exports/Recovery_Exports/Export_Changelog_Workflow_v1.0.md
+- 00_Project_Status/Next_Task_Recommendation_v1.0.md
+
+Unresolved Questions:
+- Exact PDF template for end-of-chat exports.
+- Whether every micro-edit needs a ZIP or only completed chunks.
+- Whether each GitHub export should include full repo-tree updates.
+
+Recommended Next Task:
+Create 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md as the next bite-sized recovery chunk.

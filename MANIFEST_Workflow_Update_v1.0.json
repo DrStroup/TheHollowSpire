@@ -1,0 +1,13 @@
+{
+  "export_name": "HollowSpire_Workflow_Update_v1.0",
+  "created_utc": "2026-06-07T15:41:25.548755+00:00",
+  "purpose": "Add bite-sized production workflow and prompt-trace requirements.",
+  "merge_behavior": "additive",
+  "files": [
+    "00_Project_Status/Next_Task_Recommendation_v1.0.md",
+    "01_Frameworks/Bite_Sized_Production_Workflow_v1.0.md",
+    "12_Exports/Recovery_Exports/Export_Changelog_Workflow_v1.0.md",
+    "12_Exports/Recovery_Exports/PROMPT_TRACE_Bite_Sized_Production_Workflow_v1.0.txt",
+    "12_Exports/Recovery_Exports/Repo_Tree_Additions_Workflow_v1.0.txt"
+  ]
+}
