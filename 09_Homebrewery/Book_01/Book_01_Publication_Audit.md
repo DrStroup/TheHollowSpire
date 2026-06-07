@@ -26,7 +26,7 @@
 | Floors 2–10 | Missing | Original story writeups are open questions. |
 | Seven Seals | Needs Canon Review | Needs Book 01 placement assumptions. |
 | Warden Ledger | Needs Canon Review | Needs usable table-facing mechanics. |
-| Cycle of Recurrence | Needs Canon Review | Needs consistent Book 01 presentation. |
+| Rumors of Return / hidden recurrence | Reconciled | Present only as clues, contradictions, and unsettling echoes. Do not explain the cycle in player-facing Book 01 material. |
 | Homebrewery layout | Needs Formatting | Needs CSS/style decisions and final page flow. |
 
 ## Floor 1 Audit
@@ -53,7 +53,7 @@
 | EN-004 Iron Rat Colony | `06_Encounters/EN-004_Iron_Rat_Colony.md` | Needs Formatting | Combat balance, ecology, rewards |
 | EN-005 Broken Custodian | `06_Encounters/EN-005_Broken_Custodian.md` | Needs Formatting | Mechanics, environmental context |
 | EN-006 Silent Jailer Sighting | `06_Encounters/EN-006_Silent_Jailer_Sighting.md` | Needs Formatting | Foreshadowing, threat presentation |
-| EN-007 Lost Child Event | `06_Encounters/EN-007_Lost_Child_Event.md` | Needs Formatting | Recurrence theme, moral outcomes |
+| EN-007 Lost Child Event | `06_Encounters/EN-007_Lost_Child_Event.md` | Needs Formatting | Moral encounter, unsettling mystery, no direct recurrence explanation |
 | EN-008 The Breach Crossing | `06_Encounters/EN-008_The_Breach_Crossing.md` | Needs Formatting | Skill challenge, transition, rewards |
 
 ## NPC Audit
@@ -82,7 +82,14 @@
 
 1. Where does the Flooded Approach belong in Book 01?
 2. Where does Emberlight belong in Book 01?
-3. Are the original Floor 1–10 story writeups recoverable or should they be rewritten from current canon?
+3. Are the original Floor 1–12 story writeups recoverable or should they be rewritten from current canon?
 4. Which Floor 1 assets have approved reference art?
 5. Which Floor 1 assets need new reference art before publication?
-6. Should Book 01 include only Floor 1 initially, or be structured for Floors 1–10 before Floor 2 content recovery begins?
+6. Book 01 is now structured for Region 001, Floors 1–12, before Floor 2 content recovery begins.
+
+
+---
+
+## v0.02 Audit Update
+
+Book 01 scope corrected to Region 001, Floors 1–12. The primer language has been corrected away from megadungeon-prison framing toward subterranean-world framing. Recurrence presentation has been corrected into hidden-lore clues only.

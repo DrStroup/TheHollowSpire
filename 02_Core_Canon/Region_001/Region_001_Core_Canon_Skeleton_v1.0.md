@@ -34,6 +34,8 @@ The party begins as unknown explorers who learn how the Spire is traveled, mappe
 - Exploration
 - Contribution
 - Legacy
+- Perseverance
+- Truth
 - Hope in darkness
 - Awe at impossible places
 - Civilization surviving below
@@ -80,8 +82,8 @@ Future linked files should include:
 Recovered concepts may include, after reconciliation:
 
 - The Black Cells / Blackwake opening material
-- Floodwater passages
-- Outpost Emberlight
+- Flooded Paths
+- Emberlight Village
 - Lantern Village
 - Moon Lantern Sanctuary
 - Moonlight Lantern / Moon Lantern as the first virtue artifact
@@ -99,3 +101,10 @@ Recovered Floor 001 documents have been moved to:
 `02_Core_Canon/Archive/Recovery/`
 
 They remain valuable source material, but they are no longer active authority until reconciled with the campaign skeleton.
+
+
+---
+
+## v1.1 Reconciliation Note
+
+Book 01 now covers all of Region 001, Floors 1–12, ending with Seal One: Truth. Region 001 themes are Exploration, Contribution, Legacy, Perseverance, and Truth.

@@ -6,7 +6,7 @@ The Hollow Spire is designed for **Pathfinder 1e**.
 
 ## Campaign Scale
 
-The Hollow Spire is a **100-floor megadungeon**.
+The Hollow Spire is a **100-floor subterranean world** containing settlements, wilderness, ruins, roads, dungeons, prisons, shrines, and impossible environments.
 
 ## Level Progression
 
@@ -56,4 +56,4 @@ The Spire is dangerous, ancient, and often cruel, but the campaign should never 
 
 ## Publication Note
 
-Book 01 covers only Region One and Floors 1–10. It is the opening regional campaign book, not the full campaign.
+Book 01 covers Region 001: The Blackwater Warrens, Floors 1–12. It is the opening regional campaign book, not the full campaign, and culminates in the First Seal of Truth.

@@ -4,7 +4,7 @@
 
 Recovery draft.
 
-This document exists to establish the campaign-scale framework for a 100-floor Pathfinder 1e megadungeon.
+This document exists to establish the campaign-scale framework for a 100-floor subterranean world campaign.
 
 ## Known Campaign Progression
 
@@ -16,15 +16,20 @@ This document exists to establish the campaign-scale framework for a 100-floor P
 
 Book 01 covers Region One:
 
-- Floors 1–10
+- Floors 1–12
 - Blackwater Warrens
 - The Black Cells
-- Floodwater Passages
-- Outpost Emberlight
-- The Long Dark
+- Flooded Paths
+- Emberlight Village
+- The Drowned Road
+- Shadow Marsh
+- Blackwater Run
 - Lantern Village
 - Veiled Warrens
+- Whispering Deep
 - Moon Lantern Sanctuary
+- Truths Below
+- The First Seal of Truth
 - Return Home
 - Mysteries of Region One
 

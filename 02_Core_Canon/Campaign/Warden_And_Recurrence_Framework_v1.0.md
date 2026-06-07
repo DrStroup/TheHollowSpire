@@ -4,7 +4,7 @@
 
 The Warden is a watcher and judge.
 
-The Warden guards the prison-spire and observes the journey of those who descend.
+The Warden observes the journey of those who descend. Whether the Spire is prison, sanctuary, test, world, or something stranger should remain hidden until dramatically earned.
 
 The Warden is not merely a final enemy or prison administrator. The Warden is the figure who measures the party's choices, answers, sacrifices, failures, and legacy.
 
@@ -30,13 +30,13 @@ Possible outcomes include:
 
 Final outcomes should be based not only on survival or power, but on the party's exploration, contribution, mercy, sacrifice, and legacy.
 
-## The Cycle of Recurrence
+## Hidden Recurrence Meta-Canon
 
-The party has traversed the Spire before.
+The party may have traversed the Spire before.
 
 They do not remember this.
 
-The current descent is not their first attempt.
+This truth is GM-facing only. It should never be explained plainly to players in early campaign material and should not be treated as something Floor 1 teaches.
 
 ## Echoes of Previous Cycles
 
@@ -59,7 +59,7 @@ It should not be revealed too early as a simple twist. It should unfold graduall
 
 ## Design Guidance
 
-Use recurrence to reinforce:
+Use hidden recurrence clues to reinforce:
 
 - Exploration
 - Consequence

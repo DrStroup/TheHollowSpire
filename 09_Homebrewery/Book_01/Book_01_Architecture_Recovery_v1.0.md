@@ -6,7 +6,7 @@ The Hollow Spire — Book 01
 
 ## Recovered Book Function
 
-Book 01 is a regional campaign book covering Region One and Floors 1–10.
+Book 01 is a regional campaign book covering Region 001: The Blackwater Warrens, Floors 1–12.
 
 It is not the full campaign.
 
@@ -18,10 +18,12 @@ Establishes campaign identity.
 
 Topics include:
 
-- The Three Pillars
+- The Five Book 01 Themes
   - Exploration
   - Contribution
   - Legacy
+  - Perseverance
+  - Truth
 - Tone
   - 67% Dark
   - 33% Hope
@@ -40,9 +42,9 @@ Includes:
 
 - Regional Map (DM)
 - Starting Explorer Map
-- Floors 1–11 version
+- Floors 1–12 version
 - Guild Archive Map
-- Floors 1–10 version
+- Moon Lantern updated regional routes
 - Moon Lantern Updated Map
 - Exploration routes
 - Regional hazards
@@ -163,7 +165,7 @@ Includes:
 
 ### Chapter 8 — Floor 10: Moon Lantern Sanctuary
 
-Chapter finale.
+Major artifact chapter and beginning of the Book 01 endgame.
 
 Includes:
 
@@ -186,23 +188,20 @@ Moon Lantern functions:
 - Backtracking system
 - Regional unlocks
 
-### Chapter 9 — The Return Home
+### Chapter 9 — Floors 11–12: Truths Below and the First Seal
 
-A major post-expedition chapter.
+Book 01 finale.
 
 Includes:
 
-- How the village changes
-- How NPCs react
-- How lanterns brighten
-- How new routes open
-- How the world evolves
-- Dialogue tables
-- Celebrations
-- Rumors
-- Consequences
+- Truths Below
+- The Hall of Truth
+- Seal One: Truth
+- Philosophical and exploration-driven finale structure
+- Regional consequences
+- Book 2 unlocks
 
-### Chapter 10 — Mysteries of Region One
+### Chapter 10 — Return Home and Mysteries of Region One
 
 GM-only section.
 
@@ -223,3 +222,10 @@ Contains:
 - Contradictory Maps
 - Long-term setup notes
 - Seeds for Books 2–7
+
+
+---
+
+## v1.1 Reconciliation Note
+
+This file was updated to align Book 01 scope with the active Region 001 design lock: Floors 1–12, culminating in the First Seal of Truth. Earlier Floors 1–10 references are superseded.

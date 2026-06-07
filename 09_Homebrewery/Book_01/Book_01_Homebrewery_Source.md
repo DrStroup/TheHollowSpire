@@ -2,7 +2,7 @@
 {{footnote The Hollow Spire — Book 01}}
 
 # The Hollow Spire — Book 01
-## Floors 1–10 Publication Draft
+## Region 001 Publication Draft
 
 > ##### Publication Status
 > **Version:** v0.01  
@@ -17,7 +17,7 @@
 ## Credits
 
 **Project:** The Hollow Spire  
-**Book:** Book 01 — Floors 1–10  
+**Book:** Book 01 — Region 001, Floors 1–12  
 **Status:** Publication assembly draft  
 
 ## How to Use This Book
@@ -26,12 +26,12 @@ This book is intended to present the opening arc of *The Hollow Spire* as a usab
 
 ## Design Pillars
 
-- The Spire is a prison, dungeon, civilization, and judgment engine.
-- Exploration matters; teleportation and easy bypasses are restricted.
+- The Spire is a vast subterranean world, not merely a dungeon.
+- Exploration, contribution, legacy, perseverance, and truth are the central Book 01 themes.
 - Backtracking, discovery maps, and route knowledge are core gameplay.
-- The party’s moral choices are tracked through the Warden Ledger.
+- Settlements, routes, contracts, and communities matter as much as ruins and threats.
 - The Seven Seals structure provides long-form campaign progression.
-- Recurrence, death, rebirth, and judgment shape the mythic arc.
+- Deeper mysteries such as the Warden, judgment, and recurrence remain hidden until dramatically earned.
 
 \page
 
@@ -39,7 +39,7 @@ This book is intended to present the opening arc of *The Hollow Spire* as a usab
 
 ## The Hollow Spire
 
-The Hollow Spire is a vast subterranean megadungeon-prison descending through one hundred floors of buried civilizations, failed experiments, sealed powers, and forgotten judgments.
+The Hollow Spire is a vast subterranean world descending through one hundred known floors of buried civilizations, living settlements, wilderness regions, ancient works, sealed powers, and forgotten judgments. It contains prisons, ruins, dungeons, roads, villages, shrines, rivers, and impossible ecosystems, but it should not feel like one continuous dungeon to the players.
 
 ## The Explorer Guild
 
@@ -55,11 +55,11 @@ Seven major seals, represented by gems or seal-stones, are recovered throughout 
 
 ## The Warden Ledger
 
-The Warden Ledger tracks the party’s actions through moral axes such as Mercy, Justice, Ambition, and Sacrifice. These choices should alter outcomes, encounters, and final judgment.
+The Warden Ledger is a GM-facing consequence tool that tracks the party’s actions through moral axes such as Mercy, Justice, Ambition, and Sacrifice. The players should experience its effects through changing outcomes, relationships, discoveries, and long-term consequences rather than through direct exposition.
 
-## The Cycle of Recurrence
+## Rumors of Return
 
-Some souls in the Spire are cursed to die and be reborn until the Warden judges them worthy. This cycle should be treated as both cosmic punishment and possible path to liberation.
+Certain stories within the Spire suggest that death, memory, and identity may not always behave as they should. Some names appear where they should not. Some places seem to remember people who have never visited them. The truth behind these stories is not explained in Book 01 and should be left for the table to discover through clues, contradictions, and earned revelations.
 
 \page
 
@@ -67,7 +67,7 @@ Some souls in the Spire are cursed to die and be reborn until the Warden judges 
 
 ## Tone
 
-Book 01 should begin with confinement, uncertainty, and survival horror, then gradually widen into exploration, mystery, faction discovery, and mythic purpose.
+Book 01 should begin with confinement, uncertainty, and survival pressure, then quickly widen into exploration, community, mystery, faction discovery, perseverance, and mythic purpose.
 
 ## Core Table Rules
 
@@ -97,8 +97,8 @@ Floor 1 begins in the Black Cells, a ruined prison threshold where the party awa
 
 ## Current Canon Sources
 
-- `02_Floor_001_Core_Canon/Floor_001_Core_Canon.md`
-- `02_Floor_001_Core_Canon/Floor_001_Story_Summary_Reconstructed.md`
+- `02_Core_Canon/Archive/Recovery/Floor_001_Core_Canon_Recovered_v1.0.md`
+- `02_Core_Canon/Archive/Recovery/Floor_001_Story_Summary_Reconstructed_Recovered_v1.0.md`
 - `03_Maps/Floor_001/Documentation/Map_Manifest_v0.03.md`
 - `06_Encounters/EN-001_Awakening_in_the_Black_Cells.md`
 - `06_Encounters/EN-002_The_Rotunda.md`
@@ -154,7 +154,7 @@ Floor 1 begins in the Black Cells, a ruined prison threshold where the party awa
 
 ## EN-007: Lost Child Event
 
-**Purpose:** Moral encounter and recurrence theme.  
+**Purpose:** Moral encounter and unsettling mystery.  
 **Publication Status:** Source exists; needs import and formatting.
 
 ## EN-008: The Breach Crossing

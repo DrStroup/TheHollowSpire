@@ -1,0 +1,18 @@
+{
+  "package": "Book_01_Publication_Reconciliation",
+  "version": "1.0",
+  "files_changed_or_added": [
+    "09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md",
+    "09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md",
+    "09_Homebrewery/Book_01/Book_01_Assembly_Notes.md",
+    "09_Homebrewery/Book_01/Book_01_Publication_Audit.md",
+    "09_Homebrewery/Book_01/BOOK_01_SCOPE_DECISIONS_v1.0.md",
+    "09_Homebrewery/Book_01/CHAPTER_00_REWRITE_PLAN_v1.0.md",
+    "09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md",
+    "02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md",
+    "02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md",
+    "02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md",
+    "02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md",
+    "13_Audits/Region_001/AUDIT_Floor_001_Homebrewery_Conflict_v1.0.md"
+  ]
+}

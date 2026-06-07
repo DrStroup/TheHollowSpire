@@ -19,8 +19,9 @@ Create a stable Book 01 publication structure before importing full content. Thi
 8. Import Discovery Archive and Recovery Registry entries relevant to Floor 1.
 9. Audit all maps for viewability and player safety.
 10. Audit all art/reference needs.
-11. Resolve Flooded Approach and Emberlight placement.
-12. Decide whether Floors 2–10 need full rewrite or recovery pass.
+11. Resolve Flooded Paths, Emberlight Village, and Blackwater Run placement.
+12. Build Region 001 as Floors 1–12, ending with the First Seal of Truth.
+13. Decide whether Floors 2–12 need full rewrite or recovery pass.
 
 ## Homebrewery Formatting Standards
 
@@ -44,10 +45,11 @@ Use the following conventions unless replaced by a later style guide:
 
 ## Publication Rules to Preserve
 
-- The Hollow Spire should feel hostile, ancient, and rule-bound.
+- The Hollow Spire should feel like a vast subterranean world: hostile, ancient, beautiful, lived-in, and rule-bound.
 - The party should not be able to bypass the campaign through simple teleportation or planar escape.
 - Maps should be artifacts of perspective, not omniscient truth.
-- Recurrence should be unsettling but meaningful.
+- Recurrence should remain hidden lore; player-facing material may present only clues, contradictions, and unsettling echoes.
+- Book 01 themes are Exploration, Contribution, Legacy, Perseverance, and Truth.
 - The Seven Seals should feel like campaign-scale milestones.
 - The Warden Ledger should track moral consequence without reducing roleplay to a simple score.
 
@@ -57,7 +59,7 @@ Use the following conventions unless replaced by a later style guide:
 |---|---|---|
 | Floor 1 assets marked complete may lack reference art | Publication delay | Run asset-by-asset art audit before final layout. |
 | Maps may not be readable at book scale | Layout delay | Test each map at target page size. |
-| Floors 2–10 story material may be missing | Book 01 scope risk | Decide between recovery, rewrite, or phased publication. |
+| Floors 2–12 story material may be missing | Book 01 scope risk | Decide between recovery, rewrite, or phased publication. |
 | Canon may have drifted across files | Continuity risk | Use publication audit before importing final prose. |
 | Homebrewery formatting may become hard to maintain | Production risk | Keep source modular and use consistent section templates. |
 
