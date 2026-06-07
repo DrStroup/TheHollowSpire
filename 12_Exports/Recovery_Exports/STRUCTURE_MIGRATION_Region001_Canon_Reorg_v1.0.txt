@@ -1,0 +1,24 @@
+# Structure Migration — Region 001 Canon Reorganization v1.0
+
+Date: 2026-06-07
+
+Purpose:
+Correct misplaced Floor 001 recovery files that were stored under campaign-level canon and establish a clean Region 001 active canon location.
+
+Changes:
+1. Moved recovered Floor 001 canon out of:
+   02_Core_Canon/Campaign/Floor_001_Core_Canon/
+
+2. Archived recovered files under:
+   02_Core_Canon/Archive/Recovery/
+
+3. Created active Region 001 folder:
+   02_Core_Canon/Region_001/
+
+4. Created active skeleton anchor:
+   02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
+
+5. Updated repo-tree.txt.
+
+Canon Rule:
+Archived recovery files remain useful source material but are not active authority until reconciled into Region 001 canon.

@@ -1,0 +1,37 @@
+The Hollow Spire — Worldgen Skeleton v1.0 Prompt Chain
+
+Purpose:
+Create a reusable world generation and campaign skeleton reference for The Hollow Spire that can guide future canon recovery, manuscript rebuilding, region design, settlement design, encounter packages, contract packages, artifact design, and seal integration.
+
+Key user corrections and locked requirements:
+
+1. The players should almost never know that the Hollow Spire is a test or a jail. Even if these elements exist in hidden meta-canon, the player-facing experience should be their journey.
+
+2. The emotional campaign focus should include hope, legacy, awe, discovery, wonder, community, exploration, and meaningful descent.
+
+3. The campaign is expected to span 8 books.
+   - Book 1: Levels 3–6
+   - Book 2: Levels 6–9
+   - Book 3: Levels 9–12
+   - Book 4: Levels 12–14
+   - Book 5: Levels 14–16
+   - Book 6: Levels 16–18
+   - Book 7: Levels 18–20
+   - Book 8: Epic-level exploration onward
+
+4. Each book should contain several settlements to explore, moments of awe, a full encounter package, a full contract package, and recovery of an artifact and/or seal.
+
+5. The Seven Seals represent seven virtues. The first virtue is Truth, associated with the Moonlight Lantern / Moon Lantern.
+
+6. The party should generally become regional celebrities by the time they leave a set of floors. Common folk may view them as heroes or villains depending on their actions.
+
+7. Deeper explorers and adventurers should often be on par with the party because they have endured similar dangers to reach those areas.
+
+8. By levels 15–20, the party are already Spire heroes. However, they should not become true legends until the end of Book 7.
+
+9. Not everyone living deep in the Spire is powerful. Some cities have people born there who are too weak, too young, too old, too rooted, or otherwise unable to leave. Many ordinary people live and die entirely within deep settlements.
+
+10. The Hollow Spire should be treated as a civilization's world, not merely an adventurer's dungeon. Explorers matter because they extend, protect, connect, and preserve civilization.
+
+Intended use:
+Use the generated markdown file as the top-level worldgen reference before creating or revising any region, floor, settlement, NPC, contract, encounter, artifact, seal, or manuscript file.
