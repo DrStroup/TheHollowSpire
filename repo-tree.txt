@@ -26,6 +26,7 @@
 02_Core_Canon/Campaign/Prompt_Traces/Hollow_Spire_Campaign_Skeleton_v1.0_prompt_chain.txt
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
+02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md
 02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
 02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md
@@ -87,6 +88,9 @@
 12_Exports/Floor_001_Canon_Package_v1_0/CHANGELOG.md
 12_Exports/Floor_001_Canon_Package_v1_0/EXPORT_MANIFEST.json
 12_Exports/Floor_001_Canon_Package_v1_0/README.md
+12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/CHANGELOG.md
+12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/EXPORT_MANIFEST.json
+12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/README.md
 12_Exports/Publication_Audit_Results_v0_01.md
 12_Exports/Recovery_Exports/Export_Changelog_Workflow_v1.0.md
 12_Exports/Recovery_Exports/Export_Changelog_v1.0.md
@@ -107,6 +111,7 @@
 13_Audits/Floor_001/AUDIT_Floor_001_Encounters.md
 13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
 13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
+13_Audits/Floor_001/AUDIT_Floor_01_Black_Cells_Core_Canon_v1.0.md
 13_Audits/Region_001/AUDIT_Floor_001_Homebrewery_Conflict_v1.0.md
 13_Audits/Region_001/AUDIT_Region_001_Design_Lock_v1.0.md
 MANIFEST.json
