@@ -37,6 +37,10 @@
 07_Registries/Discovery_Archive_v0.01.md
 07_Registries/Master_Recovery_Registry_v0.02.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
+09_Homebrewery/Book_01/Book_01_Assembly_Notes.md
+09_Homebrewery/Book_01/Book_01_Asset_Checklist.md
+09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md
+09_Homebrewery/Book_01/Book_01_Publication_Audit.md
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
