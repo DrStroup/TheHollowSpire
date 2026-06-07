@@ -1,0 +1,3 @@
+- Locked Region 001 floor progression
+- Locked perseverance theme
+- Locked hidden recurrence policy
