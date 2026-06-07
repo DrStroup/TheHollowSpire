@@ -1,0 +1,11 @@
+{
+  "package": "Floor_01_Black_Cells_Core_Canon",
+  "version": "1.0",
+  "date": "2026-06-07",
+  "files": [
+    "13_Audits/Floor_001/AUDIT_Floor_01_Black_Cells_Core_Canon_v1.0.md",
+    "12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/README.md",
+    "12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/CHANGELOG.md",
+    "02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md"
+  ]
+}
