@@ -1,45 +1,5 @@
 {
-  "package": "TheHollowSpire_CleanRepo_v0_03",
-  "generated": "2026-06-06",
-  "purpose": "Clean final repo structure package preserving current canon and Floor 1 maps",
-  "maps_included": [
-    "MAP-001A-DM-Master-v0.9.png",
-    "MAP-001B-Explorer-Guild-v1.0.png",
-    "MAP-001C-Edrin-Vale-Field-Notes-v1.0.png",
-    "MAP-001D-Sera-Thorn-Trail-Map-v1.0.png",
-    "MAP-001E-Brother-Halden-Pilgrim-Journal-v1.0.png",
-    "MAP-001F-Mara-Voss-Investigation-Map-v1.0.png"
-  ],
-  "locked_structure": [
-    "00_Project_Status",
-    "01_Frameworks",
-    "02_Floor_001_Core_Canon",
-    "03_Maps/Floor_001/Assets",
-    "03_Maps/Floor_001/Documentation",
-    "04_Bestiary",
-    "05_NPCs",
-    "06_Encounters",
-    "07_Registries",
-    "08_Art_Registry",
-    "09_Homebrewery/Floor_001",
-    "10_Handouts/Floor_001",
-    "11_Timeline",
-    "12_Exports"
-  ],
-  "legacy_folders_to_retire_after_verification": [
-    "Art",
-    "Bestiary",
-    "Canon",
-    "Handouts",
-    "Homebrewery",
-    "Maps",
-    "NPCs",
-    "Timeline",
-    "Mysteries/ The-Missing-Floor"
-  ],
-  "open_questions": [
-    "Recover original Floor 1-10 story writeups",
-    "Verify Flooded Approach placement",
-    "Verify Emberlight placement"
-  ]
+  "package": "TheHollowSpire_Publication_Audit_v0_04",
+  "generated": "2026-06-07",
+  "purpose": "Preserve publication audit, workflow, and project state."
 }
