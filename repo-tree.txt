@@ -35,6 +35,7 @@
 06_Encounters/EN-007_Lost_Child_Event.md
 06_Encounters/EN-008_The_Breach_Crossing.md
 07_Registries/Discovery_Archive_v0.01.md
+07_Registries/Floor_001_NPC_Recovery_Registry_v1.0.md
 07_Registries/Master_Recovery_Registry_v0.02.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
@@ -64,6 +65,7 @@
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
 13_Audits/Floor_001/AUDIT_Floor_001_Canon.md
 13_Audits/Floor_001/AUDIT_Floor_001_Canon_Conflict_v1.0.md
+13_Audits/Floor_001/AUDIT_Floor_001_Canon_Reconciliation_v1.0.md
 13_Audits/Floor_001/AUDIT_Floor_001_Encounters.md
 13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
 13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
