@@ -46,5 +46,11 @@
 11_Timeline/README.md
 12_Exports/Export_Rule_v0.03.md
 12_Exports/Publication_Audit_Results_v0_01.md
+13_Audits/Floor_001/AUDIT_Floor_001_Art.md
+13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
+13_Audits/Floor_001/AUDIT_Floor_001_Canon.md
+13_Audits/Floor_001/AUDIT_Floor_001_Encounters.md
+13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
+13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
 MANIFEST.json
 README.md
