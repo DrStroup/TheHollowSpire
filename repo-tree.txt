@@ -39,6 +39,8 @@
 03_Maps/Floor_001/Assets/MAP-001E-Brother-Halden-Pilgrim-Journal-v1.0.png
 03_Maps/Floor_001/Assets/MAP-001F-Mara-Voss-Investigation-Map-v1.0.png
 03_Maps/Floor_001/Documentation/Map_Manifest_v0.03.md
+03_Maps/Region_001/README.md
+03_Maps/Region_001/Region_001_Overview_Map_v1.0.png.png
 04_Bestiary/BESTIARY-001_Iron_Rat.md
 04_Bestiary/BESTIARY-002_Broken_Custodian.md
 04_Bestiary/BESTIARY-003_Silent_Jailer.md
@@ -60,6 +62,7 @@
 08_Art_Registry/Explorer_Guild_Crest_Art_Direction_v1.0.txt
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
+08_Art_Registry/Region_001_Map_Registry_v1.0.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Notes.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Prompt_History.txt
@@ -67,6 +70,9 @@
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_Guidelines-v1.0.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_v1.0.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/README.md
+09_Homebrewery/Book_01/Art/Maps/Region_001/Region_001_Map_Art_Direction_v1.0.txt
+09_Homebrewery/Book_01/Art/Maps/Region_001/Region_001_Map_Notes.md
+09_Homebrewery/Book_01/Art/Maps/Region_001/Region_001_Overview_Map_v1.0.png.png
 09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Notes.md
 09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Prompt_History.txt
@@ -125,6 +131,7 @@
 12_Exports/Recovery_Exports/Repo_Tree_Additions_Workflow_v1.0.txt
 12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt
 12_Exports/Recovery_Exports/STRUCTURE_MIGRATION_Region001_Canon_Reorg_v1.0.txt
+12_Exports/Region001_Map_Asset_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Region_001_Design_Lock_v1.0/CHANGELOG.md
 12_Exports/Region_001_Design_Lock_v1.0/EXPORT_MANIFEST.json
 12_Exports/Region_001_Design_Lock_v1.0/README.md
