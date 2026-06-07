@@ -24,6 +24,7 @@
 02_Core_Canon/Campaign/Prompt_Traces/Hollow_Spire_Campaign_Skeleton_v1.0_prompt_chain.txt
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
+02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
 03_Maps/Floor_001/Assets/MAP-001A-DM-Master-v0.9.png
 03_Maps/Floor_001/Assets/MAP-001B-Explorer-Guild-v1.0.png
@@ -76,6 +77,7 @@
 12_Exports/Recovery_Exports/Export_Changelog_Workflow_v1.0.md
 12_Exports/Recovery_Exports/Export_Changelog_v1.0.md
 12_Exports/Recovery_Exports/PROMPT_TRACE_Bite_Sized_Production_Workflow_v1.0.txt
+12_Exports/Recovery_Exports/PROMPT_TRACE_Region001_Canon_Lock_v1.0.txt
 12_Exports/Recovery_Exports/Repo_Tree_Additions_Workflow_v1.0.txt
 12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt
 12_Exports/Recovery_Exports/STRUCTURE_MIGRATION_Region001_Canon_Reorg_v1.0.txt
