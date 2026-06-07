@@ -1,0 +1,10 @@
+Prompt Trace Summary
+
+This export captures canon decisions locked during Region 001 recovery:
+- Civilization-first philosophy
+- Region 001 floor scope
+- Settlement hierarchy
+- Moon Lantern placement
+- Blackwater Run restoration
+- Deep King pursuit sequence
+- Awe progression framework
