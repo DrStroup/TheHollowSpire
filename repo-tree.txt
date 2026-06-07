@@ -84,6 +84,7 @@
 09_Homebrewery/Book_01/Book_01_Assembly_Notes.md
 09_Homebrewery/Book_01/Book_01_Asset_Checklist.md
 09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md
+09_Homebrewery/Book_01/Book_01_Homebrewery_Source_v0.1.md
 09_Homebrewery/Book_01/Book_01_Publication_Audit.md
 09_Homebrewery/Book_01/CHAPTER_00_REWRITE_PLAN_v1.0.md
 09_Homebrewery/Book_01/Chapter_00/Chapter_00_Layout.md
@@ -105,6 +106,7 @@
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_Lock_v1.0.md
+09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1_Lock.md
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
@@ -130,6 +132,7 @@
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/CHANGELOG.md
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/EXPORT_MANIFEST.json
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/README.md
+12_Exports/Homebrewery_Style_Guide_Lock_v1.1/EXPORT_MANIFEST.json
 12_Exports/Moon_Lantern_Asset_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Moon_Lantern_Asset_Package_v1.0/README.md
 12_Exports/Publication_Audit_Results_v0_01.md
