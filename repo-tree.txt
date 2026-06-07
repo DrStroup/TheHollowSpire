@@ -28,6 +28,7 @@
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
 02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
+02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md
 02_Core_Canon/Region_001/Region_001_Floor_By_Floor_Canon_v1.0.md
 03_Maps/Floor_001/Assets/MAP-001A-DM-Master-v0.9.png
 03_Maps/Floor_001/Assets/MAP-001B-Explorer-Guild-v1.0.png
@@ -88,6 +89,9 @@
 12_Exports/Recovery_Exports/Repo_Tree_Additions_Workflow_v1.0.txt
 12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt
 12_Exports/Recovery_Exports/STRUCTURE_MIGRATION_Region001_Canon_Reorg_v1.0.txt
+12_Exports/Region_001_Design_Lock_v1.0/CHANGELOG.md
+12_Exports/Region_001_Design_Lock_v1.0/EXPORT_MANIFEST.json
+12_Exports/Region_001_Design_Lock_v1.0/README.md
 13_Audits/Canon_Audit_Region_001_v1.0.md
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
@@ -97,6 +101,7 @@
 13_Audits/Floor_001/AUDIT_Floor_001_Encounters.md
 13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
 13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
+13_Audits/Region_001/AUDIT_Region_001_Design_Lock_v1.0.md
 MANIFEST.json
 MANIFEST_GitHub_Structure_Update_v1.0.json
 MANIFEST_Workflow_Update_v1.0.json
