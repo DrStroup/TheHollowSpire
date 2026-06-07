@@ -1,0 +1,1 @@
+Add Cover_Art_v0.1.png manually to the Cover directory.
