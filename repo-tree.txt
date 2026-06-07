@@ -62,6 +62,7 @@
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Notes.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Prompt_History.txt
+09_Homebrewery/Book_01/Art/Cover/Cover_Art_v0.1.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_Guidelines-v1.0.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_v1.0.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/README.md
