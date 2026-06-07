@@ -12,8 +12,13 @@
 01_Frameworks/Publication_Workflow_v0_01.md
 01_Frameworks/Reward_Recovery_Frameworks.md
 01_Frameworks/Splatbook_Pipeline_v0.06.md
-02_Floor_001_Core_Canon/Floor_001_Core_Canon.md
-02_Floor_001_Core_Canon/Floor_001_Story_Summary_Reconstructed.md
+02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md
+02_Core_Canon/Campaign/Explorer_Creed_v1.0.md
+02_Core_Canon/Campaign/Floor_001_Core_Canon/Floor_001_Core_Canon.md
+02_Core_Canon/Campaign/Floor_001_Core_Canon/Floor_001_Story_Summary_Reconstructed.md
+02_Core_Canon/Campaign/Magical_Floors_And_Artifacts_v1.0.md
+02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
+02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
 03_Maps/Floor_001/Assets/MAP-001A-DM-Master-v0.9.png
 03_Maps/Floor_001/Assets/MAP-001B-Explorer-Guild-v1.0.png
 03_Maps/Floor_001/Assets/MAP-001C-Edrin-Vale-Field-Notes-v1.0.png
@@ -39,6 +44,7 @@
 07_Registries/Master_Recovery_Registry_v0.02.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
+09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md
 09_Homebrewery/Book_01/Book_01_Assembly_Notes.md
 09_Homebrewery/Book_01/Book_01_Asset_Checklist.md
 09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md
@@ -61,6 +67,8 @@
 12_Exports/Floor_001_Canon_Package_v1_0/EXPORT_MANIFEST.json
 12_Exports/Floor_001_Canon_Package_v1_0/README.md
 12_Exports/Publication_Audit_Results_v0_01.md
+12_Exports/Recovery_Exports/Export_Changelog_v1.0.md
+12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
 13_Audits/Floor_001/AUDIT_Floor_001_Canon.md
@@ -70,4 +78,5 @@
 13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
 13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
 MANIFEST.json
+MANIFEST_GitHub_Structure_Update_v1.0.json
 README.md
