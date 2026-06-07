@@ -63,9 +63,6 @@
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
 08_Art_Registry/Region_001_Map_Registry_v1.0.md
-09_Homebrewery/Book_01/09_Homebrewery/Book_01/Chapter_00/Chapter_00_Manuscript_v1.0.md
-09_Homebrewery/Book_01/12_Exports/Chapter_00_Manuscript_Package_v1.0/EXPORT_MANIFEST.json
-09_Homebrewery/Book_01/12_Exports/Chapter_00_Manuscript_Package_v1.0/README.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Notes.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Prompt_History.txt
@@ -91,6 +88,7 @@
 09_Homebrewery/Book_01/Book_01_Publication_Audit.md
 09_Homebrewery/Book_01/CHAPTER_00_REWRITE_PLAN_v1.0.md
 09_Homebrewery/Book_01/Chapter_00/Chapter_00_Layout.md
+09_Homebrewery/Book_01/Chapter_00/Chapter_00_Manuscript_v1.0.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-001_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-002_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-003_Publication_Conversion.md
@@ -124,6 +122,8 @@
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Book_01_Narrative_Spine_v1.0.md
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Region_001_Floor_By_Floor_Canon_v1.0.md
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Seven_Seals_Framework_v1.0.md
+12_Exports/Chapter_00_Manuscript_Package_v1.0/EXPORT_MANIFEST.json
+12_Exports/Chapter_00_Manuscript_Package_v1.0/README.md
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Cover_Art_Package_v1.0/README.md
 12_Exports/EXPORT_CHANGELOG_v1.0.md
