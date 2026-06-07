@@ -110,6 +110,8 @@
 09_Homebrewery/Book_01/Chapter_00/Archive/Chapter_00_Full_Manuscript_Draft_v1.0.txt
 09_Homebrewery/Book_01/Chapter_00/Chapter_00_Layout.md
 09_Homebrewery/Book_01/Chapter_00/Chapter_00_Manuscript_v1.0.md
+09_Homebrewery/Book_01/Chapter_00/Chapter_00_Manuscript_v2.0.md
+09_Homebrewery/Book_01/Chapter_00/Chapter_00_Outline_v2.0.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-001_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-002_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-003_Publication_Conversion.md
