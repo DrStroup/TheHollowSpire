@@ -55,6 +55,7 @@
 07_Registries/Discovery_Archive_v0.01.md
 07_Registries/Floor_001_NPC_Recovery_Registry_v1.0.md
 07_Registries/Master_Recovery_Registry_v0.02.md
+08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_v1.0.md
 08_Art_Registry/Explorer_Guild_Crest_Art_Direction_v1.0.txt
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
@@ -66,6 +67,11 @@
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_Guidelines-v1.0.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_v1.0.png.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/README.md
+09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Art_Direction_v1.0.txt
+09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Notes.md
+09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Prompt_History.txt
+09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_v1.0.png.png
+09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/README.md
 09_Homebrewery/Book_01/Art_Direction/Initial_Art_Assets_Lock_v1.0.md
 09_Homebrewery/Book_01/BOOK_01_SCOPE_DECISIONS_v1.0.md
 09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md
@@ -109,6 +115,8 @@
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/CHANGELOG.md
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/EXPORT_MANIFEST.json
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/README.md
+12_Exports/Moon_Lantern_Asset_Package_v1.0/EXPORT_MANIFEST.json
+12_Exports/Moon_Lantern_Asset_Package_v1.0/README.md
 12_Exports/Publication_Audit_Results_v0_01.md
 12_Exports/Recovery_Exports/Export_Changelog_Workflow_v1.0.md
 12_Exports/Recovery_Exports/Export_Changelog_v1.0.md
