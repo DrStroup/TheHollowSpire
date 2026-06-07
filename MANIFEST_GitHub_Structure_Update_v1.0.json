@@ -1,0 +1,16 @@
+{
+  "export_name": "HollowSpire_GitHub_Structure_Update_v1.0",
+  "created_utc": "2026-06-07T01:45:39.389336Z",
+  "purpose": "Repository-structured update adding campaign-level canon and recovered Book 01 architecture.",
+  "files": [
+    "02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md",
+    "02_Core_Canon/Campaign/Explorer_Creed_v1.0.md",
+    "02_Core_Canon/Campaign/Magical_Floors_And_Artifacts_v1.0.md",
+    "02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md",
+    "02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md",
+    "09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md",
+    "12_Exports/Recovery_Exports/Export_Changelog_v1.0.md",
+    "12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt"
+  ],
+  "merge_behavior": "additive"
+}
