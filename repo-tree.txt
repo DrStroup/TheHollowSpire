@@ -41,6 +41,15 @@
 09_Homebrewery/Book_01/Book_01_Asset_Checklist.md
 09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md
 09_Homebrewery/Book_01/Book_01_Publication_Audit.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-001_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-002_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-003_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-004_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-005_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-006_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-007_Publication_Conversion.md
+09_Homebrewery/Book_01/Encounter_Conversions/EN-008_Publication_Conversion.md
+09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
