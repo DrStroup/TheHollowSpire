@@ -107,8 +107,10 @@
 09_Homebrewery/Book_01/Front_Matter/Cover_Page.md
 09_Homebrewery/Book_01/Front_Matter/Credits_Page.md
 09_Homebrewery/Book_01/Front_Matter/Dedication_Page.md
+09_Homebrewery/Book_01/Front_Matter/Explorer_Guild_Oath_v1.0.md
 09_Homebrewery/Book_01/Front_Matter/FRONT_MATTER_PRODUCTION_LOCK_v1.0.md
 09_Homebrewery/Book_01/Front_Matter/Front_Matter_Assembly_v1.0.md
+09_Homebrewery/Book_01/Front_Matter/Front_Matter_Assembly_v1.1.md
 09_Homebrewery/Book_01/Front_Matter/Table_Of_Contents.md
 09_Homebrewery/Book_01/Front_Matter/Title_Page.md
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
@@ -116,12 +118,15 @@
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_Lock_v1.0.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1_Lock.md
+09_Homebrewery/Book_01/Table_Of_Contents_v1.1.md
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
 12_Exports/Book01_Front_Matter_Lock_v1.1/EXPORT_MANIFEST.json
 12_Exports/Book01_Front_Matter_Locks_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book01_Front_Matter_Locks_v1.0/README.md
+12_Exports/Book01_Front_Matter_Oath_Update_v1.0/EXPORT_MANIFEST.json
+12_Exports/Book01_Front_Matter_Oath_Update_v1.0/README.md
 12_Exports/Book_01_Homebrewery_Bootstrap_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book_01_Publication_Reconciliation_v1.0/CHANGELOG.md
 12_Exports/Book_01_Publication_Reconciliation_v1.0/EXPORT_MANIFEST.json
