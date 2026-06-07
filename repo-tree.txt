@@ -71,6 +71,8 @@
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_v0.1.png
 09_Homebrewery/Book_01/Art/Dedication/Dedication_Page_Spec_v1.0.md
 09_Homebrewery/Book_01/Art/Dedication/Dedication_Page_v1.0.png
+09_Homebrewery/Book_01/Art/Explorer_Guild_Oath/Oath_of_the_Explorers_Guild_Page_Spec_v1.0.md
+09_Homebrewery/Book_01/Art/Explorer_Guild_Oath/Oath_of_the_Explorers_Guild_Page_v1.0.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_Guidelines-v1.0.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_v1.0.png
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/README.md
@@ -122,6 +124,7 @@
 09_Homebrewery/Book_01/Front_Matter/Title_Page.md
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
+09_Homebrewery/Book_01/Source/Snippets/Oath_of_the_Explorers_Guild_Page_v1.0_Homebrewery.md
 09_Homebrewery/Book_01/Standards/Draft/Publication_Workflow_Lock_v1.0.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_Lock_v1.0.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_v1.1.md
