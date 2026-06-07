@@ -54,6 +54,7 @@
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
+12_Exports/EXPORT_CHANGELOG_v1.0.md
 12_Exports/Export_Rule_v0.03.md
 12_Exports/Floor_001_Canon_Package_v1_0/CHANGELOG.md
 12_Exports/Floor_001_Canon_Package_v1_0/EXPORT_MANIFEST.json
@@ -62,6 +63,7 @@
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
 13_Audits/Floor_001/AUDIT_Floor_001_Canon.md
+13_Audits/Floor_001/AUDIT_Floor_001_Canon_Conflict_v1.0.md
 13_Audits/Floor_001/AUDIT_Floor_001_Encounters.md
 13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
 13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
