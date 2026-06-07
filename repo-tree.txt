@@ -11,6 +11,7 @@
 01_Frameworks/Encounter_Framework_v0.02.md
 01_Frameworks/Explorer_Map_Directives.md
 01_Frameworks/Module_Pipeline_v0.07.md
+01_Frameworks/Publication_Complete_Workflow_v1.0.md
 01_Frameworks/Publication_Workflow_v0_01.md
 01_Frameworks/Reward_Recovery_Frameworks.md
 01_Frameworks/Seven_Seals_Framework_v1.0.md
@@ -56,6 +57,7 @@
 07_Registries/Master_Recovery_Registry_v0.02.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
+09_Homebrewery/Book_01/Art_Direction/Initial_Art_Assets_Lock_v1.0.md
 09_Homebrewery/Book_01/BOOK_01_SCOPE_DECISIONS_v1.0.md
 09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md
 09_Homebrewery/Book_01/Book_01_Assembly_Notes.md
@@ -71,11 +73,15 @@
 09_Homebrewery/Book_01/Encounter_Conversions/EN-006_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-007_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-008_Publication_Conversion.md
+09_Homebrewery/Book_01/Front_Matter/FRONT_MATTER_PRODUCTION_LOCK_v1.0.md
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
+09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_Lock_v1.0.md
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
+12_Exports/Book01_Front_Matter_Locks_v1.0/EXPORT_MANIFEST.json
+12_Exports/Book01_Front_Matter_Locks_v1.0/README.md
 12_Exports/Book_01_Publication_Reconciliation_v1.0/CHANGELOG.md
 12_Exports/Book_01_Publication_Reconciliation_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book_01_Publication_Reconciliation_v1.0/README.md
