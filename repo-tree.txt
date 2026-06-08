@@ -13,11 +13,13 @@
 01_Frameworks/Explorer_Map_Directives.md
 01_Frameworks/Module_Pipeline_v0.07.md
 01_Frameworks/Pre_Chapter_01_Publication_Gate_v1.0.md
+01_Frameworks/Prompt_Traces/PROMPT_TRACE_System_Neutral_Publication_Framework_v1.0.txt
 01_Frameworks/Publication_Complete_Workflow_v1.0.md
 01_Frameworks/Publication_Workflow_v0_01.md
 01_Frameworks/Reward_Recovery_Frameworks.md
 01_Frameworks/Seven_Seals_Framework_v1.0.md
 01_Frameworks/Splatbook_Pipeline_v0.06.md
+01_Frameworks/System_Neutral_Publication_Framework_v1.0.md
 02_Core_Canon/Archive/Recovery/Floor_001_Core_Canon_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/Floor_001_Story_Summary_Reconstructed_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/README.md
@@ -197,6 +199,8 @@
 12_Exports/Region_001_Design_Lock_v1.0/CHANGELOG.md
 12_Exports/Region_001_Design_Lock_v1.0/EXPORT_MANIFEST.json
 12_Exports/Region_001_Design_Lock_v1.0/README.md
+12_Exports/System_Neutral_Publication_Framework_Update_v1.0/CHANGELOG.md
+12_Exports/System_Neutral_Publication_Framework_Update_v1.0/MANIFEST.md
 13_Audits/Canon_Audit_Region_001_v1.0.md
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
