@@ -1,0 +1,20 @@
+Chapter 00 Development Notes v1.0
+
+Completed Sections:
+- 0.1 Welcome to the Hollow Spire
+- 0.2 The Explorer Guild
+
+Locked Decisions:
+- Hybrid publication style
+- Professional narrator voice
+- In-world Guild sidebars
+- System-neutral publication language
+- No proprietary rules references
+- No Guild Marks
+
+Core Themes:
+- Exploration
+- Discovery
+- Restoration
+- Community
+- Leaving the world better than it was found
