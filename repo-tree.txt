@@ -105,6 +105,7 @@
 09_Homebrewery/Book_01/Art_Direction/Initial_Art_Assets_Lock_v1.0.md
 09_Homebrewery/Book_01/Asset_Manifest_v1.0.md
 09_Homebrewery/Book_01/Asset_Manifest_v1.1.md
+09_Homebrewery/Book_01/Audits/Chapter_00_Publication_Audit_v1.1.md
 09_Homebrewery/Book_01/BOOK_01_SCOPE_DECISIONS_v1.0.md
 09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md
 09_Homebrewery/Book_01/Book_01_Assembly_Notes.md
@@ -142,6 +143,7 @@
 09_Homebrewery/Book_01/Front_Matter/Title_Page.md
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Explorer_Guild_Primer_Publication_v1.0.md
+09_Homebrewery/Book_01/Manuscript/Chapter_00_Explorer_Guild_Primer_Publication_v1.1.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_03_Discovery_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_04_Contracts_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_05_Exploration_and_Danger_v1.0.md
@@ -150,6 +152,7 @@
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_08_Beginning_the_Journey_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Sections_05_06_Exploration_Danger_Horror_Wonder_v1.0.md
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Explorer_Guild_Primer_Publication_v1.0_Development_Notes.txt
+09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Explorer_Guild_Primer_Publication_v1.1_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_03_Discovery_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_04_Contracts_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_05_Development_Notes.txt
