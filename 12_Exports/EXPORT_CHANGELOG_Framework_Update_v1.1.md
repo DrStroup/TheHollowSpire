@@ -1,0 +1,1 @@
+Framework update v1.1: Removed discovery-only reward philosophy. Added Meaningful Reward Philosophy. Removed Guild Marks. Added audit rules.
