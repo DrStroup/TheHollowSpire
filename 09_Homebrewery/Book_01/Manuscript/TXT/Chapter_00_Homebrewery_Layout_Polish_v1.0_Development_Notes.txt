@@ -1,0 +1,12 @@
+Chapter 00 Layout Polish v1.0
+
+Purpose: improve visual layout after successful manuscript render.
+
+Targets:
+- Styled sidebars
+- Styled contract example
+- Less empty right-hand space
+- Preserve Chapter 0 manuscript content
+- Maintain current page sequence
+
+Instruction: replace the existing Chapter 0 manuscript block after the splash with the contents of Chapter_00_Homebrewery_Layout_Polish_v1.0_REPLACE_AFTER_SPLASH.md.
