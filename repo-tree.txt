@@ -109,6 +109,7 @@
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Plan_v1.0.md
+09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Layout_Polish_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Publication_Audit_v1.1.md
 09_Homebrewery/Book_01/BOOK_01_SCOPE_DECISIONS_v1.0.md
 09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md
@@ -164,6 +165,7 @@
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Explorer_Guild_Primer_Publication_v1.0_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Explorer_Guild_Primer_Publication_v1.1_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Homebrewery_Assembly_v1.0_Development_Notes.txt
+09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Homebrewery_Layout_Polish_v1.0_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_03_Discovery_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_04_Contracts_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_05_Development_Notes.txt
@@ -172,6 +174,7 @@
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Sections_05_06_Development_Notes.txt
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.2.md
+09_Homebrewery/Book_01/Source/Chapter_00_Homebrewery_Layout_Polish_v1.0_REPLACE_AFTER_SPLASH.md
 09_Homebrewery/Book_01/Source/Snippets/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.0_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.1_816x1056_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/Contents_Placeholder_Page_v1.0_Homebrewery.md
