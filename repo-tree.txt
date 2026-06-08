@@ -169,6 +169,8 @@
 12_Exports/Book01_Publication_Layout_Lock_v1.0/README.md
 12_Exports/Book_01_Assembly_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book_01_Homebrewery_Bootstrap_v1.0/EXPORT_MANIFEST.json
+12_Exports/Book_01_Publication_Audit_v1.1/CHANGELOG.md
+12_Exports/Book_01_Publication_Audit_v1.1/README.md
 12_Exports/Book_01_Publication_Reconciliation_v1.0/CHANGELOG.md
 12_Exports/Book_01_Publication_Reconciliation_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book_01_Publication_Reconciliation_v1.0/README.md
@@ -207,6 +209,7 @@
 12_Exports/Region_001_Design_Lock_v1.0/README.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/CHANGELOG.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/MANIFEST.md
+13_Audits/Book_01_Publication_Audit_v1.1.md
 13_Audits/Canon_Audit_Region_001_v1.0.md
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
 13_Audits/Floor_001/AUDIT_Floor_001_Bestiary.md
