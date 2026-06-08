@@ -67,6 +67,8 @@
 08_Art_Registry/Region_001_Map_Registry_v1.0.md
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Explorer_Guild_Primer_Splash_Page_Spec_v1.0.md
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.0.png
+09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.1_816x1056.png
+09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.1_816x1056_Spec.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Notes.md
 09_Homebrewery/Book_01/Art/Cover/Cover_Art_Prompt_History.txt
@@ -134,6 +136,7 @@
 09_Homebrewery/Book_01/HOMEBREWERY_STYLE_GUIDE_v1.0.md
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
 09_Homebrewery/Book_01/Source/Snippets/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.0_Homebrewery.md
+09_Homebrewery/Book_01/Source/Snippets/Chapter_00_Explorer_Guild_Primer_Splash_Page_v1.1_816x1056_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/Contents_Placeholder_Page_v1.0_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/Credits_Page_v1.0_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/Oath_of_the_Explorers_Guild_Page_v1.0_Homebrewery.md
