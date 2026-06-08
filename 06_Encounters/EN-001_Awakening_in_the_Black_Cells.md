@@ -8,7 +8,7 @@ Read-Aloud:
 Cold stone presses against your skin. For a moment you remember nothing. Then comes the sound. Water dripping somewhere beyond the darkness. The groan of ancient metal. A distant bell. One strike. Then silence. You awaken in a cell that should not exist. The door stands open.
 
 Rewards:
-Discovery Credits only.
+Meaningful rewards only. Use discoveries, clues, equipment access, or narrative outcomes as appropriate.
 
 Discovery Assets:
 Open Cell Graffiti, Prisoner Tallies, Prayer Alcove Records, Bell References.

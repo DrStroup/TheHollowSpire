@@ -1,0 +1,27 @@
+{
+  "export_name": "Book_01_Publication_Reconciliation_v1.2",
+  "status": "push_ready_delta",
+  "changed_files": [
+    "00_Project_Status/Next_Task_Recommendation_v1.0.md",
+    "01_Frameworks/Reward_Recovery_Frameworks.md",
+    "01_Frameworks/Encounter_Framework_v0.02.md",
+    "13_Audits/Publication_Audit_Rules_v1.1.md",
+    "09_Homebrewery/Book_01/Book_01_Publication_Audit.md",
+    "06_Encounters/EN-001_Awakening_in_the_Black_Cells.md",
+    "06_Encounters/EN-004_Iron_Rat_Colony.md",
+    "06_Encounters/EN-006_Silent_Jailer_Sighting.md",
+    "06_Encounters/EN-007_Lost_Child_Event.md",
+    "06_Encounters/EN-008_The_Breach_Crossing.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-001_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-002_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-003_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-004_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-005_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-006_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-007_Publication_Conversion.md",
+    "09_Homebrewery/Book_01/Encounter_Conversions/EN-008_Publication_Conversion.md",
+    "12_Exports/Book_01_Publication_Reconciliation_v1.2/README.md",
+    "12_Exports/Book_01_Publication_Reconciliation_v1.2/CHANGELOG.md",
+    "12_Exports/Book_01_Publication_Reconciliation_v1.2/EXPORT_MANIFEST.json"
+  ]
+}

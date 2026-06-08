@@ -10,7 +10,7 @@ Discovery Assets:
 Personal Observation Record, Witness Comparison Notes, Lantern Sketch.
 
 Rewards:
-Discovery Credits only.
+Meaningful rewards only. Prioritize foreshadowing, fear, map knowledge, and narrative consequences.
 
 Recoveries:
 None.

@@ -24,11 +24,17 @@ Expected Duration:
 
 ### Complications
 
-## Rewards
+## Rewards and Outcomes
 
-### Discovery Credits
+### Discoveries
 
-### Recoveries
+### Materials and Recoveries
+
+### Training or Techniques
+
+### Access, Routes, or Contacts
+
+### Settlement or Narrative Effects
 
 ## Scaling Guidance
 

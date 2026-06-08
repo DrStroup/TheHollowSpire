@@ -11,7 +11,7 @@ Discovery Assets:
 Rat Tunnel Sketches, Explorer Observation Notes, Colony Marker Diagram.
 
 Rewards:
-Discovery Credits and registered recoveries only.
+Meaningful rewards only. Prioritize discoveries, Iron Rat materials, salvage, and future contract hooks.
 
 Recoveries:
 Iron Rat Teeth, Rust Gland, Copper Whiskers, Core Fragment.

@@ -13,4 +13,4 @@ Discovery Assets:
 Witness Account, Observation Notes, Location Sketch, Recorded Memory Echo.
 
 Rewards:
-Discovery Credit or Recovery Cache.
+Meaningful rewards only. Prioritize moral consequence, unsettling discoveries, trust, or narrative progression.
