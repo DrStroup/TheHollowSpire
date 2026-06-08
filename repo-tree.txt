@@ -46,6 +46,10 @@
 03_Maps/Floor_001/Documentation/Map_Manifest_v0.03.md
 03_Maps/Region_001/README.md
 03_Maps/Region_001/Region_001_Overview_Map_v1.0.png
+04_Bestiary/01_Frameworks/Reward_Recovery_Frameworks.md
+04_Bestiary/12_Exports/EXPORT_CHANGELOG_Framework_Update_v1.2.md
+04_Bestiary/13_Audits/Book_01_Publication_Audit_v1.0.md
+04_Bestiary/13_Audits/Publication_Audit_Rules_v1.1.md
 04_Bestiary/BESTIARY-001_Iron_Rat.md
 04_Bestiary/BESTIARY-002_Broken_Custodian.md
 04_Bestiary/BESTIARY-003_Silent_Jailer.md
