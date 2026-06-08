@@ -12,7 +12,7 @@ It is not the full campaign.
 
 ## Recovered Chapter Structure
 
-### Chapter 0 — Running The Hollow Spire
+### Chapter 0 — The Explorer Guild Primer
 
 Establishes campaign identity.
 
