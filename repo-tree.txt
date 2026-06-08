@@ -20,6 +20,7 @@
 01_Frameworks/Seven_Seals_Framework_v1.0.md
 01_Frameworks/Splatbook_Pipeline_v0.06.md
 01_Frameworks/System_Neutral_Publication_Framework_v1.0.md
+01_Frameworks/System_Neutral_Publication_Framework_v1.1.md
 02_Core_Canon/Archive/Recovery/Floor_001_Core_Canon_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/Floor_001_Story_Summary_Reconstructed_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/README.md
@@ -175,6 +176,7 @@
 12_Exports/Chapter_00_Manuscript_Package_v1.0/README.md
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Cover_Art_Package_v1.0/README.md
+12_Exports/EXPORT_CHANGELOG_Framework_Update_v1.1.md
 12_Exports/EXPORT_CHANGELOG_v1.0.md
 12_Exports/Explorer_Guild_Crest_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Export_Rule_v0.03.md
@@ -211,6 +213,7 @@
 13_Audits/Floor_001/AUDIT_Floor_001_Maps.md
 13_Audits/Floor_001/AUDIT_Floor_001_NPCs.md
 13_Audits/Floor_001/AUDIT_Floor_01_Black_Cells_Core_Canon_v1.0.md
+13_Audits/Publication_Audit_Rules_v1.0.md
 13_Audits/Region_001/AUDIT_Floor_001_Homebrewery_Conflict_v1.0.md
 13_Audits/Region_001/AUDIT_Region_001_Design_Lock_v1.0.md
 MANIFEST.json
