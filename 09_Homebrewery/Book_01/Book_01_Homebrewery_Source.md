@@ -8,7 +8,7 @@
 > **Version:** v0.01  
 > **Project State Reference:** v0.04  
 > **Current Assembly Focus:** Floor 1 recovery and Book 01 structure  
-> **Format Target:** Homebrewery / 5e-compatible adventure module
+> **Format Target:** Homebrewery / system-neutral fantasy exploration campaign
 
 \page
 

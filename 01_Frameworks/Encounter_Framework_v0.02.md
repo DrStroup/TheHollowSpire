@@ -32,13 +32,34 @@ Before an encounter may be locked:
 
 ## Mechanical Audit Rule
 
-Every referenced mechanic must be:
-- Pathfinder 1e defined
+Every referenced mechanic must be one of the following:
+
+- System-neutral and publication safe
 - Hollow Spire defined
 - Explicitly narrative
+- Internal-only modern 2024 fantasy d20 reference material clearly marked as non-publication text
+
+Publication-facing encounter text must avoid proprietary game, setting, monster, class, spell, and rules-product names.
 
 ## Reward Audit Rule
 
-Only allowed rewards:
-- Discovery Credit
-- Recovery Cache
+Preferred rewards are discovery-based, restoration-based, access-based, reputation-based, or narrative.
+
+Allowed reward types include:
+
+- Discoveries
+- Recovery caches
+- Restored routes
+- Settlement trust
+- Equipment loans
+- Rare maps
+- Expedition support
+- New access
+- Historical records
+- Unique tools
+
+Deprecated reward types:
+
+- Guild Marks
+- Contract currency payouts as the default reward
+- Any subsystem that treats wealth accumulation as the main campaign driver

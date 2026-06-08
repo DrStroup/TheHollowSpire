@@ -122,7 +122,10 @@ When recovering old Hollow Spire material:
 When writing manuscript prose:
 
 - Use established canon.
-- Maintain Pathfinder 1e assumptions.
+- Maintain system-neutral publication language.
+- Use the internal modern 2024 fantasy d20 reference framework only for development balancing.
+- Avoid proprietary game, setting, monster, class, spell, and rules-product names in publication-facing text.
+- Do not use Guild Marks or any other invented currency as a contract reward subsystem.
 - Preserve the campaign pillars:
   - Exploration
   - Contribution

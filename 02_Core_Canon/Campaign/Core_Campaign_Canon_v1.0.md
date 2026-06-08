@@ -2,7 +2,9 @@
 
 ## System
 
-The Hollow Spire is designed for **Pathfinder 1e**.
+The Hollow Spire is a system-neutral fantasy exploration campaign.
+
+Internal development uses a modern 2024 fantasy d20 reference framework for encounter pacing, progression, and playtest assumptions. This reference is for development only. Publication-facing manuscripts should not require ownership of any proprietary rules product and should avoid proprietary game, setting, monster, class, spell, and rules-product names.
 
 ## Campaign Scale
 

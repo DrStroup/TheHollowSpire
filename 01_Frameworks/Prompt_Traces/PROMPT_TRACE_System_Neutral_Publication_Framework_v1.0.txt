@@ -1,0 +1,28 @@
+Prompt Trace — System Neutral Publication Framework v1.0
+
+Immediate User Request:
+The user asked to update the appropriate frameworks in the current repository structure before the audit pass. Required changes: shift from a named ruleset target to a system-neutral publication approach, avoid copyrighted or trademarked game names in publication material, and remove Guild Marks because the project is avoiding currencies where possible.
+
+Canon Assumptions Used:
+- The Hollow Spire remains an exploration-first campaign.
+- Explorer Guild, Seven Seals, Moon Lantern progression, Cycle of Recurrence, Warden Ledger, Truth as First Seal, Emberlight Village, Blackwater Run, Lantern Village, and Book 01 Floors 1-12 remain authoritative.
+- Rewards should support discovery, contribution, restoration, and legacy.
+
+Source Documents Updated:
+- 01_Frameworks/Bite_Sized_Production_Workflow_v1.0.md
+- 01_Frameworks/Encounter_Framework_v0.02.md
+- 02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md
+- 09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md
+
+New Document Created:
+- 01_Frameworks/System_Neutral_Publication_Framework_v1.0.md
+
+High-Level Reasoning:
+A named commercial ruleset should not appear as the publication target because the user wants to avoid proprietary names in manuscripts. The project still needs an internal mechanical reference for balance and playtest assumptions, so the framework now describes that reference generically as a modern 2024 fantasy d20 framework. Guild Marks were removed because they conflict with the currency-reduction philosophy and the user's current reward design direction.
+
+Unresolved Questions:
+- Whether older bestiary and encounter files contain system-specific mechanics that need conversion during the upcoming audit.
+- Whether Homebrewery source should receive a dedicated legal/style pass after Chapter 0 is assembled.
+
+Intended Next Step:
+Begin the audit pass using the new system-neutral publication framework as the controlling rule document.
