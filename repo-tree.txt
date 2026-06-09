@@ -73,6 +73,7 @@
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
 08_Art_Registry/Region_001_Map_Registry_v1.0.md
+09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_Asset_003A_Restoration_v1.0.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.0.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.1.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.2.md
@@ -86,6 +87,8 @@
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v2.8.md
 09_Homebrewery/Book_01/Art/Chapter_00/Artifacts/Asset_001_Explorer_Field_Note_v1.2.png
 09_Homebrewery/Book_01/Art/Chapter_00/Artifacts/Asset_002_Guild_Training_Excerpt_v1.0.png
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003A_Explorer_Guild_Certification_Stamp_v1.0_EXTRACTED.png
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003A_Explorer_Guild_Certification_Stamp_v1.4_Transparent.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003B_Guild_Certified_Contract_Posting_v1.1.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v2.png
@@ -126,6 +129,7 @@
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_001_Explorer_Field_Note_v1.2_Review.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_001_Status.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_002_Review_v1.0.md
+09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_Restoration_Review_v1.0.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_v1.0_Review.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_v1.2_Review.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003B_PreGeneration_Checklist_v1.0.md
@@ -192,6 +196,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset001_Review_Framework_Update_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Framework_Update_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Retirement_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003A_Restoration_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Revision_v1.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Specification_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_v1.1.md
@@ -214,6 +219,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Homebrewery_Workflow_Update_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_FinalPolish_v1.9.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_Header_Framework_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Production_Approval_Gate_v1.0.md
 09_Homebrewery/Book_01/Exports/Export_Changelog_Chapter00_FrameworkLock_v2.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Artifact_Authenticity_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Artifact_Library_Registry_Rule_v1.0.md
@@ -222,6 +228,7 @@
 09_Homebrewery/Book_01/Frameworks/Active/Asset_003B_Revision_Specification_v1.1.md
 09_Homebrewery/Book_01/Frameworks/Active/Asset_Reuse_Priority_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Certification_Stamp_Placement_Rule_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Chat_Asset_Prohibition_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Contract_System_Canon_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Faction_Crest_Registry_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Certification_Stamp_Framework_v2.0.md
@@ -230,6 +237,8 @@
 09_Homebrewery/Book_01/Frameworks/Active/HollowSpire_Diegetic_Information_Design_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/HollowSpire_Publication_Art_Frameworks_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/HollowSpire_Transit_And_Route_Integrity_Framework_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Production_Approval_Gate_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Production_Asset_Preservation_Rule_v1.1.md
 09_Homebrewery/Book_01/Frameworks/Active/README.md
 09_Homebrewery/Book_01/Frameworks/Archive/Artifact_Authenticity_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Archive/Artifact_Generation_Sequence_Rule_v1.0.md
