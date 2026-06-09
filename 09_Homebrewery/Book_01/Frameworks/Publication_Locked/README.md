@@ -1,0 +1,1 @@
+Locked frameworks referenced by publication work.
