@@ -189,6 +189,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset001_Review_Framework_Update_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Framework_Update_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Retirement_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Revision_v1.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Specification_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Art01_v2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Asset_Framework_Structure_v1.0.md
@@ -214,9 +215,13 @@
 09_Homebrewery/Book_01/Frameworks/Active/Artifact_Library_Registry_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Artifact_Placement_Size_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Asset_003B_Guild_Certified_Contract_Posting_Specification_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Asset_003B_Revision_Specification_v1.1.md
+09_Homebrewery/Book_01/Frameworks/Active/Asset_Reuse_Priority_Rule_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Certification_Stamp_Placement_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Contract_System_Canon_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Faction_Crest_Registry_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Certification_Stamp_Framework_v2.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Heraldry_Generation_Restriction_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Heraldry_and_Faction_Identity_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/Active/HollowSpire_Diegetic_Information_Design_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/HollowSpire_Publication_Art_Frameworks_v1.0.md
