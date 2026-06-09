@@ -1,13 +1,9 @@
 # Hollow Spire Visual Density Standard v1.0
 
-## Status
-LOCKED for Book 01 publication work.
+## Locked Rule
+Every content page in The Hollow Spire should contain at least one intentional visual element beyond normal text layout.
 
-## Rule
-Every designed content page must contain at least one intentional visual element beyond body text and a standard callout box.
-
-## Approved Visual Element Types
-A page may satisfy this standard with one or more of the following:
+Acceptable visual anchors include:
 
 1. Spot illustration
 2. Decorative chapter motif
@@ -19,17 +15,22 @@ A page may satisfy this standard with one or more of the following:
 8. Margin iconography
 
 ## Preferred Standard
-The preferred target is one major visual element plus one minor visual element per content page.
+A strong publication page should aim for:
+
+- one major visual element, and
+- one minor visual element,
+
+unless the page is intentionally text-forward for readability.
 
 ## Anti-Pattern
-Avoid pages that read only as:
+Avoid pages that resolve to:
 
-- running header
-- text block
-- generic sidebar
-- large blank space
+- running header,
+- text block,
+- generic sidebar,
+- large empty space.
 
-Such pages may be functional drafts, but they are not publication-complete.
+This pattern is considered draft layout, not final publication layout.
 
-## Design Intent
-The Hollow Spire should feel like an Explorer Guild field volume: handled, annotated, archived, and carried into the depths. Visual density should support immersion without damaging readability.
+## Chapter 0 Application
+Chapter 0 pages 10-16 currently need an art/layout redesign pass. They should not be considered complete until each page includes a visual anchor or diegetic artifact.

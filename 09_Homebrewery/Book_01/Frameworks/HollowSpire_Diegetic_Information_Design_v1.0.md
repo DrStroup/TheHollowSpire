@@ -1,32 +1,39 @@
 # Hollow Spire Diegetic Information Design v1.0
 
-## Status
-LOCKED for Book 01 publication work.
+## Locked Rule
+Whenever possible, recurring callouts should appear as in-world objects rather than generic sidebars.
 
-## Rule
-Recurring callouts should be treated as in-world artifacts whenever practical, not generic sidebars.
+The reader should feel as though they are handling Explorer Guild materials recovered from the world of the Hollow Spire.
 
-## Design Principle
-The reader should feel they are handling Explorer Guild materials: field notes, contracts, training pages, stamped reports, journal fragments, maps, and recovered documents.
+## Replaces
+Generic sidebar boxes should be gradually replaced by artifact-style assets.
 
-## Priority Artifact Types
-Replace generic sidebar boxes with visual artifact assets in this order:
+## Artifact Categories
 
-1. Explorer's Notes
-2. Guild Teachings
-3. Guild Training Manuals
-4. Contracts
-5. Recovered Journals
-6. Discovery Reports
-7. Route Maps / Map Fragments
+### Explorer Notes
+Use for practical expedition wisdom, field observations, and guiding philosophy.
+Visual identity: small field-journal sheet, explorer handwriting, lantern mark, travel wear.
 
-## Artifact Direction
-Explorer's Notes should feel like field journal pages or notebook scraps.
-Guild Teachings should feel like official instructional inserts.
-Contracts should feel like posted notices or stamped guild forms.
-Recovered Journals should feel worn, stained, and personal.
-Discovery Reports should feel archival and cataloged.
-Route Maps should feel folded, annotated, and travel-worn.
+### Guild Training Manuals
+Use for formal Guild doctrine, procedures, and institutional expectations.
+Visual identity: official document, Guild seal, clean typography, stamped approval.
 
-## Implementation Rule
-For early layout tests, CSS callouts may remain as placeholders. Before final publication signoff, recurring callout placeholders should be replaced or visually upgraded into diegetic artifact assets.
+### Contracts
+Use for example quests, jobs, settlement requests, and objectives.
+Visual identity: notice-board posting, wax seal, reward/objective sections, worn corners.
+
+### Recovered Journals
+Use for horror, wonder, foreshadowing, and first-person testimony.
+Visual identity: damaged paper, ink smears, water staining, torn edge.
+
+### Discovery Reports
+Use for catalogued findings, creatures, ruins, resources, and routes.
+Visual identity: archive form, sketches, labels, field classification.
+
+### Map Fragments
+Use for route context, travel sections, and spatial storytelling.
+Visual identity: torn map, route markings, danger symbols, marginal notes.
+
+## Layout Rule
+Artifact assets should be placed as part of page composition rather than treated as afterthought sidebars.
+They may overlap margins, sit beside text, anchor page bottoms, or replace standard callout boxes.
