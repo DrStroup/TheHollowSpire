@@ -110,6 +110,8 @@
 09_Homebrewery/Book_01/Asset_Manifest_v1.1.md
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Cleanup_Pass_v1.2.md
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
+09_Homebrewery/Book_01/Audits/Chapter00_Page09_to_Page16_Render_Audit_v1.4.md
+09_Homebrewery/Book_01/Audits/Chapter00_Page09_v1.5_Audit.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Plan_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Layout_Polish_Audit_v1.0.md
@@ -161,7 +163,9 @@
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Page09_HeaderFooter_Implementation_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Art_Frameworks_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_HeaderFooter_Framework_v2.0.md
+09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.4.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.1.md
+09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.5.md
 09_Homebrewery/Book_01/Frameworks/Homebrewery_Workflow_Framework_v1.0.md
 09_Homebrewery/Book_01/Front_Matter/Cover_Page.md
 09_Homebrewery/Book_01/Front_Matter/Credits_Page.md
@@ -179,6 +183,7 @@
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.1.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.2.md
+09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.5.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Explorer_Guild_Primer_Publication_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Explorer_Guild_Primer_Publication_v1.1.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_03_Discovery_v1.0.md
@@ -201,6 +206,8 @@
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.2.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.3.txt
+09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.4.md
+09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.5.md
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_Homebrewery_Insert_v1.0.md
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_v2_Manifest.md
 09_Homebrewery/Book_01/Source/Chapter_00_Homebrewery_Layout_Polish_v1.0_REPLACE_AFTER_SPLASH.md
@@ -294,3 +301,4 @@ MANIFEST_GitHub_Structure_Update_v1.0.json
 MANIFEST_Workflow_Update_v1.0.json
 README.md
 README_IMPORT_INSTRUCTIONS.md
+The_Hollow_Spire_Code_Page09_HeaderFramework_v1.5.txt
