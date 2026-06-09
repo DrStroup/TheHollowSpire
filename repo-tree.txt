@@ -87,10 +87,12 @@
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v2.1.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v2.2.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v2.4.md
+09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v2.5.md
 09_Homebrewery/Book_01/Art/Chapter_00/Artifacts/Asset_001_Explorer_Field_Note_v1.2.png
 09_Homebrewery/Book_01/Art/Chapter_00/Artifacts/Asset_002_Guild_Training_Excerpt_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003A_Explorer_Guild_Certification_Stamp_v1.0_EXTRACTED.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003A_Explorer_Guild_Certification_Stamp_v1.3_Transparent.png
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003A_Explorer_Guild_Certification_Stamp_v1.4_Transparent.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v2.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_Manifest_v1.0.md
@@ -131,6 +133,7 @@
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_001_Status.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_002_Review_v1.0.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_Generation_Review_v1.3.md
+09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_Transparency_Review_v1.4.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_v1.0_Review.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Asset_003A_v1.2_Review.md
 09_Homebrewery/Book_01/Art/Reviews/Chapter_00/Explorer_Field_Note_v1.1_Review.md
@@ -197,6 +200,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Retirement_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003A_Extraction_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003A_Git_Package_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003A_v1.4.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Certification_Stamp_Framework_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Art01_v2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Asset_Framework_Structure_v1.0.md
