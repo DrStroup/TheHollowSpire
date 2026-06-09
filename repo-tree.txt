@@ -26,6 +26,7 @@
 02_Core_Canon/Archive/Recovery/README.md
 02_Core_Canon/Campaign/Book_01_Narrative_Spine_v1.0.md
 02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md
+02_Core_Canon/Campaign/Core_World_Law_The_Spire_Resists_Escape_v1.0.md
 02_Core_Canon/Campaign/Explorer_Creed_v1.0.md
 02_Core_Canon/Campaign/Hollow_Spire_Campaign_Skeleton_v1.0.md
 02_Core_Canon/Campaign/Magical_Floors_And_Artifacts_v1.0.md
@@ -112,6 +113,7 @@
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter00_Page09_to_Page16_Render_Audit_v1.4.md
 09_Homebrewery/Book_01/Audits/Chapter00_Page09_v1.5_Audit.md
+09_Homebrewery/Book_01/Audits/Chapter_00_Framework_Update_Audit_v2.1.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Header_Audit_v1.7.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Header_Audit_v1.8.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Audit_v1.0.md
@@ -155,6 +157,7 @@
 09_Homebrewery/Book_01/Encounter_Conversions/EN-008_Publication_Conversion.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Art_Frameworks_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Art01_v2.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Framework_Update_v2.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_HeaderFramework_v1.6.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter_00_Art01_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter_00_Art_Manifest_v1.0.md
@@ -182,6 +185,7 @@
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.5.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Running_Header_Framework_LOCKED_v1.0.md
+09_Homebrewery/Book_01/Frameworks/HollowSpire_Transit_And_Route_Integrity_Framework_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Visual_Density_Standard_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Homebrewery_Workflow_Framework_v1.0.md
 09_Homebrewery/Book_01/Front_Matter/Cover_Page.md
@@ -207,6 +211,7 @@
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.5.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Explorer_Guild_Primer_Publication_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Explorer_Guild_Primer_Publication_v1.1.md
+09_Homebrewery/Book_01/Manuscript/Chapter_00_Insert_Travel_Within_The_Spire_v2.1.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_03_Discovery_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_04_Contracts_v1.0.md
 09_Homebrewery/Book_01/Manuscript/Chapter_00_Section_05_Exploration_and_Danger_v1.0.md
@@ -232,6 +237,7 @@
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.6.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.9.txt
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.9_BASELINE_BEFORE_CH00_REDESIGN.txt
+09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v2.1_BASELINE_BEFORE_CH00_REDESIGN.txt
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_Homebrewery_Insert_v1.0.md
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_v2_Manifest.md
 09_Homebrewery/Book_01/Source/Chapter_00_Homebrewery_Layout_Polish_v1.0_REPLACE_AFTER_SPLASH.md
@@ -276,6 +282,9 @@
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Book_01_Narrative_Spine_v1.0.md
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Region_001_Floor_By_Floor_Canon_v1.0.md
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Seven_Seals_Framework_v1.0.md
+12_Exports/Chapter_00_FrameworkLock_v2.1/Chapter_00_Framework_Update_Audit_v2.1.md
+12_Exports/Chapter_00_FrameworkLock_v2.1/EXPORT_CHANGELOG_Chapter00_Framework_Update_v2.1.md
+12_Exports/Chapter_00_FrameworkLock_v2.1/EXPORT_MANIFEST_Chapter_00_FrameworkLock_v2.1.md
 12_Exports/Chapter_00_Manuscript_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Chapter_00_Manuscript_Package_v1.0/README.md
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
