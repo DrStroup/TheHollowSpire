@@ -18,6 +18,7 @@
 01_Frameworks/Publication_Workflow_v0_01.md
 01_Frameworks/Reward_Recovery_Frameworks.md
 01_Frameworks/Seven_Seals_Framework_v1.0.md
+01_Frameworks/Seven_Seals_Framework_v2.0.md
 01_Frameworks/Splatbook_Pipeline_v0.06.md
 01_Frameworks/System_Neutral_Publication_Framework_v1.0.md
 01_Frameworks/System_Neutral_Publication_Framework_v1.1.md
@@ -242,6 +243,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_FinalPolish_v1.9.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_Header_Framework_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Production_Approval_Gate_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Seven_Seals_Framework_v2.0.md
 09_Homebrewery/Book_01/Exports/Export_Changelog_Chapter00_FrameworkLock_v2.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Administrative_Stamp_Placement_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Artifact_Authenticity_Rule_v1.0.md
@@ -251,6 +253,7 @@
 09_Homebrewery/Book_01/Frameworks/Active/Asset_003B_Rebuild_Generation_Prompt_v2.1.md
 09_Homebrewery/Book_01/Frameworks/Active/Asset_003B_Rebuild_Specification_v2.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Asset_003B_Revision_Specification_v1.1.md
+09_Homebrewery/Book_01/Frameworks/Active/Asset_004_Seven_Seals_Foreshadowing_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Asset_Reuse_Priority_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Certification_Stamp_Placement_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Chat_Asset_Prohibition_Rule_v1.0.md
@@ -457,6 +460,7 @@
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Book_01_Narrative_Spine_v1.0.md
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Region_001_Floor_By_Floor_Canon_v1.0.md
 12_Exports/Canon_Locks/Region_001_Canon_Locks_V1.0/Seven_Seals_Framework_v1.0.md
+12_Exports/Canon_Locks/Seven_Seals_Framework_v2.0/Seven_Seals_Framework_v2.0.md
 12_Exports/Chapter_00_FrameworkLock_v2.1/Chapter_00_Framework_Update_Audit_v2.1.md
 12_Exports/Chapter_00_FrameworkLock_v2.1/EXPORT_CHANGELOG_Chapter00_Framework_Update_v2.1.md
 12_Exports/Chapter_00_FrameworkLock_v2.1/EXPORT_MANIFEST_Chapter_00_FrameworkLock_v2.1.md
