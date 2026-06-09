@@ -5,6 +5,7 @@
 00_Project_Status/Project_Status_v0.02.md
 00_Project_Status/Repository_Cleanup_Plan_v0.03.md
 01_Frameworks/Art_Registry_Framework_v0.01.md
+01_Frameworks/Asset_004_Guild_Notice_Board_Framework_v1.0.md
 01_Frameworks/Bite_Sized_Production_Workflow_v1.0.md
 01_Frameworks/Book_01_Publication_Workflow_v2.0.md
 01_Frameworks/Canon_Export_Framework_v0.02.md
@@ -26,6 +27,8 @@
 02_Core_Canon/Archive/Recovery/Floor_001_Story_Summary_Reconstructed_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/README.md
 02_Core_Canon/Campaign/Book_01_Narrative_Spine_v1.0.md
+02_Core_Canon/Campaign/Canon/Common_Truths_Of_The_Spire_v1.0.md
+02_Core_Canon/Campaign/Canon/Spire_Transit_Law_v1.1.md
 02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md
 02_Core_Canon/Campaign/Core_World_Law_The_Spire_Resists_Escape_v1.0.md
 02_Core_Canon/Campaign/Explorer_Creed_v1.0.md
@@ -68,6 +71,7 @@
 07_Registries/Discovery_Archive_v0.01.md
 07_Registries/Floor_001_NPC_Recovery_Registry_v1.0.md
 07_Registries/Master_Recovery_Registry_v0.02.md
+08_Art_Registry/Asset_004_Guild_Notice_Board_Art_Direction_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_v1.0.md
 08_Art_Registry/Explorer_Guild_Crest_Art_Direction_v1.0.txt
@@ -154,6 +158,9 @@
 09_Homebrewery/Book_01/Art_Direction/Initial_Art_Assets_Lock_v1.0.md
 09_Homebrewery/Book_01/Asset_Manifest_v1.0.md
 09_Homebrewery/Book_01/Asset_Manifest_v1.1.md
+09_Homebrewery/Book_01/Assets/Asset_004/Asset_004A_Spire_Transit_Law.md
+09_Homebrewery/Book_01/Assets/Asset_004/Asset_004B_Common_Truths.md
+09_Homebrewery/Book_01/Assets/Asset_004/Asset_004_Placement_Notes.md
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Cleanup_Pass_v1.2.md
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter00_Page09_to_Page16_Render_Audit_v1.4.md
@@ -404,6 +411,7 @@
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Section_08_Development_Notes.txt
 09_Homebrewery/Book_01/Manuscript/TXT/Chapter_00_Sections_05_06_Development_Notes.txt
 09_Homebrewery/Book_01/PUBLICATION_CONVERSION_PLAN.md
+09_Homebrewery/Book_01/Publication/Page_12/Page_12_Guild_Notice_Board_v1.0.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_CURRENT.txt
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.2.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.3.txt
@@ -437,6 +445,9 @@
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
+12_Exports/Asset_004_Lock_Package_v1.0/CHANGELOG.md
+12_Exports/Asset_004_Lock_Package_v1.0/Prompt_Trace.md
+12_Exports/Asset_004_Lock_Package_v1.0/README.md
 12_Exports/Book01_Front_Matter_Lock_v1.1/EXPORT_MANIFEST.json
 12_Exports/Book01_Front_Matter_Locks_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book01_Front_Matter_Locks_v1.0/README.md
