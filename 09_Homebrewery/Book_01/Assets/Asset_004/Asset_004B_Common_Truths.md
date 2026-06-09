@@ -1,0 +1,1 @@
+See canon file: Common Truths of the Spire v1.0

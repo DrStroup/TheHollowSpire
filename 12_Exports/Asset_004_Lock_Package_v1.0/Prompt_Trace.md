@@ -1,0 +1,1 @@
+Derived from Asset_004 lock discussion.
