@@ -1,1 +1,0 @@
-Recovered from backup: 09_Homebrewery_Backup/Book_01/Art/Chapter_00/Assets/Asset_003A_Explorer_Guild_Certification_Stamp_v1.0_EXTRACTED.png
