@@ -79,6 +79,7 @@
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.3.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.4.md
 09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.5.md
+09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.6.md
 09_Homebrewery/Book_01/Art/Chapter_00/Artifacts/Asset_001_Explorer_Field_Note_v1.2.png
 09_Homebrewery/Book_01/Art/Chapter_00/Artifacts/Asset_002_Guild_Training_Excerpt_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v1.0.png
@@ -111,6 +112,7 @@
 09_Homebrewery/Book_01/Art/Maps/Region_001/Region_001_Map_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Maps/Region_001/Region_001_Map_Notes.md
 09_Homebrewery/Book_01/Art/Maps/Region_001/Region_001_Overview_Map_v1.0.png
+09_Homebrewery/Book_01/Art/Reference_Archive/Guild_Stamp_System/Guild_Stamp_System_Reference_v1.0.png
 09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Art_Direction_v1.0.txt
 09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Notes.md
 09_Homebrewery/Book_01/Art/Relics/Moon_Lantern/Moon_Lantern_Prompt_History.txt
@@ -190,6 +192,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter_00_Art01_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter_00_Art_Manifest_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Contract_Framework_Update_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Guild_Stamp_Framework_Lock_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_HeaderFooter_Framework_v2.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_HeaderFooter_Rule_Update_v1.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_HeaderFooter_Rule_Update_v1.2.md
@@ -204,6 +207,8 @@
 09_Homebrewery/Book_01/Frameworks/Certification_Stamp_Generation_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Contract_System_Canon_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Guild_Certification_Framework_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Guild_Stamp_Player_Communication_Rule_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Guild_Stamp_System_Framework_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Heraldry_and_Faction_Identity_Framework_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Heraldry_and_Faction_Identity_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Art_Production_Workflow_v1.0.md
