@@ -1,1 +1,3 @@
-Locked frameworks referenced by publication work.
+# Publication Locked Frameworks
+
+Authoritative production standards for Book 01.
