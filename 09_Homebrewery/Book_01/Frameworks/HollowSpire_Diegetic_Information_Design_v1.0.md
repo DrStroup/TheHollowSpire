@@ -37,3 +37,9 @@ Visual identity: torn map, route markings, danger symbols, marginal notes.
 ## Layout Rule
 Artifact assets should be placed as part of page composition rather than treated as afterthought sidebars.
 They may overlap margins, sit beside text, anchor page bottoms, or replace standard callout boxes.
+
+
+## Additional Locked Artifact Requirement — Travel Within the Spire
+Chapter 0 must include a Guild Training Manual or Guild field instruction artifact explaining that flight, teleportation, planar travel, and fast travel fail or are heavily suppressed within the Spire.
+
+This artifact should feel like common Explorer Guild doctrine, not a metagame warning. It should reinforce the importance of mapped routes, repaired roads, lantern posts, waystations, and backtracking.

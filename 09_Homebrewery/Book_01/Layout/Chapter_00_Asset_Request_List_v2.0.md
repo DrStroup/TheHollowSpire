@@ -2,6 +2,12 @@
 
 ## Priority 1 Assets
 
+### Guild_Transit_Law_Training_Excerpt_v1
+Purpose: Present the locked rule that flight, teleportation, planar travel, and fast travel fail within the Spire.
+Look: official Explorer Guild training sheet, stamped seal, route symbols, heavy black instructional typography, subtle pressure/weight motif.
+Text Treatment: preferably live Homebrewery text over a blank artifact frame for future wording adjustments.
+
+
 ### Explorer_Note_Template_v1
 Purpose: Replace Explorer Note sidebars.
 Look: field journal page, worn paper, lantern mark, hand annotations.

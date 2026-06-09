@@ -28,14 +28,17 @@ Potential Improvements:
 ### Page 10 — Guild Identity Page
 Content:
 - The Explorer Guild
-- Discovery
+- Travel Within the Spire
+- Discovery, if space allows or as a clean continuation onto Page 11
 
 Visual Anchor:
-- Guild Training Manual artifact or Guild seal watermark.
-- Discovery Report mini-form or annotated sketch.
+- Guild Training Manual artifact explaining the Spire transit law.
+- Guild seal watermark.
+- Discovery Report mini-form or annotated sketch if Discovery remains on this page.
 
-### Page 11 — Contracts Page
+### Page 11 — Discovery and Contracts Page
 Content:
+- Discovery
 - Contracts
 - Example Contract
 

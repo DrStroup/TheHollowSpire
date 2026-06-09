@@ -56,6 +56,13 @@ The Spire is dangerous, ancient, and often cruel, but the campaign should never 
 
 > No One Descends Alone.
 
+
+## Core World Law: The Spire Resists Escape
+
+The Hollow Spire resists flight, teleportation, planar travel, magical fast travel, and route-bypassing effects. Roads must be walked. Routes must be mapped. The campaign assumes that distance, descent, backtracking, supply lines, and restored passages remain meaningful throughout play.
+
+See: `Core_World_Law_The_Spire_Resists_Escape_v1.0.md`.
+
 ## Publication Note
 
 Book 01 covers Region 001: The Blackwater Warrens, Floors 1–12. It is the opening regional campaign book, not the full campaign, and culminates in the First Seal of Truth.
