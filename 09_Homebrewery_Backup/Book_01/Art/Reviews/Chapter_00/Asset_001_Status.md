@@ -1,1 +1,0 @@
-Asset_001 Explorer Field Note v1.2 — Prototype Approved. Visual Direction Locked.

@@ -1,6 +1,0 @@
-
-THE HOLLOW SPIRE
-BOOK I
-THE BLACKWATER WARRENS
-
-What Lies Beyond Is Worth Finding
