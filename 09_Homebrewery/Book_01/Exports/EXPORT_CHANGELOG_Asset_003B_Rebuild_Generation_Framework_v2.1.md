@@ -1,0 +1,1 @@
+Locked document production, frontier bureaucracy, signature visibility, and image generation specifications.
