@@ -73,6 +73,7 @@
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
 08_Art_Registry/Region_001_Map_Registry_v1.0.md
+09_Homebrewery/Book_01/Art/Artifact_Library/Artifact_Library_Registry_v1.0.md
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v2.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_Manifest_v1.0.md
@@ -93,6 +94,7 @@
 09_Homebrewery/Book_01/Art/Explorer_Guild_Oath/Oath_of_the_Explorers_Guild_Page_v1.0.png
 09_Homebrewery/Book_01/Art/Explorer_Guild_Oath/Oath_of_the_Explorers_Guild_Page_v1.1.png
 09_Homebrewery/Book_01/Art/Frameworks/Artifact_Generation_Workflow_v1.0.md
+09_Homebrewery/Book_01/Art/Frameworks/Artifact_Library_Registry_Rule_v1.0.md
 09_Homebrewery/Book_01/Art/Frameworks/Artifact_Library_Registry_v1.0.md
 09_Homebrewery/Book_01/Art/Frameworks/Faction_Crest_Registry_v1.0.md
 09_Homebrewery/Book_01/Art/Logos/Explorer_Guild_Crest/Explorer_Guild_Crest_Guidelines-v1.0.png
@@ -164,6 +166,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Art_Frameworks_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Art01_v2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Asset_Framework_Structure_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Asset_Framework_Update_v1.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Framework_Update_v2.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_HeaderFramework_v1.6.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Redesign_Implementation_v2.0.md
@@ -176,7 +179,10 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_FinalPolish_v1.9.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_Header_Framework_v1.0.md
 09_Homebrewery/Book_01/Exports/Export_Changelog_Chapter00_FrameworkLock_v2.0.md
+09_Homebrewery/Book_01/Frameworks/Artifact_Authenticity_Rule_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Artifact_Placement_Size_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Heraldry_and_Faction_Identity_Framework_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Heraldry_and_Faction_Identity_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Art_Production_Workflow_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Chapter_Compression_Standard_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Chapter_Layout_Template_v1.0.md
@@ -199,6 +205,7 @@
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Transit_And_Route_Integrity_Framework_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Visual_Density_Standard_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Homebrewery_Workflow_Framework_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Image_Generation_Review_Rule_v1.0.md
 09_Homebrewery/Book_01/Front_Matter/Cover_Page.md
 09_Homebrewery/Book_01/Front_Matter/Credits_Page.md
 09_Homebrewery/Book_01/Front_Matter/Dedication_Page.md
