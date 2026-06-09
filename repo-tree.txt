@@ -117,6 +117,7 @@
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Plan_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Layout_Polish_Audit_v1.0.md
+09_Homebrewery/Book_01/Audits/Chapter_00_Page09_FinalPolish_Audit_v1.9.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Publication_Audit_v1.1.md
 09_Homebrewery/Book_01/BOOK_01_SCOPE_DECISIONS_v1.0.md
 09_Homebrewery/Book_01/Book_01_Architecture_Recovery_v1.0.md
@@ -159,6 +160,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_HeaderFooter_Rule_Update_v1.1.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_HeaderFooter_Rule_Update_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Homebrewery_Workflow_Update_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_FinalPolish_v1.9.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Page09_Header_Framework_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Art_Production_Workflow_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_HeaderFooter_Rule_Update_v1.1.md
@@ -172,6 +174,7 @@
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.8.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.5.md
+09_Homebrewery/Book_01/Frameworks/HollowSpire_Running_Header_Framework_LOCKED_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Homebrewery_Workflow_Framework_v1.0.md
 09_Homebrewery/Book_01/Front_Matter/Cover_Page.md
 09_Homebrewery/Book_01/Front_Matter/Credits_Page.md
@@ -186,6 +189,7 @@
 09_Homebrewery/Book_01/Layout/Chapter_00_Art_01_Placement_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Chapter_00_Layout_Art_Placement_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Chapter_00_Page_Layout_Workflow_Notes_v1.0.md
+09_Homebrewery/Book_01/Layout/Page09_Final_Polish_Notes_v1.9.md
 09_Homebrewery/Book_01/Layout/Page09_HeaderFramework_Notes_v1.6.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.1.md
@@ -216,6 +220,7 @@
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.4.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.5.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.6.md
+09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.9.txt
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_Homebrewery_Insert_v1.0.md
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_v2_Manifest.md
 09_Homebrewery/Book_01/Source/Chapter_00_Homebrewery_Layout_Polish_v1.0_REPLACE_AFTER_SPLASH.md
