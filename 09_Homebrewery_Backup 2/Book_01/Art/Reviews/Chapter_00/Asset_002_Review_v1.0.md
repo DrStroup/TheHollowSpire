@@ -1,0 +1,1 @@
+Asset_002 Guild Training Excerpt v1.0 — Prototype Approved. Distinct official Guild document style validated.

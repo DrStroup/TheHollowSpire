@@ -1,0 +1,41 @@
+Chapter 00 — The Explorer Guild Primer Publication v1.1 Development Notes
+
+Purpose
+- Assembles sections 0.1 through 0.8 into a single authoritative Chapter 0 manuscript.
+- Supersedes scattered section files and earlier Chapter 0 drafts for publication manuscript use.
+- Preserves individual section exports as development history.
+
+Included Sections
+- 0.1 Welcome to the Hollow Spire
+- 0.2 The Explorer Guild
+- 0.3 Discovery
+- 0.4 Contracts
+- 0.5 Exploration & Danger
+- 0.6 Horror & Wonder
+- 0.7 Leave the World Better Than You Found It
+- 0.8 Beginning the Journey
+
+Assembly Corrections
+- Restored the full 0.5 manuscript text after the earlier placeholder export issue.
+- Included all drafted sidebars/callouts, including the Example Contract, Guild Teaching, and Traditional Guild Farewell.
+- Consolidated the Chapter 0 publication voice into one manuscript file.
+
+Locked Style Decisions
+- Hybrid publication style: professional narrator voice supported by in-world Explorer Guild excerpts.
+- System-neutral publication language.
+- No proprietary rules references.
+- No Guild Marks.
+- Rewards framed as meaningful outcomes rather than currency-first advancement.
+
+Canon/Theme Checks
+- Explorer Guild: Pass
+- Discovery: Pass
+- Contracts: Pass
+- Exploration and retreat: Pass
+- Horror and wonder tone: Pass
+- Leave the world better philosophy: Pass
+- Transition into Blackwater Warrens: Pass
+
+Next Recommended Step
+- Chapter 0 Homebrewery Assembly Pass v1.0.
+- Convert this unified manuscript into publication-ready Homebrewery pages following existing style and asset standards.
