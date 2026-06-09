@@ -150,6 +150,7 @@
 09_Homebrewery/Book_01/Encounter_Conversions/EN-008_Publication_Conversion.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Art_Frameworks_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_Art01_v2.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter00_HeaderFramework_v1.6.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter_00_Art01_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Chapter_00_Art_Manifest_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_HeaderFooter_Framework_v2.0.md
@@ -164,6 +165,7 @@
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Art_Frameworks_v1.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_HeaderFooter_Framework_v2.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.4.md
+09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.6.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.5.md
 09_Homebrewery/Book_01/Frameworks/Homebrewery_Workflow_Framework_v1.0.md
@@ -180,6 +182,7 @@
 09_Homebrewery/Book_01/Layout/Chapter_00_Art_01_Placement_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Chapter_00_Layout_Art_Placement_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Chapter_00_Page_Layout_Workflow_Notes_v1.0.md
+09_Homebrewery/Book_01/Layout/Page09_HeaderFramework_Notes_v1.6.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.0.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.1.md
 09_Homebrewery/Book_01/Layout/Page09_PublicationReady_Notes_v1.2.md
@@ -208,6 +211,7 @@
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.3.txt
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.4.md
 09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.5.md
+09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_v1.6.md
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_Homebrewery_Insert_v1.0.md
 09_Homebrewery/Book_01/Source/Chapter_00_Art_01_v2_Manifest.md
 09_Homebrewery/Book_01/Source/Chapter_00_Homebrewery_Layout_Polish_v1.0_REPLACE_AFTER_SPLASH.md
