@@ -204,6 +204,7 @@
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Framework_Update_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset003A_Retirement_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003A_Restoration_v1.0.md
+09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Publication_Framework_Update_v1.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Publication_v1.2.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Rebuild_Framework_Update_v2.0.md
 09_Homebrewery/Book_01/Exports/EXPORT_CHANGELOG_Asset_003B_Rebuild_Generation_Framework_v2.1.md
@@ -253,6 +254,7 @@
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Certification_Workflow_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Contract_Difficulty_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Document_Production_Rule_v1.0.md
+09_Homebrewery/Book_01/Frameworks/Active/Guild_Filing_Block_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Posting_Authenticity_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Guild_Signature_Visibility_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Heraldry_Generation_Restriction_v1.0.md
@@ -263,7 +265,9 @@
 09_Homebrewery/Book_01/Frameworks/Active/Player_Facing_Document_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Production_Approval_Gate_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/Production_Asset_Preservation_Rule_v1.1.md
+09_Homebrewery/Book_01/Frameworks/Active/Publication_Compositing_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Active/README.md
+09_Homebrewery/Book_01/Frameworks/Active/Stamp_Application_Workflow_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Archive/Artifact_Authenticity_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Archive/Artifact_Generation_Sequence_Rule_v1.0.md
 09_Homebrewery/Book_01/Frameworks/Archive/Artifact_Placement_Size_Rule_v1.0.md
