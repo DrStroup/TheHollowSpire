@@ -112,6 +112,7 @@
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter00_Page09_to_Page16_Render_Audit_v1.4.md
 09_Homebrewery/Book_01/Audits/Chapter00_Page09_v1.5_Audit.md
+09_Homebrewery/Book_01/Audits/Chapter_00_Header_Audit_v1.7.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Assembly_Plan_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter_00_Homebrewery_Layout_Polish_Audit_v1.0.md
@@ -166,6 +167,7 @@
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_HeaderFooter_Framework_v2.0.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.4.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.6.md
+09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Header_Framework_v1.7.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.1.md
 09_Homebrewery/Book_01/Frameworks/HollowSpire_Publication_Typography_Framework_v1.5.md
 09_Homebrewery/Book_01/Frameworks/Homebrewery_Workflow_Framework_v1.0.md
@@ -221,6 +223,7 @@
 09_Homebrewery/Book_01/Source/Snippets/Credits_Page_v1.0_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/Oath_of_the_Explorers_Guild_Page_v1.0_Homebrewery.md
 09_Homebrewery/Book_01/Source/Snippets/README.txt
+09_Homebrewery/Book_01/Source/The_Hollow_Spire_Code_Page09_HeaderFramework_v1.7.txt
 09_Homebrewery/Book_01/Standards/Draft/Publication_Workflow_Lock_v1.0.md
 09_Homebrewery/Book_01/Standards/Homebrewery_Asset_Standard_v1.0.md
 09_Homebrewery/Book_01/Style_Guide/Homebrewery_Style_Guide_Lock_v1.0.md
