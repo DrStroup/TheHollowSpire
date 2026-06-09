@@ -1,0 +1,1 @@
+Added filing block, publication compositing, and stamp workflow rules.
