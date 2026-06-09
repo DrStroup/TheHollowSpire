@@ -6,12 +6,14 @@
 00_Project_Status/Repository_Cleanup_Plan_v0.03.md
 01_Frameworks/Art_Registry_Framework_v0.01.md
 01_Frameworks/Asset_004_Guild_Notice_Board_Framework_v1.0.md
+01_Frameworks/Asset_Lock_Export_Checklist_v1.0.md
 01_Frameworks/Bite_Sized_Production_Workflow_v1.0.md
 01_Frameworks/Book_01_Publication_Workflow_v2.0.md
 01_Frameworks/Canon_Export_Framework_v0.02.md
 01_Frameworks/Completion_State_Framework_v0_02.md
 01_Frameworks/Encounter_Framework_v0.02.md
 01_Frameworks/Explorer_Map_Directives.md
+01_Frameworks/Export_Rule_v1.0.md
 01_Frameworks/Module_Pipeline_v0.07.md
 01_Frameworks/Pre_Chapter_01_Publication_Gate_v1.0.md
 01_Frameworks/Prompt_Traces/PROMPT_TRACE_System_Neutral_Publication_Framework_v1.0.txt
@@ -483,6 +485,10 @@
 12_Exports/EXPORT_CHANGELOG_v1.0.md
 12_Exports/Explorer_Guild_Crest_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Export_Rule_v0.03.md
+12_Exports/Export_Rule_v1.0/CHANGELOG.md
+12_Exports/Export_Rule_v1.0/Prompt_Trace.md
+12_Exports/Export_Rule_v1.0/README.md
+12_Exports/Export_Rule_v1.0/Repository_Placement_Notes.md
 12_Exports/Floor_001_Canon_Package_v1_0/CHANGELOG.md
 12_Exports/Floor_001_Canon_Package_v1_0/EXPORT_MANIFEST.json
 12_Exports/Floor_001_Canon_Package_v1_0/README.md
