@@ -1,16 +1,26 @@
 # Asset_004B Art Direction v1.0
 
-## Format
-Explorer Guild educational broadside / recruit handout.
+## Asset
+Common Truths Memorial Wall
 
-## Visual Intent
-Aged parchment, official but worn, suitable for a primer page or margin artifact. Should feel like a memorization sheet carried by new explorers.
+## Visual Concept
+A Lantern Village memorial wall built from weathered stone, surrounded by lanterns, repaired explorer gear, journals, packs, walking staffs, flowers, candles, keepsakes, and travel relics. The public Common Truths appear as carved memorial-style text in the central stone area.
 
-## Required Text Accuracy
-The seven lines must remain exact. If using image generation, text should be composited afterward or created directly in layout to avoid transcription errors.
+## Tone
+Reflective, hopeful, communal, enduring.
 
-## Crest Rule
-Explorer Guild crest may be used. Do not substitute a generic compass or unrelated heraldic mark.
+## Worldbuilding Function
+Complements Asset_004A. Asset_004A presents Explorer Guild transit law as recorded doctrine. Asset_004B presents pilgrim/community wisdom as legacy and remembrance.
 
-## Current Asset
-`Asset_004B_Common_Truths_of_the_Spire_v1.0.png` was created as a text-exact production draft using direct composition, not generative text.
+## Publication Use
+Designed as a Chapter 0 artifact image. Intended to support text on the page rather than replace the manuscript.
+
+## Key Requirements
+- No Seven Virtue labels in image.
+- No title line "THE COMMON TRUTHS" in image.
+- No new heraldry.
+- No invented faction symbols.
+- Memorial should read as community-owned, not religious, governmental, or Explorer Guild official.
+
+## Review Notes
+Final selected image has strong Hollow Spire identity through memorial objects, lanterns, explorer packs, journals, route artifacts, and the Lantern Village cavern atmosphere. The inscription is acceptable as a publication candidate, though future placement should verify legibility at final print size.
