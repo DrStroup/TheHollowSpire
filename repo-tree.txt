@@ -73,6 +73,7 @@
 07_Registries/Discovery_Archive_v0.01.md
 07_Registries/Floor_001_NPC_Recovery_Registry_v1.0.md
 07_Registries/Master_Recovery_Registry_v0.02.md
+08_Art_Registry/Asset_004A_Art_Direction_v0.9.md
 08_Art_Registry/Asset_004_Guild_Notice_Board_Art_Direction_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_v1.0.md
@@ -163,6 +164,7 @@
 09_Homebrewery/Book_01/Assets/Asset_004/Asset_004A_Spire_Transit_Law.md
 09_Homebrewery/Book_01/Assets/Asset_004/Asset_004B_Common_Truths.md
 09_Homebrewery/Book_01/Assets/Asset_004/Asset_004_Placement_Notes.md
+09_Homebrewery/Book_01/Assets/Asset_004A/README.txt
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Cleanup_Pass_v1.2.md
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
 09_Homebrewery/Book_01/Audits/Chapter00_Page09_to_Page16_Render_Audit_v1.4.md
@@ -447,6 +449,7 @@
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
+12_Exports/Asset_004A/Prompt_Trace_Asset_004A_v0.9.txt
 12_Exports/Asset_004_Lock_Package_v1.0/CHANGELOG.md
 12_Exports/Asset_004_Lock_Package_v1.0/Prompt_Trace.md
 12_Exports/Asset_004_Lock_Package_v1.0/README.md
