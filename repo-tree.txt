@@ -74,6 +74,7 @@
 07_Registries/Floor_001_NPC_Recovery_Registry_v1.0.md
 07_Registries/Master_Recovery_Registry_v0.02.md
 08_Art_Registry/Asset_004A_Art_Direction_v0.9.md
+08_Art_Registry/Asset_004A_Explorer_Guild_Travel_Ledger_Banner.md
 08_Art_Registry/Asset_004_Guild_Notice_Board_Art_Direction_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_v1.0.md
@@ -104,6 +105,7 @@
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003B_Guild_Certified_Contract_Posting_v1.2_Publication.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003B_Guild_Certified_Contract_Posting_v3.1.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Art_Direction_v0.9.md
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Explorer_Guild_Travel_Ledger_Banner_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Explorer_Journal_Transit_Law.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Prompt_Trace_v0.9.md
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/README.md
@@ -507,6 +509,7 @@
 12_Exports/Homebrewery_Style_Guide_Lock_v1.1/EXPORT_MANIFEST.json
 12_Exports/Moon_Lantern_Asset_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Moon_Lantern_Asset_Package_v1.0/README.md
+12_Exports/Prompt_Trace_Asset_004A_v1.0.txt
 12_Exports/Publication_Audit_Results_v0_01.md
 12_Exports/Recovery_Exports/Export_Changelog_Workflow_v1.0.md
 12_Exports/Recovery_Exports/Export_Changelog_v1.0.md
