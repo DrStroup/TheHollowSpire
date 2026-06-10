@@ -103,6 +103,10 @@
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003B_Guild_Certified_Contract_Posting_v1.1.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003B_Guild_Certified_Contract_Posting_v1.2_Publication.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_003B_Guild_Certified_Contract_Posting_v3.1.png
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Art_Direction_v0.9.md
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Explorer_Journal_Transit_Law.png
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Prompt_Trace_v0.9.md
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/README.md
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_01_The_First_Descent_v2.png
 09_Homebrewery/Book_01/Art/Chapter_00/Chapter_00_Art_Manifest_v1.0.md
@@ -164,6 +168,7 @@
 09_Homebrewery/Book_01/Assets/Asset_004/Asset_004A_Spire_Transit_Law.md
 09_Homebrewery/Book_01/Assets/Asset_004/Asset_004B_Common_Truths.md
 09_Homebrewery/Book_01/Assets/Asset_004/Asset_004_Placement_Notes.md
+09_Homebrewery/Book_01/Assets/Asset_004A/Asset_004A_Explorer_Journal_Transit_Law.png
 09_Homebrewery/Book_01/Assets/Asset_004A/README.txt
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Cleanup_Pass_v1.2.md
 09_Homebrewery/Book_01/Audits/09_Homebrewery_Replacement_Audit_v1.0.md
@@ -449,7 +454,8 @@
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
-12_Exports/Asset_004A/Prompt_Trace_Asset_004A_v0.9.txt
+12_Exports/Asset_004A/Prompt_Trace_Asset_004A_v0.9.md
+12_Exports/Asset_004A/README.md
 12_Exports/Asset_004_Lock_Package_v1.0/CHANGELOG.md
 12_Exports/Asset_004_Lock_Package_v1.0/Prompt_Trace.md
 12_Exports/Asset_004_Lock_Package_v1.0/README.md
