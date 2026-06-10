@@ -1,5 +1,4 @@
-
-THE HOLLOW SPIRE — ASSET_004A
+# The Hollow Spire — Asset_004A Prompt Trace v0.9
 
 Create a photorealistic tabletop RPG artifact.
 
@@ -14,7 +13,6 @@ LEFT PAGE
 A mixture of explorer observations and field sketches.
 
 Visible elements include:
-
 - a rough sketch of an unusual cave mushroom
 - a small drawing of a lantern beetle
 - route marker symbols
@@ -30,7 +28,6 @@ RIGHT PAGE
 A rough exploration map and travel notes.
 
 The map contains:
-
 - winding tunnels
 - route arrows
 - camp markers
@@ -40,17 +37,11 @@ The map contains:
 - discovery markers
 
 Handwritten travel notes include:
-
 "Camp two hours from bridge."
-
 "Flooded after rain."
-
 "Fuel cache."
-
 "Safe route confirmed."
-
 "Return before dusk bell."
-
 "Bridge unstable."
 
 Several routes should be crossed out and redrawn, showing active exploration and route planning.
@@ -84,13 +75,9 @@ A small brass compass.
 A worn lantern token.
 
 No desks.
-
 No treasure piles.
-
 No magical effects.
-
 No glowing runes.
-
 No fantasy clutter.
 
 The image should communicate that explorers discover many things, but every discovery still requires travel, preparation, mapping, and personal effort.
