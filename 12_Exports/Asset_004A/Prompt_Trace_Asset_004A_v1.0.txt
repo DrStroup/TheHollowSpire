@@ -1,0 +1,19 @@
+Asset_004A Prompt Trace v1.0
+
+Initial direction:
+Open explorer journal with field notes, map, and Transit Law.
+
+Publication testing:
+Homebrewery Pages 12–13 were tested using a full-width split banner layout. The initial journal image was too square and did not suit the banner space.
+
+Key layout discovery:
+The image must function as a panoramic two-page banner. The Transit Law must not sit directly on the gutter.
+
+Final art direction:
+A wide Explorer Guild travel ledger banner. Page 12 carries observation, discovery, preparation, and the Transit Law. Page 13 carries route mapping, navigation, Blackwater Run references, and survival notes.
+
+Final approved image:
+Asset_004A_Explorer_Guild_Travel_Ledger_Banner_v1.0.png
+
+Status:
+LOCKED v1.0

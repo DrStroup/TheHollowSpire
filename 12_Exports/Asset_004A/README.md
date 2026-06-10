@@ -1,16 +1,12 @@
-# Asset_004A — Explorer Journal Transit Law
+# Asset_004A Export Package v1.2
 
-## Correct Repo Location
-`09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/`
+This package replaces the previous incorrect image export.
 
-## Included Files
-- `Asset_004A_Explorer_Journal_Transit_Law.png`
-- `Asset_004A_Art_Direction_v0.9.md`
-- `Asset_004A_Prompt_Trace_v0.9.md`
+## Correct Image Included
+`09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Explorer_Guild_Travel_Ledger_Banner_v1.0.png`
 
 ## Status
-Pre-publication layout test.
+Asset_004A is locked as a two-page banner for Pages 12–13.
 
-## Next Step
-Push this folder, then provide the raw GitHub URL for:
-`09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/Asset_004A_Explorer_Journal_Transit_Law.png`
+## Notes
+Use this package instead of v1.1.
