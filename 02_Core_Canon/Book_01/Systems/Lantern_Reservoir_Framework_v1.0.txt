@@ -1,0 +1,27 @@
+LANTERN RESERVOIRS v1.0
+
+Reservoir upgrades permanently increase Stability.
+
+Examples:
+
+Reinforced Reservoir
++1 Stability
+
+Silver-Walled Reservoir
++2 Stability
+
+Saint-Lantern Reservoir
++3 Stability
+
+Moon-Touched Reservoir
++5 Stability
+
+Reservoirs are prestigious rewards.
+
+Sources:
+- Explorer Guild rewards
+- Expedition rewards
+- Ancient relics
+- Rare crafting projects
+
+Reservoir upgrades should be uncommon and meaningful.

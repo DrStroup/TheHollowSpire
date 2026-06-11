@@ -1,0 +1,57 @@
+THE HOLLOW SPIRE
+Lantern Oil Framework v1.0
+
+STATUS: PROVISIONALLY LOCKED
+
+CORE PRINCIPLE
+
+The limiting factor is not how much oil a party can carry.
+The limiting factor is how long Lantern Oil remains stable away from a valid source.
+
+LANTERN OIL STABILITY
+
+Oil degrades as explorers move farther from stable sources.
+
+Valid Sources:
+- Settlements
+- Lantern Shrines
+- Lantern Outposts
+- Sanctuaries
+
+These locations restore oil stability.
+
+STANDARD GUILD LANTERN
+
+Guild-Issue Reservoir Capacity:
+10 Stability
+
+Book 01 baseline expectation.
+
+TRAVEL
+
+Traveling to a new Zone Map consumes 1 Stability.
+
+Previously illuminated routes may be traversed freely during the same expedition.
+
+Returning to a valid source restores expedition state.
+
+RARE OILS
+
+Examples:
+- Refined Lantern Oil (+1 Stability)
+- Moon-Touched Oil (+2 Stability)
+- Saint's Reserve (+3 Stability)
+- Deepwell Distillate (+5 Stability)
+
+Rare oils are valuable exploration rewards.
+
+EXPLORATION PRESSURE
+
+Players should solve range problems through:
+- Route discovery
+- Shortcut discovery
+- Shrine restoration
+- Outpost restoration
+- Reservoir upgrades
+
+rather than carrying unlimited quantities of oil.

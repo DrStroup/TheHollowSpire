@@ -1,0 +1,14 @@
+EXPLORER GUILD INTEGRATION
+
+Explorer advancement may unlock:
+
+Explorer Certification I
++1 Reservoir Stability
+
+Explorer Certification II
+Access to Improved Reservoirs
+
+Explorer Certification III
+Master Explorer Reservoir Access
+
+Guild advancement should reinforce exploration capability rather than simple wealth.
