@@ -41,8 +41,11 @@
 02_Core_Canon/Book_01/Region_001/Region001_ThreatClock_Lock_v1.0.txt
 02_Core_Canon/Book_01/Region_001/Threat_Development_Notes_v1.0.txt
 02_Core_Canon/Book_01/Systems/Companion_Chip_Framework_v1.0.txt
+02_Core_Canon/Book_01/Systems/Explorer_Guild_Progression_Notes_v1.0.txt
 02_Core_Canon/Book_01/Systems/Explorers_Codex_Framework_v1.0.txt
 02_Core_Canon/Book_01/Systems/Hunts_Framework_v1.0.txt
+02_Core_Canon/Book_01/Systems/Lantern_Oil_Framework_v1.0.txt
+02_Core_Canon/Book_01/Systems/Lantern_Reservoir_Framework_v1.0.txt
 02_Core_Canon/Book_01/Systems/Region_Exploration_Framework_v1.0.txt
 02_Core_Canon/Book_01/Threats/Disoriented_Threat_Lock_v1.0.txt
 02_Core_Canon/Book_01/Threats/Finale_Threat_Development_Notes_v1.0.txt
@@ -561,6 +564,8 @@
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/EXPORT_MANIFEST.json
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/README.md
 12_Exports/Homebrewery_Style_Guide_Lock_v1.1/EXPORT_MANIFEST.json
+12_Exports/Lantern_Oil_Framework_v1.0/Prompt_Trace.txt
+12_Exports/Lantern_Oil_Framework_v1.0/README.txt
 12_Exports/Moon_Lantern_Asset_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Moon_Lantern_Asset_Package_v1.0/README.md
 12_Exports/Prompt_Trace_Asset_004A_v1.0.txt
