@@ -1,0 +1,15 @@
+PROMPT TRACE
+
+Session Outcome:
+
+Locked concept:
+The Monster Under the Bed is a disoriented, partially uncontained entity.
+
+Key decisions:
+- Not a conventional villain.
+- Not necessarily malicious.
+- Present from Act 1.
+- Functions as a ticking clock.
+- Acts as a dark mirror of the players.
+- Helps explain Blackwater Run and regional instability.
+- Supports the Truth theme by requiring investigation rather than simple combat.
