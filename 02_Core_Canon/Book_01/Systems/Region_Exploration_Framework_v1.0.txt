@@ -1,0 +1,44 @@
+
+THE HOLLOW SPIRE
+Region Exploration Framework v1.0
+
+Floors are composed of multiple Zone Maps.
+Zone Maps are the primary exploration unit.
+
+Lantern Oil:
+- 1 Oil per new Zone Map traveled.
+- Previously illuminated routes may be traversed freely during the same expedition.
+- Returning to a settlement, shrine, or safe outpost resets expedition state.
+
+Encounter Depth:
+1 Zone = 20%
+2 Zones = 40%
+3 Zones = 60%
+4 Zones = 80%
+5+ Zones = Escalating Risk
+
+Encounter Categories:
+- Discovery
+- Fauna
+- Environmental
+- Social
+- Threat
+- Wonder
+
+Discoveries are finite.
+Encounters are infinite.
+
+Each Floor should contain:
+- Primary Route
+- Optional Routes
+- Discovery Opportunities
+- Hunt Opportunities
+- Story Progression
+- Return Path
+
+Nib introduces:
+- Light
+- Lantern Oil
+- Mapping
+- Route Safety
+- Exploration Principles

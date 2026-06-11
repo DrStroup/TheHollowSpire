@@ -1,0 +1,1 @@
+Hunts are discovered, never assigned. Types: Observation, Harvest, Containment, Extermination. Hunts lead to mysteries, submaps, caches, and discoveries.

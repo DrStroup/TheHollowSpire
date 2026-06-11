@@ -1,0 +1,7 @@
+
+Derived from:
+- Lantern Oil design
+- Infinite encounters
+- Finite discoveries
+- Zone-based exploration
+- Nib tutorial framework

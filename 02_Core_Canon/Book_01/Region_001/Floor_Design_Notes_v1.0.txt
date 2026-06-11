@@ -1,0 +1,19 @@
+
+Next Milestone:
+Floor 1 Zone Structure v1.0
+
+Proposed Zones:
+- Cell Block A
+- Cell Block B
+- The Rotunda
+- Processing Wing
+- Collapsed Galleries
+- Warden Access
+- Exit Route
+
+Must include:
+- Nib integration
+- First Codex interaction
+- First threat signs
+- Exploration tutorial
+- Exit to Floor 2
