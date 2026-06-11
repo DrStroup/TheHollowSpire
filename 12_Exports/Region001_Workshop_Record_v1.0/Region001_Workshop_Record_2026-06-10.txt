@@ -1,0 +1,20 @@
+THE HOLLOW SPIRE — REGION 001 DEVELOPMENT WORKSHOP RECORD
+Date: 2026-06-10
+
+Chapter 00 Publication Pass v0.8 remains on hold.
+
+LOCKED DECISIONS
+- Exploration and Discovery are the primary Book 01 motivators.
+- Content mix target: 50% Exploration, 25% Social, 25% Combat.
+- Recurrence remains hidden and should never be explicitly revealed.
+- The Drowned King is not a Book 01 boss.
+- Blackwater Run may not actually be caused by the Drowned King.
+- St. Lantern's Vigil is a small pilgrimage and respite site built around the final known journal of St. Lantern.
+- Emberlight = First Hope.
+- Lantern Village = Civilization.
+- St. Lantern's Vigil = Reflection.
+- Moon Lantern Sanctuary = Revelation.
+- The Moon Lantern is earned through worthiness and exploration, not merely defeating the Keeper.
+
+NEXT MILESTONE
+Region_001_Floor_Skeleton_v1.0

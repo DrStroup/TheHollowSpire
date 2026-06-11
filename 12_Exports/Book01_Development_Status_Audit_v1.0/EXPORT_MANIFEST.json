@@ -1,0 +1,31 @@
+{
+  "package": "Book01_Development_Status_Audit_v1.0",
+  "project": "The Hollow Spire",
+  "book": "Book 01 \u2014 The Blackwater Warrens",
+  "purpose": "Post-Chapter 00 Publication Hold audit and next milestone roadmap",
+  "homebrewery_pages_modified": false,
+  "next_recommended_milestone": "Region_001_Playable_Development_Spine_v1.0",
+  "files": [
+    {
+      "path": "00_Project_Status/Book_01_Development_Status_Audit_v1.0.md"
+    },
+    {
+      "path": "02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md"
+    },
+    {
+      "path": "09_Homebrewery/Book_01/Development/Book_01_Publication_Readiness_Roadmap_v1.0.md"
+    },
+    {
+      "path": "12_Exports/Book01_Development_Status_Audit_v1.0/README.md"
+    },
+    {
+      "path": "12_Exports/Book01_Development_Status_Audit_v1.0/CHANGELOG.md"
+    },
+    {
+      "path": "12_Exports/Book01_Development_Status_Audit_v1.0/PROMPT_TRACE.txt"
+    },
+    {
+      "path": "12_Exports/Book01_Development_Status_Audit_v1.0/EXPORT_MANIFEST.json"
+    }
+  ]
+}
