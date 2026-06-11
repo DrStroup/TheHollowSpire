@@ -32,6 +32,8 @@
 02_Core_Canon/Book_01/Mysteries/BlackCells_Mystery_Development_v1.0.txt
 02_Core_Canon/Book_01/Region_001/BlackCells_Containment_Lock_v1.0.txt
 02_Core_Canon/Book_01/Region_001/Region001_ThreatClock_Lock_v1.0.txt
+02_Core_Canon/Book_01/Region_001/Threat_Development_Notes_v1.0.txt
+02_Core_Canon/Book_01/Threats/Disoriented_Threat_Lock_v1.0.txt
 02_Core_Canon/Book_01/Threats/Monster_Under_Bed_Threat_Development_v1.0.txt
 02_Core_Canon/Campaign/Book_01_Narrative_Spine_v1.0.md
 02_Core_Canon/Campaign/Canon/Common_Truths_Of_The_Spire_v1.0.md
@@ -527,6 +529,7 @@
 12_Exports/Chapter_00_Publication_Pass_v0.8/README.txt
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Cover_Art_Package_v1.0/README.md
+12_Exports/Disoriented_Threat_Lock_v1.0/Prompt_Trace.txt
 12_Exports/EXPORT_CHANGELOG_Framework_Update_v1.1.md
 12_Exports/EXPORT_CHANGELOG_v1.0.md
 12_Exports/Explorer_Guild_Crest_Package_v1.0/EXPORT_MANIFEST.json
