@@ -1,0 +1,56 @@
+THE HOLLOW SPIRE
+BOOK 01 — THE BLACKWATER WARRENS
+
+Black Cells Containment Lock v1.0
+Status: Provisional Canon Lock
+
+LOCKED DIRECTION
+
+1. THE BLACK CELLS ARE MORE THAN A NORMAL PRISON
+The opening prison should feel wrong.
+
+Cells, occupants, architecture, and surviving evidence should suggest
+that the facility served a purpose beyond conventional incarceration.
+
+The exact purpose remains unknown.
+
+2. THE PARTY'S FREEDOM COINCIDES WITH THE BREACH
+The breach and the party's release occur at the same time.
+
+However, it is not yet canonically established that the breach directly
+released the party.
+
+This ambiguity should be preserved.
+
+3. THE BREACH IS A SYMPTOM
+The breach is the first major visible sign that something within Region 001
+has changed.
+
+It should be treated as evidence of a larger problem rather than a complete
+explanation.
+
+4. THE HIDDEN THREAT REMAINS CONNECTED
+The threat responsible for the escalating crisis, Blackwater Run, and the
+need for the Moon Lantern may ultimately be connected to the same pattern
+of failures that produced the breach.
+
+Exact causation remains intentionally unresolved.
+
+5. ENDGAME COMPATIBILITY
+This lock is intended to remain compatible with future revelations regarding:
+- The Warden
+- The greater prison structure
+- Recurrence
+- The true purpose of the Hollow Spire
+
+No Book 01 content should explicitly reveal those answers.
+
+DESIGN GOAL
+
+Players should leave Floor 1 asking:
+
+"What happened here?"
+
+rather than
+
+"How do I escape?"
