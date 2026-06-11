@@ -1,4 +1,5 @@
 .github/workflows/update-tree.yml
+00_Project_Status/Book_01_Development_Status_Audit_v1.0.md
 00_Project_Status/Floor_001_Publication_Recovery_Audit_v0_01.md
 00_Project_Status/Next_Task_Recommendation_v1.0.md
 00_Project_Status/PROJECT_STATE.md
@@ -40,6 +41,7 @@
 02_Core_Canon/Campaign/Prompt_Traces/Hollow_Spire_Campaign_Skeleton_v1.0_prompt_chain.txt
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
+02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md
 02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md
 02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
@@ -223,6 +225,7 @@
 09_Homebrewery/Book_01/Chapter_00/EXPORT_MANIFEST_Chapter_00_Homebrewery_Assembly_v1.0.md
 09_Homebrewery/Book_01/Checklists/Chapter_00_Asset_Generation_Checklist_v1.0.md
 09_Homebrewery/Book_01/Checklists/Chapter_00_Asset_Generation_Checklist_v1.1.md
+09_Homebrewery/Book_01/Development/Book_01_Publication_Readiness_Roadmap_v1.0.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-001_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-002_Publication_Conversion.md
 09_Homebrewery/Book_01/Encounter_Conversions/EN-003_Publication_Conversion.md
@@ -477,6 +480,10 @@
 12_Exports/Asset_004_Lock_Package_v1.0/CHANGELOG.md
 12_Exports/Asset_004_Lock_Package_v1.0/Prompt_Trace.md
 12_Exports/Asset_004_Lock_Package_v1.0/README.md
+12_Exports/Book01_Development_Status_Audit_v1.0/CHANGELOG.md
+12_Exports/Book01_Development_Status_Audit_v1.0/EXPORT_MANIFEST.json
+12_Exports/Book01_Development_Status_Audit_v1.0/PROMPT_TRACE.txt
+12_Exports/Book01_Development_Status_Audit_v1.0/README.md
 12_Exports/Book01_Front_Matter_Lock_v1.1/EXPORT_MANIFEST.json
 12_Exports/Book01_Front_Matter_Locks_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book01_Front_Matter_Locks_v1.0/README.md
@@ -541,6 +548,8 @@
 12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt
 12_Exports/Recovery_Exports/STRUCTURE_MIGRATION_Region001_Canon_Reorg_v1.0.txt
 12_Exports/Region001_Map_Asset_Package_v1.0/EXPORT_MANIFEST.json
+12_Exports/Region001_Workshop_Record_v1.0/Prompt_Trace.txt
+12_Exports/Region001_Workshop_Record_v1.0/Region001_Workshop_Record_2026-06-10.txt
 12_Exports/Region_001_Design_Lock_v1.0/CHANGELOG.md
 12_Exports/Region_001_Design_Lock_v1.0/EXPORT_MANIFEST.json
 12_Exports/Region_001_Design_Lock_v1.0/README.md
