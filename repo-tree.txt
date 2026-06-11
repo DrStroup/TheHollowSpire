@@ -63,6 +63,9 @@
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
 02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Escaped_Entity_Framework_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Floor_001_Theme_Framework_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md
 02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md
 02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
@@ -106,6 +109,7 @@
 08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_v1.0.md
 08_Art_Registry/Explorer_Guild_Crest_Art_Direction_v1.0.txt
+08_Art_Registry/Floor_001/Floor_001_Art_Requirements_v1.0.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
 08_Art_Registry/Region_001_Map_Registry_v1.0.md
@@ -557,6 +561,8 @@
 12_Exports/Export_Rule_v1.0/Prompt_Trace.md
 12_Exports/Export_Rule_v1.0/README.md
 12_Exports/Export_Rule_v1.0/Repository_Placement_Notes.md
+12_Exports/Floor001_ZoneStructure_Export_v1.0.md
+12_Exports/Floor001_ZoneStructure_Export_v1.1.md
 12_Exports/Floor_001_Canon_Package_v1_0/CHANGELOG.md
 12_Exports/Floor_001_Canon_Package_v1_0/EXPORT_MANIFEST.json
 12_Exports/Floor_001_Canon_Package_v1_0/README.md
@@ -587,6 +593,7 @@
 12_Exports/Region_001_Design_Lock_v1.0/README.md
 12_Exports/Region_Exploration_Framework_v1.0/Prompt_Trace.txt
 12_Exports/Region_Exploration_Framework_v1.0/README.txt
+12_Exports/Session_Summary_v1.1.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/CHANGELOG.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/MANIFEST.md
 13_Audits/Book_01_Publication_Audit_v1.1.md
@@ -607,6 +614,8 @@
 MANIFEST.json
 MANIFEST_GitHub_Structure_Update_v1.0.json
 MANIFEST_Workflow_Update_v1.0.json
+Prompt_Trace/Floor001_ZoneStructure_PromptTrace_v1.0.md
+Prompt_Trace/Floor001_ZoneStructure_PromptTrace_v1.1.md
 README.md
 README_Chapter00_Backup_Checkpoint_v2.0.md
 README_IMPORT_INSTRUCTIONS.md
