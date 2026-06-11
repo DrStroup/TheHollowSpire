@@ -30,6 +30,7 @@
 02_Core_Canon/Archive/Recovery/README.md
 02_Core_Canon/Campaign/Book_01_Narrative_Spine_v1.0.md
 02_Core_Canon/Campaign/Canon/Common_Truths_Of_The_Spire_v1.0.md
+02_Core_Canon/Campaign/Canon/Common_Truths_Of_The_Spire_v1.1.md
 02_Core_Canon/Campaign/Canon/Spire_Transit_Law_v1.1.md
 02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md
 02_Core_Canon/Campaign/Core_World_Law_The_Spire_Resists_Escape_v1.0.md
@@ -76,6 +77,7 @@
 08_Art_Registry/Asset_004A_Art_Direction_v0.9.md
 08_Art_Registry/Asset_004A_Explorer_Guild_Travel_Ledger_Banner.md
 08_Art_Registry/Asset_004A_Explorer_Guild_Travel_Ledger_Banner_v1.0.md
+08_Art_Registry/Asset_004B_Common_Truths_Memorial_Wall_v1.0.md
 08_Art_Registry/Asset_004_Guild_Notice_Board_Art_Direction_v1.0.md
 08_Art_Registry/Book_01/Chapter_00/Chapter_00_Asset_Registry_Update_004A_004B_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
@@ -113,6 +115,7 @@
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004A/README.md
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004B/Asset_004B_Art_Direction_v1.0.md
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004B/Asset_004B_Canon_Lock_v1.0.md
+09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004B/Asset_004B_Common_Truths_Memorial_Wall_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004B/Asset_004B_Common_Truths_of_the_Spire_v1.0.png
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004B/Asset_004B_Prompt_Trace_v1.0.md
 09_Homebrewery/Book_01/Art/Chapter_00/Assets/Asset_004B/README.md
@@ -468,6 +471,9 @@
 12_Exports/Asset_004A/Prompt_Trace_Asset_004A_v1.0.txt
 12_Exports/Asset_004A/README.md
 12_Exports/Asset_004A_Placement_Lock_v1.0/Asset_004A_Placement_Lock_v1.0.md
+12_Exports/Asset_004B_Common_Truths_Memorial_Wall_v1.0/CHANGELOG.md
+12_Exports/Asset_004B_Common_Truths_Memorial_Wall_v1.0/EXPORT_MANIFEST.json
+12_Exports/Asset_004B_Common_Truths_Memorial_Wall_v1.0/README.md
 12_Exports/Asset_004_Lock_Package_v1.0/CHANGELOG.md
 12_Exports/Asset_004_Lock_Package_v1.0/Prompt_Trace.md
 12_Exports/Asset_004_Lock_Package_v1.0/README.md
