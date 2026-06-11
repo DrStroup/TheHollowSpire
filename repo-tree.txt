@@ -63,14 +63,21 @@
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
 02_Core_Canon/Campaign_Systems/Campaign_Tracking_Framework_v1.0.md
+02_Core_Canon/Campaign_Systems/Discovery_Architecture_v1.1.md
 02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md
 02_Core_Canon/Campaign_Systems/Discovery_Threshold_Framework_v1.0.md
+02_Core_Canon/Campaign_Systems/Encounter_Discovery_Registry_v1.0.md
+02_Core_Canon/Campaign_Systems/Encounter_Registry_Amendment_v1.1.md
+02_Core_Canon/Campaign_Systems/Explorer_Map_Contradictions_Registry_v1.0.md
+02_Core_Canon/Campaign_Systems/Guild_Research_Crafting_Framework_v1.0.md
+02_Core_Canon/Campaign_Systems/Loot_Registry_Amendment_v1.1.md
 02_Core_Canon/Campaign_Systems/Warden_Question_Framework_v1.0.md
 02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Escaped_Entity_Framework_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Explorer_Map_Contradictions_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor001_Discovery_Registry_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor001_Encounter_Registry_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Floor001_ExplorerMapContradictions_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor001_Loot_Registry_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor001_Starter_Discovery_Checklist_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor_001_Theme_Framework_v1.0.md
@@ -78,6 +85,7 @@
 02_Core_Canon/Region_001/Floor_001/Zone_01_Black_Cells_Content_Pass_v1.0.md
 02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md
 02_Core_Canon/Region_001/Region001_Discovery_Threshold_Notes_v1.0.md
+02_Core_Canon/Region_001/Region001_GuildResearchCrafting_Notes_v1.0.md
 02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
 02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md
@@ -565,6 +573,8 @@
 12_Exports/Disoriented_Threat_Lock_v1.0/Prompt_Trace.txt
 12_Exports/EXPORT_CHANGELOG_Framework_Update_v1.1.md
 12_Exports/EXPORT_CHANGELOG_v1.0.md
+12_Exports/EncounterDiscoveryRegistry_Export_v1.0.md
+12_Exports/ExplorerMapContradictions_Export_v1.0.md
 12_Exports/Explorer_Guild_Crest_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Explorers_Codex_Framework_v1.0/Development_Record.txt
 12_Exports/Explorers_Codex_Framework_v1.0/Export_Readme.txt
@@ -583,6 +593,7 @@
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/CHANGELOG.md
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/EXPORT_MANIFEST.json
 12_Exports/Floor_01_Black_Cells_Core_Canon_v1.0/README.md
+12_Exports/GuildResearchCrafting_Export_v1.0.md
 12_Exports/Homebrewery_Style_Guide_Lock_v1.1/EXPORT_MANIFEST.json
 12_Exports/Lantern_Oil_Framework_v1.0/Prompt_Trace.txt
 12_Exports/Lantern_Oil_Framework_v1.0/README.txt
@@ -611,6 +622,7 @@
 12_Exports/Session_Summary_v1.1.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/CHANGELOG.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/MANIFEST.md
+12_Exports/Takeoff_Notes_PostCraftingFramework_v1.0.md
 12_Exports/Takeoff_Notes_RegistryDevelopment_v1.0.md
 12_Exports/Takeoff_Notes_Remaining_Registries_v1.0.md
 12_Exports/Takeoff_Notes_Zone02_Rotunda_v1.0.md
@@ -634,8 +646,11 @@ MANIFEST_GitHub_Structure_Update_v1.0.json
 MANIFEST_Workflow_Update_v1.0.json
 Prompt_Trace/Black_Cells_Content_Pass_PromptTrace_v1.0.md
 Prompt_Trace/Discovery_Threshold_Framework_PromptTrace_v1.0.md
+Prompt_Trace/EncounterDiscoveryRegistry_PromptTrace_v1.0.md
+Prompt_Trace/ExplorerMapContradictions_PromptTrace_v1.0.md
 Prompt_Trace/Floor001_ZoneStructure_PromptTrace_v1.0.md
 Prompt_Trace/Floor001_ZoneStructure_PromptTrace_v1.1.md
+Prompt_Trace/GuildResearchCrafting_PromptTrace_v1.0.md
 Prompt_Trace/RegistryFrameworks_PromptTrace_v1.0.md
 README.md
 README_Chapter00_Backup_Checkpoint_v2.0.md
