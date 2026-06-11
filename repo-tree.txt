@@ -508,6 +508,10 @@
 12_Exports/Chapter_00_FrameworkLock_v2.1/EXPORT_MANIFEST_Chapter_00_FrameworkLock_v2.1.md
 12_Exports/Chapter_00_Manuscript_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Chapter_00_Manuscript_Package_v1.0/README.md
+12_Exports/Chapter_00_Publication_Pass_v0.8/Chapter_00_Deferred_Items.txt
+12_Exports/Chapter_00_Publication_Pass_v0.8/Next_Development_Direction.txt
+12_Exports/Chapter_00_Publication_Pass_v0.8/Publication_Status_Report.txt
+12_Exports/Chapter_00_Publication_Pass_v0.8/README.txt
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Cover_Art_Package_v1.0/README.md
 12_Exports/EXPORT_CHANGELOG_Framework_Update_v1.1.md
