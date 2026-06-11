@@ -1,0 +1,89 @@
+THE HOLLOW SPIRE
+BOOK 01 — THE BLACKWATER WARRENS
+
+Region 001 Threat Clock Lock v1.0
+Status: Provisional Canon Lock
+Date: 2026-06-10
+
+PURPOSE
+This file locks the current working direction for the primary hidden threat structure of Book 01, while preserving the right to revise exact creature identity, mechanics, and final encounter design during later floor development.
+
+LOCKED DIRECTION
+
+1. THE CREATURE IS PRESENT FROM ACT 1
+The entity currently referred to as "the monster under the bed" is present from the earliest section of Book 01.
+
+It should not be introduced only as a final boss or late-book surprise.
+
+Its presence should function as a ticking clock against the party and the settlements of Region 001.
+
+2. THE CREATURE IS NOT INITIALLY UNDERSTOOD
+The party may encounter signs, aftermath, movement, sounds, impossible damage, flooded ruins, missing people, or indirect evidence long before they understand what they are facing.
+
+Early encounters should create dread and curiosity, not a clear monster profile.
+
+The party should know something is wrong before they know what it is.
+
+3. THE CREATURE IS CONNECTED TO BLACKWATER RUN
+The same neglected threat that causes or contributes to Blackwater Run is also the danger that may eventually threaten Lantern Village.
+
+The Drowned King may be blamed by NPCs, pilgrims, explorers, or settlement rumors, but this should not be treated as confirmed truth.
+
+4. THE DROWNED KING IS NOT THE BOOK 01 BOSS
+The Drowned King remains a recurring horror presence, legend, environmental force, or future anti-villain.
+
+He is not fought as the primary Book 01 climax.
+
+He may be misunderstood, blamed, feared, or worked around in the upper levels.
+
+5. THE KEEPER NEGLECTED THE TRUE DUTY
+The Keeper's failure is not merely personal jealousy or villainy.
+
+The Keeper, or the institution surrounding the Moon Lantern, has remembered the symbol while neglecting the responsibility.
+
+The Moon Lantern is not simply a sacred object.
+It is a tool for seeing, revealing, monitoring, and understanding a danger that cannot otherwise be properly perceived.
+
+6. THE PARTY NEEDS THE MOON LANTERN FOR A PRACTICAL REASON
+The Moon Lantern is not only a reward or trophy.
+
+The party needs it because without it they cannot properly identify, track, understand, or prevent the threat from reaching Lantern Village.
+
+Truth has immediate stakes.
+
+7. THE KEEPER IS AMBIGUOUSLY LINKED TO SAINT LANTERN
+The current Keeper should not be confirmed as the Saint Lantern remembered by pilgrims and settlements.
+
+The Keeper may have been a Saint Lantern.
+The Keeper may have carried the lantern.
+The Keeper may be one of many bearers remembered under a single legend.
+The truth should remain ambiguous unless a later development pass intentionally changes this.
+
+8. THE KEEPER SHOULD BE THEMATICALLY COMPLEX
+Avoid reducing the Keeper to a simple villain.
+
+The Keeper may be right about some things and wrong about the central responsibility.
+
+The Keeper may believe the lantern must remain in place.
+The party may believe the lantern must be carried to protect Lantern Village.
+
+This creates conflict without flattening the Keeper into evil.
+
+9. BOOK 01 CLIMAX STRUCTURE
+Current working climax structure:
+
+- The Keeper functions as the thematic obstacle.
+- The hidden creature functions as the adventure threat.
+- The Moon Lantern reveals the party as worthy or necessary bearers.
+- The Keeper struggles to accept this truth.
+- The creature/threat forces immediate action.
+- The party earns the Moon Lantern because they seek truth rather than accept inherited assumptions.
+
+DESIGN PRINCIPLE
+Bad things happen when no one is paying attention.
+
+Explorers are the people who pay attention.
+
+REVISION NOTE
+This is a provisional canon lock.
+Exact creature identity, name, stat treatment, encounter form, and final outcome remain open for later Region_001_Floor_Skeleton and Floor_12 development passes.

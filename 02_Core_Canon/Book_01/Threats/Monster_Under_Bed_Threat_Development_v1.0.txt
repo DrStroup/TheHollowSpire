@@ -1,0 +1,69 @@
+THE HOLLOW SPIRE
+BOOK 01 — THREAT DEVELOPMENT FILE
+
+Working Threat: The Monster Under the Bed
+Version: v1.0 Provisional Development Lock
+
+FUNCTION
+This creature is the ticking clock of Book 01.
+
+It should be present from Act 1 through indirect contact, environmental signs, and escalating consequences.
+
+It is not merely a final boss.
+
+EARLY PRESENCE OPTIONS
+Floor 1:
+- Something moves beyond the flooded prison passages.
+- The party sees impossible damage or displaced stone.
+- A corridor collapses after something passes through a lower channel.
+- A sound is heard beneath the cells that no prisoner can explain.
+
+Floor 2:
+- Unrecognizable tracks or drag marks.
+- Floodwater moves against expected current.
+- A lantern station has gone dark from below.
+- Bodies or abandoned supplies imply sudden flight.
+
+Floor 3:
+- Emberlight locals mention missing travelers.
+- Residents blame the Drowned King.
+- The party learns that broken routes are becoming more common.
+
+Floor 4:
+- Lantern oil stations fail in a pattern.
+- A contract sends the party to repair or relight a route.
+- Evidence suggests the threat is moving, not stationary.
+
+Floor 5:
+- Blackwater rumors intensify.
+- Explorers vanish.
+- The party finds signs that the blamed cause does not match the evidence.
+
+Floor 6:
+- Blackwater Run culminates as a horror escape sequence.
+- The party survives the consequence, not the explanation.
+
+LATER ESCALATION
+Floors 7–9:
+- Lantern Village and St. Lantern's Vigil reveal social consequences.
+- Pilgrims, explorers, and villagers all have partial explanations.
+- The Drowned King remains the common scapegoat.
+
+Floors 10–12:
+- Contradictory evidence points toward the hidden truth.
+- The Moon Lantern becomes necessary.
+- The Keeper's neglect is revealed.
+- The threat can finally be perceived or understood.
+
+DESIGN NOTES
+The creature may not be evil in a simple sense.
+
+It may be:
+- ancient
+- territorial
+- disturbed
+- attracted by failing lantern networks
+- responding to a neglected duty
+- misunderstood by settlements
+
+Do not finalize the creature's exact nature until the floor skeleton and final Book 01 climax are developed.
