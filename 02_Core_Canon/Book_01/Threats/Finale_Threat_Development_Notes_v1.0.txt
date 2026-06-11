@@ -1,0 +1,32 @@
+THREAT DEVELOPMENT NOTES
+
+Current preferred structure:
+
+Book 01:
+- Introduction
+- Escalation
+- Blackwater Run
+- Lantern Village threat
+- Physical confrontation
+- Temporary resolution
+
+Future Books:
+- Additional encounters
+- Additional evidence
+- Expanded understanding
+- Relationship evolution
+
+Design Principle:
+
+The creature should remain larger than a single boss encounter.
+
+The encounter resolves the crisis.
+
+It does not resolve the mystery.
+
+Potential Long-Term Direction:
+
+The creature may remember encounters the party does not.
+
+This concept remains provisional and tied to broader recurrence-compatible
+development.
