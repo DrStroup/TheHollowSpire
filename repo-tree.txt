@@ -29,6 +29,10 @@
 02_Core_Canon/Archive/Recovery/Floor_001_Core_Canon_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/Floor_001_Story_Summary_Reconstructed_Recovered_v1.0.md
 02_Core_Canon/Archive/Recovery/README.md
+02_Core_Canon/Book_01/Mysteries/BlackCells_Mystery_Development_v1.0.txt
+02_Core_Canon/Book_01/Region_001/BlackCells_Containment_Lock_v1.0.txt
+02_Core_Canon/Book_01/Region_001/Region001_ThreatClock_Lock_v1.0.txt
+02_Core_Canon/Book_01/Threats/Monster_Under_Bed_Threat_Development_v1.0.txt
 02_Core_Canon/Campaign/Book_01_Narrative_Spine_v1.0.md
 02_Core_Canon/Campaign/Canon/Common_Truths_Of_The_Spire_v1.0.md
 02_Core_Canon/Campaign/Canon/Common_Truths_Of_The_Spire_v1.1.md
@@ -480,6 +484,8 @@
 12_Exports/Asset_004_Lock_Package_v1.0/CHANGELOG.md
 12_Exports/Asset_004_Lock_Package_v1.0/Prompt_Trace.md
 12_Exports/Asset_004_Lock_Package_v1.0/README.md
+12_Exports/BlackCells_Containment_Lock_v1.0/Prompt_Trace.txt
+12_Exports/BlackCells_Containment_Lock_v1.0/README.txt
 12_Exports/Book01_Development_Status_Audit_v1.0/CHANGELOG.md
 12_Exports/Book01_Development_Status_Audit_v1.0/EXPORT_MANIFEST.json
 12_Exports/Book01_Development_Status_Audit_v1.0/PROMPT_TRACE.txt
@@ -548,6 +554,8 @@
 12_Exports/Recovery_Exports/Repo_Tree_Additions_v1.0.txt
 12_Exports/Recovery_Exports/STRUCTURE_MIGRATION_Region001_Canon_Reorg_v1.0.txt
 12_Exports/Region001_Map_Asset_Package_v1.0/EXPORT_MANIFEST.json
+12_Exports/Region001_ThreatClock_Lock_v1.0/Prompt_Trace.txt
+12_Exports/Region001_ThreatClock_Lock_v1.0/README.txt
 12_Exports/Region001_Workshop_Record_v1.0/Prompt_Trace.txt
 12_Exports/Region001_Workshop_Record_v1.0/Region001_Workshop_Record_2026-06-10.txt
 12_Exports/Region_001_Design_Lock_v1.0/CHANGELOG.md
