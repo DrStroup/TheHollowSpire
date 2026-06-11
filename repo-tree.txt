@@ -62,11 +62,18 @@
 02_Core_Canon/Campaign/Prompt_Traces/Hollow_Spire_Campaign_Skeleton_v1.0_prompt_chain.txt
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
+02_Core_Canon/Campaign_Systems/Discovery_Threshold_Framework_v1.0.md
 02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Escaped_Entity_Framework_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Explorer_Map_Contradictions_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Floor001_Discovery_Registry_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Floor001_Encounter_Registry_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Floor001_Loot_Registry_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor_001_Theme_Framework_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md
+02_Core_Canon/Region_001/Floor_001/Zone_01_Black_Cells_Content_Pass_v1.0.md
 02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md
+02_Core_Canon/Region_001/Region001_Discovery_Threshold_Notes_v1.0.md
 02_Core_Canon/Region_001/Region_001_Canon_Lock_Addendum_v1.0.md
 02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md
 02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md
@@ -109,6 +116,7 @@
 08_Art_Registry/Book_01_Art_Registry_Moon_Lantern_Addendum_v1.0.md
 08_Art_Registry/Book_01_Art_Registry_v1.0.md
 08_Art_Registry/Explorer_Guild_Crest_Art_Direction_v1.0.txt
+08_Art_Registry/Floor_001/Black_Cells_Art_Direction_v1.0.md
 08_Art_Registry/Floor_001/Floor_001_Art_Requirements_v1.0.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.01.md
 08_Art_Registry/Floor_001_Art_Backlog_v0.02.md
@@ -549,6 +557,7 @@
 12_Exports/Chapter_00_Publication_Pass_v0.8/README.txt
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Cover_Art_Package_v1.0/README.md
+12_Exports/DiscoveryThreshold_Framework_Export_v1.0.md
 12_Exports/Disoriented_Threat_Lock_v1.0/Prompt_Trace.txt
 12_Exports/EXPORT_CHANGELOG_Framework_Update_v1.1.md
 12_Exports/EXPORT_CHANGELOG_v1.0.md
@@ -561,6 +570,7 @@
 12_Exports/Export_Rule_v1.0/Prompt_Trace.md
 12_Exports/Export_Rule_v1.0/README.md
 12_Exports/Export_Rule_v1.0/Repository_Placement_Notes.md
+12_Exports/Floor001_BlackCells_Content_Pass_Export_v1.0.md
 12_Exports/Floor001_ZoneStructure_Export_v1.0.md
 12_Exports/Floor001_ZoneStructure_Export_v1.1.md
 12_Exports/Floor_001_Canon_Package_v1_0/CHANGELOG.md
@@ -596,6 +606,8 @@
 12_Exports/Session_Summary_v1.1.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/CHANGELOG.md
 12_Exports/System_Neutral_Publication_Framework_Update_v1.0/MANIFEST.md
+12_Exports/Takeoff_Notes_RegistryDevelopment_v1.0.md
+12_Exports/Takeoff_Notes_Zone02_Rotunda_v1.0.md
 13_Audits/Book_01_Publication_Audit_v1.1.md
 13_Audits/Canon_Audit_Region_001_v1.0.md
 13_Audits/Floor_001/AUDIT_Floor_001_Art.md
@@ -614,6 +626,8 @@
 MANIFEST.json
 MANIFEST_GitHub_Structure_Update_v1.0.json
 MANIFEST_Workflow_Update_v1.0.json
+Prompt_Trace/Black_Cells_Content_Pass_PromptTrace_v1.0.md
+Prompt_Trace/Discovery_Threshold_Framework_PromptTrace_v1.0.md
 Prompt_Trace/Floor001_ZoneStructure_PromptTrace_v1.0.md
 Prompt_Trace/Floor001_ZoneStructure_PromptTrace_v1.1.md
 README.md
