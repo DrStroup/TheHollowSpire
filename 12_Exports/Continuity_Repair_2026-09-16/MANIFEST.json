@@ -1,0 +1,220 @@
+{
+  "baseline_commit": "9882bb145c04ffe61884b27922c30dac1c3db963",
+  "decision_ids": [
+    "DOC-001",
+    "CAN-001",
+    "CAN-002"
+  ],
+  "files": [
+    {
+      "path": ".github/workflows/continuity-check.yml",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "00_Project_Status/CANON_INDEX.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "00_Project_Status/CONTINUITY_ISSUES.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "00_Project_Status/DECISIONS.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "00_Project_Status/Next_Task_Recommendation_v1.0.md",
+      "action": "modify",
+      "previous_blob": "ebf8a8cca008e9e9b0907725c4701cc5092003fc"
+    },
+    {
+      "path": "00_Project_Status/PROJECT_STATE.md",
+      "action": "modify",
+      "previous_blob": "32b8c3e621198ca8108fc5f61e4251e4b2a0b7fe"
+    },
+    {
+      "path": "00_Project_Status/canon_index.json",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "01_Frameworks/Canon_Export_Framework_v0.02.md",
+      "action": "modify",
+      "previous_blob": "0371efa78bdfc1da751eceb2feda03713dade640"
+    },
+    {
+      "path": "01_Frameworks/Documentation_Continuity_Workflow.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "02_Core_Canon/Book_01/Systems/Explorers_Codex_Framework_v1.0.txt",
+      "action": "modify",
+      "previous_blob": "6875d13fe354ef95957755a259cd882d0579ecae"
+    },
+    {
+      "path": "02_Core_Canon/Book_01/Systems/Hunts_Framework_v1.0.txt",
+      "action": "modify",
+      "previous_blob": "46064afc5910b3df21e42f6ec1d289fecbf1b2e7"
+    },
+    {
+      "path": "02_Core_Canon/Campaign/Hollow_Spire_Campaign_Skeleton_v1.0.md",
+      "action": "modify",
+      "previous_blob": "2f97c71bfb2c4d79030c07e10c70d592209885ba"
+    },
+    {
+      "path": "02_Core_Canon/Campaign_Systems/Campaign_Tracking_Framework_v1.0.md",
+      "action": "modify",
+      "previous_blob": "a094f880a6f4a5c5f9943c9f84a653127c7dc7bd"
+    },
+    {
+      "path": "02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "02_Core_Canon/Campaign_Systems/Discovery_Architecture_v1.1.md",
+      "action": "modify",
+      "previous_blob": "52f6753f8576fe93f4d4778a9b8247c093d00dab"
+    },
+    {
+      "path": "02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md",
+      "action": "modify",
+      "previous_blob": "1d166a2ea42decf60f575660c377d645f498543c"
+    },
+    {
+      "path": "02_Core_Canon/Campaign_Systems/Encounter_Discovery_Registry_v1.0.md",
+      "action": "modify",
+      "previous_blob": "5800b9ed157cf6868976e245fcf9903618914591"
+    },
+    {
+      "path": "02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md",
+      "action": "modify",
+      "previous_blob": "688750dca17d4d2d09fbd70a308addbbf71e1b53"
+    },
+    {
+      "path": "02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md",
+      "action": "modify",
+      "previous_blob": "f022b883beefc7ba16fecca63dea580afbab74e6"
+    },
+    {
+      "path": "02_Core_Canon/Region_001/Region_001_Floor_By_Floor_Canon_v1.0.md",
+      "action": "modify",
+      "previous_blob": "e4343c12b0548eb63ff048465a34f6ba9921cbd8"
+    },
+    {
+      "path": "04_Bestiary/01_Frameworks/Reward_Recovery_Frameworks.md",
+      "action": "modify",
+      "previous_blob": "56b3a2419e71ebc015c1ae47a803526a4ef9f77b"
+    },
+    {
+      "path": "04_Bestiary/13_Audits/Publication_Audit_Rules_v1.1.md",
+      "action": "modify",
+      "previous_blob": "06ab03813fedd29fc6af02ce5fe2376dd90ba633"
+    },
+    {
+      "path": "05_NPCs/NPC-001_Nib.md",
+      "action": "modify",
+      "previous_blob": "e77bae0ccfc520f3097298ac8e75ae75b4676afa"
+    },
+    {
+      "path": "06_Encounters/EN-003_Meeting_Nib.md",
+      "action": "modify",
+      "previous_blob": "36feb6052c75981f81d00d1dec1461eab4f149fe"
+    },
+    {
+      "path": "07_Registries/Discovery_Aliases.json",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "07_Registries/Discovery_Archive_v0.01.md",
+      "action": "modify",
+      "previous_blob": "350a6cd71e141841137e2ac603d4bace0dffb411"
+    },
+    {
+      "path": "07_Registries/Master_Recovery_Registry_v0.02.md",
+      "action": "modify",
+      "previous_blob": "2da879f8ca980772b2a08730d69cde52b5f752dc"
+    },
+    {
+      "path": "09_Homebrewery/Book_01/Table_Of_Contents_v1.1.md",
+      "action": "modify",
+      "previous_blob": "a990b1cf251db04c80720a9ea5fa5f60b244f885"
+    },
+    {
+      "path": "11_Timeline/README.md",
+      "action": "modify",
+      "previous_blob": "88f5e4f06b9a1778caf6178a471283d8489efe3c"
+    },
+    {
+      "path": "11_Timeline/SESSION_LOG_TEMPLATE.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "11_Timeline/WORLD_TIMELINE.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "12_Exports/Continuity_Repair_2026-09-16/CHANGELOG.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "12_Exports/Continuity_Repair_2026-09-16/MANIFEST.json",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "12_Exports/Continuity_Repair_2026-09-16/PROMPT_TRACE.txt",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "12_Exports/Continuity_Repair_2026-09-16/README.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "13_Audits/Floor_001/AUDIT_Floor_001_Canon_Conflict_v1.0.md",
+      "action": "modify",
+      "previous_blob": "f2fba9d4b4b6c77889cfb72c5fd7f42cb901ee83"
+    },
+    {
+      "path": "13_Audits/Floor_001/AUDIT_Floor_001_Canon_Reconciliation_v1.0.md",
+      "action": "modify",
+      "previous_blob": "ce3f1e4fc8d3bc99b28de6fb661e0588c7ff6ade"
+    },
+    {
+      "path": "AGENTS.md",
+      "action": "add",
+      "previous_blob": null
+    },
+    {
+      "path": "README.md",
+      "action": "modify",
+      "previous_blob": "350942992e4f02c094b1b67f0d9bf7f44f6c4d29"
+    },
+    {
+      "path": "repo-tree.txt",
+      "action": "modify",
+      "previous_blob": "8818c44a22ac64fb55b6ed7e123fac183177f536"
+    },
+    {
+      "path": "scripts/check_continuity.py",
+      "action": "add",
+      "previous_blob": null
+    }
+  ],
+  "limitations": [
+    "No visual audit",
+    "No full historical reconstruction",
+    "Open decisions listed in CONTINUITY_ISSUES.md"
+  ]
+}

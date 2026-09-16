@@ -1,25 +1,11 @@
-# Region_001_Floor_By_Floor_Canon_v1.0
+# Region 001 floor progression
 
-## Locked Progression
+Status: Current reference; obsolete progression superseded on 2026-09-16.
 
-Prison Cells
--> Emberlight Village
--> Blackwater Run
--> Lantern Village
--> Floors 4-12
+Use the [Region 001 Design Lock](Region_001_Design_Lock_v1.0.md) as the single authoritative numbered floor list.
 
-## Locked Elements
+The former “Lantern Village → Floors 4–12” sequence is retired. Lantern Village is Floor 07; Emberlight is Floor 03 and Blackwater Run is Floor 06.
 
-- Emberlight Village is the first settlement.
-- Blackwater Run is the horror evacuation sequence.
-- Lantern Village is the primary Book 01 hub.
-- Moon Lantern acquired around Floor 10.
-- First Seal acquired on Floor 12.
-- First Seal = Truth.
+Moon Lantern progression and the First Seal remain governed by the regional design and campaign canon. The emotional arc describes theme, not an alternative floor order.
 
-## Book Arc
-
-Hope -> Loss -> Wonder -> Discovery -> Purpose
-
-Status:
-FOUNDATIONAL CANON LOCK
+Decision: DOC-001 in [DECISIONS.md](../../00_Project_Status/DECISIONS.md).

@@ -1,6 +1,6 @@
 # The Hollow Spire — Worldgen Skeleton v1.0
 
-**File Path:** `02_Core_Canon/00_Worldgen/Hollow_Spire_Worldgen_Skeleton_v1.0.md`  
+**File Path:** `02_Core_Canon/Campaign/Hollow_Spire_Campaign_Skeleton_v1.0.md`  
 **Status:** Locked Draft v1.0  
 **Purpose:** Campaign-wide world generation and reference skeleton for all future region, book, settlement, artifact, seal, encounter, and manuscript work.
 
@@ -252,19 +252,9 @@ Associated Artifact: Moonlight Lantern / Moon Lantern
 Core Meaning: The courage to see clearly.  
 Function: Reveals hidden paths, concealed meanings, false histories, and truths obscured by darkness or deception.
 
-### Working Virtue Chain
+### Authoritative virtue chain
 
-This chain is provisional but usable until revised.
-
-| Seal | Virtue | Core Meaning |
-|---|---|---|
-| 1 | Truth | See clearly |
-| 2 | Hope | Continue despite darkness |
-| 3 | Mercy | Spare what can be saved |
-| 4 | Courage | Face impossible odds |
-| 5 | Wisdom | Understand before acting |
-| 6 | Sacrifice | Give without guarantee |
-| 7 | Legacy | Leave the world better |
+The former provisional list is superseded by [Seven Seals Framework v2.0](../../01_Frameworks/Seven_Seals_Framework_v2.0.md). Use that source for virtue names, order, and the Warden's judgment framework. The former list remains in Git history; it is not a selectable alternative.
 
 The seals should not feel like abstract collectibles. Each should be tied to a major artifact, a regional crisis, a moral challenge, and a lasting transformation in how the party understands the Spire.
 
@@ -504,10 +494,10 @@ The following principles are locked for now and should guide future documents:
 
 These questions remain intentionally unresolved:
 
-1. Are the seals literal virtues, or artifacts that teach virtues?
+1. The Seven Seals v2.0 establishes virtues and judgments; their exact physical manifestation and artifact relationships beyond the established material remain open.
 2. Are seals carried, awakened, consumed, or integrated into the Spire?
 3. What is the Warden's true nature?
-4. What is the final emotional meaning of Seal 7?
+4. How will Seal VII — Hope be expressed in its regional story?
 5. How many regions/floors should each book cover?
 6. What are the exact names of Books 2–8?
 7. What are the artifacts associated with Seals 2–7?
@@ -520,10 +510,9 @@ These questions remain intentionally unresolved:
 
 Suggested next skeleton chain:
 
-1. `02_Core_Canon/00_Worldgen/Hollow_Spire_Campaign_Book_Structure_v1.0.md`
-2. `02_Core_Canon/00_Worldgen/Seven_Seals_Core_Canon_v1.0.md`
-3. `02_Core_Canon/00_Worldgen/Explorer_Guild_Core_Canon_v1.0.md`
-4. `02_Core_Canon/00_Worldgen/Settlement_Design_Framework_v1.0.md`
+1. `02_Core_Canon/Campaign/Hollow_Spire_Campaign_Book_Structure_v1.0.md`
+2. `02_Core_Canon/Campaign/Seven_Seals_Core_Canon_v1.0.md`
+3. `02_Core_Canon/Campaign/Explorer_Guild_Core_Canon_v1.0.md`
+4. `02_Core_Canon/Campaign/Settlement_Design_Framework_v1.0.md`
 5. `02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.1.md`
 6. `02_Core_Canon/Region_001/Region_001_Floor_By_Floor_Canon_v1.0.md`
-

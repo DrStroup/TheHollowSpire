@@ -2,7 +2,7 @@
 ## The Blackwater Warrens
 
 **Project:** The Hollow Spire  
-**Book:** Book 01 — The Light Below  
+**Book:** Book 01 — The Blackwater Warrens  
 **Level Range:** 3–6  
 **Status:** Active canon skeleton draft  
 **Canon Authority:** Supersedes recovered Floor 001 prison-first canon for future Book 01 development.

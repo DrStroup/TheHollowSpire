@@ -1,5 +1,7 @@
 # AUDIT_Floor_001_Canon_Conflict_v1.0
 
+> Historical audit snapshot. Current issue status is tracked in [CONTINUITY_ISSUES.md](../../00_Project_Status/CONTINUITY_ISSUES.md). This file preserves the original findings rather than declaring all of them still open.
+
 Status: OPEN
 
 Purpose:

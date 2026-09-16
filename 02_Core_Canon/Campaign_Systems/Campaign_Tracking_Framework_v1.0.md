@@ -185,7 +185,7 @@ The DM tracks:
 - Escalation or de-escalation.
 - Whether the encounter affects Discovery.
 
-## 5. Hunt Progress
+## 5. Codex/Hunt Investigation Progress
 
 The DM tracks:
 
@@ -196,11 +196,11 @@ The DM tracks:
 - Rewards unlocked.
 - Whether the Hunt has been understood by players.
 
-Hunts are discovered, not posted.
+Hunts are discovered, not posted. They are activities within the integrated Codex system, not a separate progression track. See [Codex/Hunts integration](Codex_Hunts_Integration.md).
 
-## 6. Codex Progress
+## 6. Other Fields in the Same Codex Record
 
-The DM tracks:
+The same integrated record also tracks:
 
 - Hidden Codex categories.
 - Entry completion.

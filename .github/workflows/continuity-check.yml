@@ -1,0 +1,18 @@
+name: Check continuity records
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  continuity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate managed documentation
+        run: python3 scripts/check_continuity.py

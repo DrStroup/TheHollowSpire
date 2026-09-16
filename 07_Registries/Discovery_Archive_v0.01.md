@@ -6,8 +6,8 @@
 4. DA-004 Rotunda Survey Marks — EN-002
 5. DA-005 Mechanism Notes — EN-002
 6. DA-006 Explorer Route Records — EN-002
-7. DA-007 Nib's Sketches — EN-003
-8. DA-008 Improvised Route Map — EN-003
+7. DA-007 Nib's Sketches — RETIRED from EN-003; CAN-001
+8. DA-008 Improvised Route Map — RETIRED from EN-003; CAN-001
 9. DA-009 Rat Tunnel Sketches — EN-004
 10. DA-010 Colony Marker Diagram — EN-004
 11. DA-011 Repair Directive Tablet — EN-005

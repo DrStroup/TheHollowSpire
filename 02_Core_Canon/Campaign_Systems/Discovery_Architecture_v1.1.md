@@ -1,30 +1,20 @@
+# Discovery Architecture
 
-# Discovery Architecture v1.1
+Status: Current clarification, 2026-09-16.
+Sources: [Codex/Hunts integration](Codex_Hunts_Integration.md), [Discovery Registry](Discovery_Registry_Framework_v1.0.md).
 
-Layer 1 — Floor Discovery Checklist
-Tracks static discoveries tied to zones.
+## Views of discoveries
 
-Examples:
-- The Prison No Longer Functions
-- Explorer Map #17
+1. Floor checklist: findings tied to zones.
+2. Encounter checklist: findings arising from encounters.
+3. Integrated Codex/Hunt record: observations, evidence, samples, and investigation progress.
 
-Layer 2 — Encounter Discovery Checklist
-Tracks discoveries created through encounters.
+These are views into shared findings, not independent pools of rewards. Hunt is an activity within the Codex system.
 
-Examples:
-- Iron Rats Explain Prison Decay
-- Crystal Shrine
+## Counting
 
-Layer 3 — Hunt Discovery Checklist
-Tracks Hunt progression discoveries.
+Every awardable finding has one canonical award key. A finding appearing in multiple views contributes to Campaign Discovery Total once.
 
-Layer 4 — Codex Discovery Checklist
-Tracks Codex-related discoveries.
+Use [Discovery aliases](../../07_Registries/Discovery_Aliases.json) for established equivalents. An archive object ID is not automatically a discovery award ID. Unmapped legacy records need review before they award points.
 
-All layers feed into:
-
-Campaign Discovery Total
-
-Which feeds into:
-
-Discovery Threshold Framework.
+Campaign Discovery Total feeds the existing Discovery Threshold Framework. No threshold amounts are changed here.

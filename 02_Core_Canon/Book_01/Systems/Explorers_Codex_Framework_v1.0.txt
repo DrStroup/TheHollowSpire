@@ -1,3 +1,7 @@
-Explorer's Codex Framework v1.0
+Explorer's Codex Framework — compatibility reference
+Authority: 02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md
+Decision: CAN-002, recorded 2026-09-16.
 
-Ancient containment-record device. Introduce Floors 1-3 (preferably Floor 2). Tracks fauna, flora, anomalies, phenomena, and lost expeditions.
+Ancient containment-record device tracking fauna, flora, anomalies, phenomena, and lost expeditions. Hunts are part of this same system.
+
+Introduction timing remains open: older notes prefer Floor 2, while the locked Floor 1 zone structure places damaged-device acquisition in the Maintenance Hall. Do not assume acquisition and activation are the same event or invent an activation sequence without a decision.
