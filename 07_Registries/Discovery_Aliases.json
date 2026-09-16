@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Confirmed Floor 001 equivalences only; unmapped records require review.",
+  "awards": [
+    {
+      "award_key": "F001-D001",
+      "name": "The Prison No Longer Functions",
+      "value": 3,
+      "aliases": [
+        "D-01",
+        "D-001"
+      ],
+      "scope": "Floor 001 only"
+    },
+    {
+      "award_key": "F001-D004",
+      "name": "Iron Rats Explain Prison Decay",
+      "value": 1,
+      "aliases": [
+        "ED-001"
+      ],
+      "scope": "Floor 001 / encounter checklist"
+    },
+    {
+      "award_key": "F001-D005",
+      "name": "First Sight of Nib",
+      "value": 2,
+      "aliases": [],
+      "scope": "Floor 001"
+    }
+  ],
+  "rules": [
+    "Award each key once per campaign/table, regardless of checklist view.",
+    "DA archive records are evidence objects, not automatic awards.",
+    "Aliases are scoped; do not apply bare D-01 globally."
+  ]
+}

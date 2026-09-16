@@ -10,11 +10,11 @@ A deliverable is not considered preserved until it has been exported.
 
 ## GitHub Canon Rule
 
-Chat development is Working Canon.
+Chat development is working material until a decision is accepted and recorded.
 
-GitHub is Locked Canon.
+GitHub preserves both current and historical material. Current authority is identified by `00_Project_Status/canon_index.json`, not by repository presence alone.
 
-Future development should reference exported canon whenever possible.
+Use the indexed sources and `01_Frameworks/Documentation_Continuity_Workflow.md`. Preserve drafts, provisional locks, archives, and superseded material with explicit status.
 
 ## Export Package Rule
 

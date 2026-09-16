@@ -1,0 +1,18 @@
+Request: Correct the continuity and documentation issues found in the repository review; ask for input where needed.
+Date: 2026-09-16.
+Base commit: 9882bb145c04ffe61884b27922c30dac1c3db963.
+
+Explicit input this session:
+The user selected Rotunda survivor for Nib: seen moving in the Rotunda, practical survival advice, not an established guide.
+
+Prior context:
+The user's June 13 correction stated that Hunts and Codex had merged into one system. No full mechanical specification was recovered; the implementation records that limitation.
+
+Repository sources:
+See decisions and canon_index.json. Existing locked Seven Seals v2.0, Region 001 floor list, Chapter 00 hold, and development roadmap provide the supported direction.
+
+Output:
+Coordinated documentation correction with authority metadata and structural validation. No new fictional explanation, historical date, played session, art asset, or missing mechanic was invented.
+
+Remaining:
+Encounter placement, Codex acquisition/activation, detailed integration, and visual publication checks.

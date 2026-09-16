@@ -1,0 +1,226 @@
+{
+  "baseline_commit": "9882bb145c04ffe61884b27922c30dac1c3db963",
+  "decision_log": "00_Project_Status/DECISIONS.md",
+  "issues": "00_Project_Status/CONTINUITY_ISSUES.md",
+  "managed_documents": [
+    "00_Project_Status/CONTINUITY_ISSUES.md",
+    "00_Project_Status/DECISIONS.md",
+    "00_Project_Status/Next_Task_Recommendation_v1.0.md",
+    "00_Project_Status/PROJECT_STATE.md",
+    "01_Frameworks/Canon_Export_Framework_v0.02.md",
+    "01_Frameworks/Documentation_Continuity_Workflow.md",
+    "02_Core_Canon/Campaign/Hollow_Spire_Campaign_Skeleton_v1.0.md",
+    "02_Core_Canon/Campaign_Systems/Campaign_Tracking_Framework_v1.0.md",
+    "02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md",
+    "02_Core_Canon/Campaign_Systems/Discovery_Architecture_v1.1.md",
+    "02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md",
+    "02_Core_Canon/Campaign_Systems/Encounter_Discovery_Registry_v1.0.md",
+    "02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md",
+    "02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md",
+    "02_Core_Canon/Region_001/Region_001_Floor_By_Floor_Canon_v1.0.md",
+    "04_Bestiary/01_Frameworks/Reward_Recovery_Frameworks.md",
+    "04_Bestiary/13_Audits/Publication_Audit_Rules_v1.1.md",
+    "05_NPCs/NPC-001_Nib.md",
+    "06_Encounters/EN-003_Meeting_Nib.md",
+    "07_Registries/Discovery_Archive_v0.01.md",
+    "07_Registries/Master_Recovery_Registry_v0.02.md",
+    "09_Homebrewery/Book_01/Table_Of_Contents_v1.1.md",
+    "11_Timeline/README.md",
+    "11_Timeline/SESSION_LOG_TEMPLATE.md",
+    "11_Timeline/WORLD_TIMELINE.md",
+    "12_Exports/Continuity_Repair_2026-09-16/CHANGELOG.md",
+    "12_Exports/Continuity_Repair_2026-09-16/README.md",
+    "13_Audits/Floor_001/AUDIT_Floor_001_Canon_Conflict_v1.0.md",
+    "13_Audits/Floor_001/AUDIT_Floor_001_Canon_Reconciliation_v1.0.md",
+    "AGENTS.md",
+    "README.md",
+    "00_Project_Status/CANON_INDEX.md"
+  ],
+  "schema_version": 1,
+  "superseded": [
+    {
+      "path": "00_Project_Status/Next_Task_Recommendation_v1.0.md",
+      "replacement": "00_Project_Status/PROJECT_STATE.md"
+    },
+    {
+      "path": "04_Bestiary/01_Frameworks/Reward_Recovery_Frameworks.md",
+      "replacement": "01_Frameworks/Reward_Recovery_Frameworks.md"
+    },
+    {
+      "path": "04_Bestiary/13_Audits/Publication_Audit_Rules_v1.1.md",
+      "replacement": "13_Audits/Publication_Audit_Rules_v1.1.md"
+    }
+  ],
+  "topics": [
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "campaign_identity",
+      "path": "02_Core_Canon/Campaign/Core_Campaign_Canon_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Campaign scale, pillars, title, scope",
+      "status": "accepted",
+      "title": "Campaign identity"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "seven_seals",
+      "path": "01_Frameworks/Seven_Seals_Framework_v2.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Virtue names, order, meaning",
+      "status": "accepted",
+      "title": "Seven Seals"
+    },
+    {
+      "audience": "designer",
+      "decision": "DOC-001",
+      "id": "region_001_floors",
+      "path": "02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Numbered Floors 01–12",
+      "status": "accepted",
+      "title": "Region 001 floor order"
+    },
+    {
+      "audience": "GM",
+      "decision": "CAN-001",
+      "id": "nib",
+      "path": "05_NPCs/NPC-001_Nib.md",
+      "provenance": "See decision source and limitations",
+      "scope": "Role, introduction, knowledge",
+      "status": "accepted",
+      "title": "Nib"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "floor_001_zones",
+      "path": "02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Zone connections; encounter-placement conflicts remain CONT-009",
+      "status": "accepted",
+      "title": "Floor 01 zone layout"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "floor_001_framing",
+      "path": "02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Themes and hidden-lore boundaries; encounter list is a catalog",
+      "status": "accepted",
+      "title": "Floor 01 narrative framing"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "CAN-002",
+      "id": "codex_hunts",
+      "path": "02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md",
+      "provenance": "See decision source and limitations",
+      "scope": "One system; detailed mechanics open",
+      "status": "accepted",
+      "title": "Codex and Hunts"
+    },
+    {
+      "audience": "GM",
+      "decision": "DOC-001",
+      "id": "discovery",
+      "path": "02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Entry schema, shared award identity",
+      "status": "accepted",
+      "title": "Discovery tracking"
+    },
+    {
+      "audience": "GM",
+      "decision": "DOC-001",
+      "id": "discovery_thresholds",
+      "path": "02_Core_Canon/Campaign_Systems/Discovery_Threshold_Framework_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Hidden thresholds and world expression",
+      "status": "accepted",
+      "title": "Discovery thresholds"
+    },
+    {
+      "audience": "designer",
+      "decision": "DOC-001",
+      "id": "rewards",
+      "path": "01_Frameworks/Reward_Recovery_Frameworks.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Meaningful rewards",
+      "status": "accepted",
+      "title": "Reward policy"
+    },
+    {
+      "audience": "designer",
+      "decision": "DOC-001",
+      "id": "publication_audit",
+      "path": "13_Audits/Publication_Audit_Rules_v1.1.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Publication checks",
+      "status": "accepted",
+      "title": "Publication audit rules"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "transit",
+      "path": "02_Core_Canon/Campaign/Core_World_Law_The_Spire_Resists_Escape_v1.0.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Travel restrictions and distinctions",
+      "status": "accepted",
+      "title": "Transit world law"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "threat_clock",
+      "path": "02_Core_Canon/Book_01/Region_001/Region001_ThreatClock_Lock_v1.0.txt",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Working direction with named uncertainties",
+      "status": "provisional",
+      "title": "Regional threat clock"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "containment",
+      "path": "02_Core_Canon/Book_01/Region_001/BlackCells_Containment_Lock_v1.0.txt",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Coincidence established; causation unconfirmed",
+      "status": "provisional",
+      "title": "Breach and containment"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "DOC-001",
+      "id": "finale",
+      "path": "02_Core_Canon/Book_01/Finale/Book01_FinaleThreat_Lock_v1.0.txt",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Confrontation, genuine rescue, unresolved revelation",
+      "status": "provisional",
+      "title": "Book 01 finale threat"
+    },
+    {
+      "audience": "designer",
+      "decision": "DOC-001",
+      "id": "next_task",
+      "path": "00_Project_Status/PROJECT_STATE.md",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Only current next-task pointer",
+      "status": "accepted",
+      "title": "Current milestone"
+    },
+    {
+      "audience": "mixed — review before player export",
+      "decision": "DOC-001",
+      "id": "publication_source",
+      "path": "09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_CURRENT.txt",
+      "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
+      "scope": "Existing assembly; not certified publication-ready",
+      "status": "draft",
+      "title": "Publication source"
+    }
+  ]
+}

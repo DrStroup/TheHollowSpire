@@ -46,6 +46,12 @@ Follow-Up:
 Related Systems:
 ```
 
+### Shared award identity
+
+Each awardable entry must include `Award Key:` and `Related Record IDs:`. Use the same key wherever one finding appears in a floor, encounter, or Codex/Hunt view. Award once per campaign/table, not once per view. Consult [Discovery aliases](../../07_Registries/Discovery_Aliases.json).
+
+Hunt is an activity tag within the Codex system. Existing Hunt and Codex category labels may be retained for filtering historical records; they do not create independent progression totals.
+
 ### Required Fields
 
 #### Discovery ID

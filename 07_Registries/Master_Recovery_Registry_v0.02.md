@@ -33,6 +33,6 @@
 23. Survey Chalk — Rotunda — Environmental
 24. Rusted Survey Tags — Rotunda — Environmental
 25. Mechanism Shard — Rotunda — Environmental
-26. Explorer Sketches — Nib's Journal — Environmental
-27. Improvised Route Map — Nib's Notes — Environmental
+26. Explorer Sketches — Nib's Journal — Historical entry; not an EN-003 reward (CAN-001)
+27. Improvised Route Map — Nib's Notes — Historical entry; not an EN-003 reward (CAN-001)
 28. Maintenance Tools — Maintenance Hall — Environmental

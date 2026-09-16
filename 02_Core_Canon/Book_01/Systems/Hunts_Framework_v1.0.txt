@@ -1,1 +1,8 @@
-Hunts are discovered, never assigned. Types: Observation, Harvest, Containment, Extermination. Hunts lead to mysteries, submaps, caches, and discoveries.
+Hunts Framework — compatibility reference
+Status: Integrated into the Explorer's Codex; not a separate progression system.
+Authority: 02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md
+Decision: CAN-002, recorded 2026-09-16.
+
+Hunts are discovered through exploration. Existing activity types remain Observation, Harvest, Containment, and Extermination. They can lead to mysteries, submaps, caches, and discoveries within the integrated Codex system.
+
+Detailed stage and reward mechanics remain open. Ordinary hunting contracts are not automatically formal Codex Hunts.

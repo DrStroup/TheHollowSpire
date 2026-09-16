@@ -1,10 +1,15 @@
+.github/workflows/continuity-check.yml
 .github/workflows/update-tree.yml
 00_Project_Status/Book_01_Development_Status_Audit_v1.0.md
+00_Project_Status/CANON_INDEX.md
+00_Project_Status/CONTINUITY_ISSUES.md
+00_Project_Status/DECISIONS.md
 00_Project_Status/Floor_001_Publication_Recovery_Audit_v0_01.md
 00_Project_Status/Next_Task_Recommendation_v1.0.md
 00_Project_Status/PROJECT_STATE.md
 00_Project_Status/Project_Status_v0.02.md
 00_Project_Status/Repository_Cleanup_Plan_v0.03.md
+00_Project_Status/canon_index.json
 01_Frameworks/Art_Registry_Framework_v0.01.md
 01_Frameworks/Asset_004_Guild_Notice_Board_Framework_v1.0.md
 01_Frameworks/Asset_Lock_Export_Checklist_v1.0.md
@@ -12,6 +17,7 @@
 01_Frameworks/Book_01_Publication_Workflow_v2.0.md
 01_Frameworks/Canon_Export_Framework_v0.02.md
 01_Frameworks/Completion_State_Framework_v0_02.md
+01_Frameworks/Documentation_Continuity_Workflow.md
 01_Frameworks/Encounter_Framework_v0.02.md
 01_Frameworks/Explorer_Map_Directives.md
 01_Frameworks/Export_Rule_v1.0.md
@@ -63,6 +69,7 @@
 02_Core_Canon/Campaign/Regional_Progression_Framework_v0.1.md
 02_Core_Canon/Campaign/Warden_And_Recurrence_Framework_v1.0.md
 02_Core_Canon/Campaign_Systems/Campaign_Tracking_Framework_v1.0.md
+02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md
 02_Core_Canon/Campaign_Systems/Discovery_Architecture_v1.1.md
 02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md
 02_Core_Canon/Campaign_Systems/Discovery_Threshold_Framework_v1.0.md
@@ -118,6 +125,7 @@
 06_Encounters/EN-006_Silent_Jailer_Sighting.md
 06_Encounters/EN-007_Lost_Child_Event.md
 06_Encounters/EN-008_The_Breach_Crossing.md
+07_Registries/Discovery_Aliases.json
 07_Registries/Discovery_Archive_v0.01.md
 07_Registries/Floor_001_NPC_Recovery_Registry_v1.0.md
 07_Registries/Master_Recovery_Registry_v0.02.md
@@ -516,6 +524,8 @@
 09_Homebrewery/Floor_001/README.md
 10_Handouts/Floor_001/README.md
 11_Timeline/README.md
+11_Timeline/SESSION_LOG_TEMPLATE.md
+11_Timeline/WORLD_TIMELINE.md
 12_Exports/Asset_004A/CHANGELOG.md
 12_Exports/Asset_004A/Prompt_Trace_Asset_004A_v0.9.md
 12_Exports/Asset_004A/Prompt_Trace_Asset_004A_v1.0.txt
@@ -569,6 +579,10 @@
 12_Exports/Chapter_00_Publication_Pass_v0.8/Next_Development_Direction.txt
 12_Exports/Chapter_00_Publication_Pass_v0.8/Publication_Status_Report.txt
 12_Exports/Chapter_00_Publication_Pass_v0.8/README.txt
+12_Exports/Continuity_Repair_2026-09-16/CHANGELOG.md
+12_Exports/Continuity_Repair_2026-09-16/MANIFEST.json
+12_Exports/Continuity_Repair_2026-09-16/PROMPT_TRACE.txt
+12_Exports/Continuity_Repair_2026-09-16/README.md
 12_Exports/Cover_Art_Package_v1.0/EXPORT_MANIFEST.json
 12_Exports/Cover_Art_Package_v1.0/README.md
 12_Exports/DiscoveryThreshold_Framework_Export_v1.0.md
@@ -647,6 +661,7 @@
 13_Audits/Publication_Audit_Rules_v1.1.md
 13_Audits/Region_001/AUDIT_Floor_001_Homebrewery_Conflict_v1.0.md
 13_Audits/Region_001/AUDIT_Region_001_Design_Lock_v1.0.md
+AGENTS.md
 MANIFEST.json
 MANIFEST_GitHub_Structure_Update_v1.0.json
 MANIFEST_Workflow_Update_v1.0.json
@@ -664,3 +679,4 @@ README.md
 README_Chapter00_Backup_Checkpoint_v2.0.md
 README_IMPORT_INSTRUCTIONS.md
 The_Hollow_Spire_Code_Page09_HeaderFramework_v1.5.txt
+scripts/check_continuity.py

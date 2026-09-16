@@ -93,9 +93,9 @@ The area should emphasize sensory detail: cold stone, iron, dripping water, old 
 
 The first major hub. It teaches that the Spire is navigated through choices rather than linear rooms. Multiple exits, collapsed routes, old marks, and partial records should make the party feel like they are interpreting a place rather than clearing it.
 
-### Collapsed Maintenance Niche
+### Nib in the Rotunda
 
-Nib's introduction point. This location should be dangerous enough that helping him matters, but not so complex that it delays the early flow.
+The party first sees Nib moving through the Rotunda from the Abandoned Guard Post. Their first meaningful conversation occurs in the Rotunda. He is a survivor with practical advice, not an established guide. The collapsed-maintenance-niche rescue introduction is superseded.
 
 ### Iron Rat Colony
 
@@ -123,7 +123,7 @@ The transition point from prison threshold to the wider Hollow Below. This is th
 
 ### Nib
 
-**Role:** Guide, survivor, scout, first ally  
+**Role:** Survivor, potential companion, first ally  
 **Source:** `05_NPCs/NPC-001_Nib.md`
 
 Nib is helpful, observant, talkative, and brave when it matters. He should make the Spire feel survivable without solving the floor for the party.
@@ -132,13 +132,13 @@ Nib's function is to introduce the social truth of the campaign:
 
 > No one descends alone.
 
-Nib should never explain the full nature of the Hollow Spire, recurrence, or the Warden. He knows routes, rumors, survival habits, and local fears. He does not know the ultimate truth.
+Nib should never explain the full nature of the Hollow Spire, recurrence, or the Warden. He knows some local survival habits, rumors, and fears, but is not a reliable route authority. He does not know the ultimate truth.
 
 ---
 
-## 8. Encounter Chain
+## 8. Encounter Catalog and Placement
 
-The active Floor 01 encounter chain remains:
+The following encounter IDs are preserved as a catalog, not a mandatory chronological chain:
 
 1. `06_Encounters/EN-001_Awakening_in_the_Black_Cells.md`
 2. `06_Encounters/EN-002_The_Rotunda.md`
@@ -149,7 +149,7 @@ The active Floor 01 encounter chain remains:
 7. `06_Encounters/EN-007_Lost_Child_Event.md`
 8. `06_Encounters/EN-008_The_Breach_Crossing.md`
 
-The sequence may be adjusted at the table, but the publication manuscript should preserve this as the default teaching flow.
+Use the locked Floor 001 zone structure and zone content passes for route structure. Nib's Rotunda introduction is confirmed by CAN-001. The remaining placement conflict between the legacy encounter catalog and zone content is tracked as CONT-009; do not publish this list as a resolved sequence.
 
 ---
 
@@ -165,7 +165,7 @@ First exploration hub and route-choice lesson.
 
 ### EN-003 — Meeting Nib
 
-First social encounter and first opportunity to choose cooperation over self-preservation.
+First conversation in the Rotunda and an opportunity to choose cooperation under uncertainty; no trapped-Nib rescue.
 
 ### EN-004 — Iron Rat Colony
 
@@ -285,13 +285,13 @@ By this point, the party should have:
 
 ## 15. Homebrewery Integration Notes
 
-In `09_Homebrewery/Book_01/Book_01_Homebrewery_Source.md`, Floor 01 should be framed as the opening prison threshold, not as the identity of the entire campaign.
+In `09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_CURRENT.txt`, Floor 01 should be framed as the opening prison threshold, not as the identity of the entire campaign.
 
 The Floor 01 chapter should import this file as the active canon source and continue using the existing encounter files listed above.
 
 Suggested Homebrewery chapter function:
 
-> Chapter 2 — Floor 1: The Black Cells  
+> Chapter 01 — Floor 01: The Black Cells  
 > The confined opening that teaches escape, survival, route choice, and the first principle of the Hollow Spire: no one descends alone.
 
 ---
@@ -305,7 +305,7 @@ This file locks the following:
 - Floor 01 theme: Escape and survival, tied to perseverance
 - Floor 01 is the exception that may feel dungeon-like because it begins in a prison
 - The rest of the world should broaden beyond dungeon identity
-- Nib remains the first major ally
+- Nib remains the first major ally: first seen moving in the Rotunda, first conversation there; survivor rather than established guide
 - Silent Jailer remains non-combat foreshadowing
 - Lost Child remains ambiguous mystery, not recurrence exposition
 - Breach Crossing remains the transition into Floor 02

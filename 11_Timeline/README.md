@@ -1,5 +1,7 @@
-# Timeline
+# History and play records
 
-Status: Pending reconstruction.
+- [World timeline](WORLD_TIMELINE.md): setting events, relative ordering, and uncertainty.
+- [Session log template](SESSION_LOG_TEMPLATE.md): table-specific events and player knowledge.
+- [Design decisions](../00_Project_Status/DECISIONS.md): authoring changes and their sources.
 
-This folder will preserve campaign chronology, floor progression, explorer chronology, and major historical events.
+Do not substitute floor order for historical dates. Do not invent past sessions from written encounters. The world timeline begins with sourced facts only; historical explorer dates still require source recovery.

@@ -5,7 +5,7 @@
 
 Encounter Discoveries are discoveries generated through interaction with encounters.
 
-They are separate from Zone Discoveries.
+They use a separate checklist view from Zone Discoveries, but may refer to the same awardable finding.
 
 Zone Discoveries = static discoveries tied to locations.
 
@@ -45,7 +45,9 @@ Value: 1
 Repeatable: No
 Discovery Potential: Minor
 
-Award only the first time the party understands Iron Rats contribute to prison deterioration.
+Award Key: F001-D004
+Related Record IDs: ED-001, F001-D004
+Award only the first time the party understands Iron Rats contribute to prison deterioration, including an earlier award from a floor checklist.
 
 ED-002
 First Sighting of a Crystal Shrine
@@ -69,4 +71,4 @@ Discovery Potential: Moderate
 
 Encounter Discoveries feed into the Campaign Discovery Total and Discovery Threshold Framework.
 
-They should have their own checklist separate from Floor Discovery Checklists.
+They may have their own checklist, but shared award keys prevent duplicate credit across views. See [Discovery aliases](../../07_Registries/Discovery_Aliases.json).

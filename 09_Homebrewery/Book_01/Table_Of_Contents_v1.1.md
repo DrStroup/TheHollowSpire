@@ -1,35 +1,17 @@
-# Table of Contents v1.1
+# Table of contents — current planning reference
 
-Chapter 0 — Running The Hollow Spire
+Status: Planning reference; pagination and final chapter assembly pending.
+Decision: DOC-001. Supersedes the older chapter/floor mapping at this path.
 
-Chapter 1 — The Black Cells
+Chapter 00 — The Explorer Guild Primer
 
-Chapter 2 — Flooded Paths
+Chapters 01–12 follow the [numbered Region 001 floor list](../../02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md), one floor per chapter, as specified in the [development roadmap](../../02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md).
 
-Chapter 3 — Emberlight Village
+Retained planned appendices:
+- Appendix A — Bestiary
+- Appendix B — Items
+- Appendix C — Explorer Guild Contracts
+- Appendix D — Discoveries
+- Appendix E — DM Tools
 
-Chapter 4 — The Long Dark
-
-Chapter 5 — Lantern Village
-
-Chapter 6 — Veiled Warrens
-
-Chapter 7 — Whispering Deep
-
-Chapter 8 — Moon Lantern Sanctuary
-
-Chapter 9 — Truths Below
-
-Chapter 10 — Hall of Truth
-
-Chapter 11 — The First Seal
-
-Appendix A — Bestiary
-
-Appendix B — Items
-
-Appendix C — Explorer Guild Contracts
-
-Appendix D — Discoveries
-
-Appendix E — DM Tools
+This is not proof that those chapters or appendices are publication-complete.
