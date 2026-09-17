@@ -37,6 +37,10 @@ Centuries of corruption, failing directives, and damaged command systems transfo
 - Warden Sigil
 - Overcharge Capacitor
 
+## Floor 01 placement
+
+[EN-005](../06_Encounters/EN-005_Broken_Custodian.md) uses this creature in the optional Forgotten Block, F5 — Sealed Observation Room. Its guaranteed rare Memory Fragment seeds Failed Directive 1/X. This encounter-specific guarantee does not change the recovery table for other Custodians.
+
 ## Discovery Integration
 
 - Failed Directive

@@ -1,1 +1,10 @@
-Introduce the Codex before Lantern Village, ideally on Floor 2.
+Status: Superseded introduction timing; compatibility pointer.
+The older preference for Floor 02 is retired by CAN-004.
+
+The Codex is a mandatory core system, acquired as a damaged device on Floor 01 in Maintenance Hall. HA-3 expands its significance. It is not an optional Forgotten Block reward.
+
+Authority: 02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md
+Layout: 02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md
+Decision: 00_Project_Status/DECISIONS.md (CAN-004)
+
+Exact activation/repair procedure remains open; do not infer that acquisition means complete functionality.

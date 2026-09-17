@@ -74,7 +74,7 @@ Contains the zone's major encounter.
 
 ## Encounter
 
-E-005 — Broken Custodian
+EN-005 — Broken Custodian (legacy local alias: E-005)
 
 Category:
 Threat
@@ -93,7 +93,9 @@ Purpose:
 
 Primary Recovery:
 
-Memory Fragment
+Memory Fragment — Rare; guaranteed primary recovery for this encounter.
+
+See [EN-005](../../../06_Encounters/EN-005_Broken_Custodian.md) for scope and pending recovery procedure. This does not guarantee the item for bypassing the encounter.
 
 Source:
 Broken Custodian
@@ -110,7 +112,7 @@ Purpose:
 Broken Custodian Investigation
 
 Progress:
-Failed Directive 1/X
+Failed Directive 1/X (X is unresolved; no completion threshold is implied)
 
 The Memory Fragment represents the first known progression point toward a larger Broken Custodian investigation.
 

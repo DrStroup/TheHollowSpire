@@ -53,4 +53,33 @@ Provenance: Prior user correction preserved in available conversation context, d
 Limit: The original complete conversation/mechanical specification was not recovered; no additional mechanics or approval dates are inferred.
 
 Implementation: One integration authority, compatibility pointers from the short legacy frameworks, and unified tracking language. Existing observations, samples, chips, and Hunt activities remain. No new reward currency or ranks.
-Open: Detailed integration and introduction timing (CONT-010, CONT-011).
+Update 2026-09-17: CAN-004 restores mandatory Floor 01 acquisition. Activation procedure and detailed integration remain open (CONT-010, CONT-011).
+
+## CAN-003 — Forgotten Block Custodian and Memory Fragment
+Recorded: 2026-09-17.
+Status: Accepted prior decision recovered; documentation propagation.
+Authorization: User requested proceeding with remaining continuity reconciliation.
+Provenance: [Locked Forgotten Block export](../12_Exports/ForgottenBlock_ContentPass_v1.0_Export.md), [Zone 03](../02_Core_Canon/Region_001/Floor_001/Zone_03_Forgotten_Block_Content_Pass_v1.0.md), and [prompt trace](../Prompt_Trace/ForgottenBlock_ContentPass_v1.0_PromptTrace.md). Available June 11 conversation context records user approval of the encounter, guaranteed rare recovery, and progression seed. This is a recovery summary, not a reconstructed verbatim transcript.
+
+- EN-005 occupies Forgotten Block F5, Sealed Observation Room; E-005 is its legacy local alias.
+- Memory Fragment is the primary rare recovery, replacing the early placeholder automaton core concept. Existing master recovery entry 16 supplies rarity.
+- Failed Directive 1/X is the Codex investigation seed. X is not established.
+- The branch remains optional and does not gate the Codex device or Archive Key.
+- Supersede the Maintenance Hall placement; do not add an unapproved duplicate encounter.
+
+Updated: Encounter, bestiary placement note, Zone 03, zone layout, floor anchor, encounter/loot/master recovery registries, authority index, status and issue records.
+Pending: Detailed encounter and recovery procedure, combat statistics, evidence-object reuse, map/art labels, and eventual manuscript integration. Legacy Maintenance Tools remain in Maintenance Hall.
+
+## CAN-004 — Mandatory damaged Codex acquisition on Floor 01
+Recorded: 2026-09-17.
+Status: Accepted prior acquisition decision recovered; activation procedure open.
+Provenance: Available June 10 conversation context records the user's requirement that the Codex be mandatory because it is central to Hunts. June 11 context records acceptance of acquisition on this floor as outlined. [Locked zone layout](../02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md) places the damaged device in Maintenance Hall and archive expansion in HA-3. Conversation evidence is summarized, not represented as a complete recovered specification.
+
+- Acquire the damaged Codex in Maintenance Hall on Floor 01.
+- HA-3 expands significance/archive context; optional Forgotten Block exploration does not gate acquisition.
+- Supersede the older Floor 02 introduction preference.
+- Evidence-led Codex/Hunt progression and chips unlocking/advancing entries remain supported. Recalled fractions 1/9, 1/4, and 1/2 are examples, not locked universal thresholds.
+- Activation, repair, first-use procedure, completion counts, and detailed rewards remain unresolved.
+
+Updated: Integration authority, introduction compatibility note, zone layout, floor anchor, loot registry, authority index, status and issues.
+Pending: Maintenance Hall / HA-3 content passes and publication integration; no Homebrewery source edit in this packet.

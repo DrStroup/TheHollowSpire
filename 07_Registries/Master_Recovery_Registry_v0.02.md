@@ -20,7 +20,7 @@
 13. Gear Cluster — Custodian — Uncommon
 14. Core Stabilizer — Custodian — Rare
 15. Control Node — Custodian — Rare
-16. Memory Fragment — Custodian — Rare
+16. Memory Fragment — Custodian — Rare; guaranteed primary recovery in EN-005, Forgotten Block F5 (CAN-003); not a universal Custodian drop.
 17. Protocol Heart — Custodian — Very Rare
 18. Warden Sigil — Custodian — Very Rare
 19. Overcharge Capacitor — Custodian — Very Rare

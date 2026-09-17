@@ -101,9 +101,13 @@ The party first sees Nib moving through the Rotunda from the Abandoned Guard Pos
 
 A small ecological hazard that demonstrates that the Black Cells are inhabited by scavengers and adapted creatures, not just placed monsters.
 
-### Custodian Workhall
+### Forgotten Block — Sealed Observation Room
 
-The Broken Custodian encounter area. The prison's maintenance systems continue to function poorly, dangerously, and without understanding current conditions.
+The optional Broken Custodian encounter occupies F5 of the Forgotten Block (CAN-003). Its primary recovery is a rare Memory Fragment, seeding Failed Directive 1/X. The former Custodian Workhall / Maintenance Hall placement is superseded.
+
+### Maintenance Hall and Hidden Records Vault
+
+The damaged Codex is acquired in Maintenance Hall on Floor 01 as a mandatory core-system introduction (CAN-004). HA-3 expands its significance and supplies the Archive Key. Exact device activation and repair remain open.
 
 ### The Silent Gallery
 
@@ -149,7 +153,7 @@ The following encounter IDs are preserved as a catalog, not a mandatory chronolo
 7. `06_Encounters/EN-007_Lost_Child_Event.md`
 8. `06_Encounters/EN-008_The_Breach_Crossing.md`
 
-Use the locked Floor 001 zone structure and zone content passes for route structure. Nib's Rotunda introduction is confirmed by CAN-001. The remaining placement conflict between the legacy encounter catalog and zone content is tracked as CONT-009; do not publish this list as a resolved sequence.
+Use the locked Floor 001 zone structure and zone content passes for route structure. Nib's Rotunda introduction is confirmed by CAN-001. CAN-003 resolves EN-005 to Forgotten Block F5. Other catalog IDs remain non-chronological; detailed staging and map-label verification are still production tasks.
 
 ---
 
@@ -279,6 +283,7 @@ By this point, the party should have:
 - learned that maps and marks matter
 - encountered at least one unsolved mystery
 - glimpsed the wider subterranean world
+- acquired the damaged Codex through the mandatory Maintenance Hall route
 - gained a reason to keep going
 
 ---

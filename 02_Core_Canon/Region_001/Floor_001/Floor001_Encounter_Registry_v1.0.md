@@ -22,3 +22,15 @@ Low-threat introductory combat.
 
 ### Notes
 This encounter should not feel like the main threat of Floor 1. It is a survival-space encounter, not a story boss.
+
+## EN-005 — Broken Custodian
+
+Legacy local alias: E-005.
+Zone: Zone 03 — Forgotten Block.
+Area: F5 — Sealed Observation Room.
+Purpose: Optional construct threat and tangible exploration reward.
+Source: [Encounter record](../../../06_Encounters/EN-005_Broken_Custodian.md).
+Primary recovery: Rare Memory Fragment; guaranteed encounter recovery, not a bypass reward.
+Codex seed: Failed Directive 1/X; denominator and completion procedure remain open.
+Progression: No mandatory key or device; return to Rotunda.
+
