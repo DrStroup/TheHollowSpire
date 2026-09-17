@@ -1,6 +1,6 @@
 # Continuity issue register
 
-Updated: 2026-09-16.
+Updated: 2026-09-17.
 “Corrected” applies to the documentation in this packet, not to unreviewed maps or every historical export.
 
 | ID | Topic | Status | Resolution / next action |
@@ -13,9 +13,9 @@ Updated: 2026-09-16.
 | CONT-006 | Duplicate live policies | Corrected for reviewed pairs | Nested reward/audit copies now compatibility pointers. Other historical duplicates remain preserved. |
 | CONT-007 | Historical chronology absent | Scaffolded; recovery open | Sourced initial event and session template added; historical explorer dates not invented. |
 | CONT-008 | Root navigation and stale paths | Corrected for reviewed references | README, skeleton path, publication-source path, book/chapter mapping repaired. |
-| CONT-009 | Floor 01 encounter placements | Open — design decision | Legacy EN-005 names Maintenance Hall; Zone 03 places Broken Custodian in optional Forgotten Block. Decide relocation vs distinct encounters. Catalog IDs do not define chronology. |
-| CONT-010 | Codex device introduction | Open — design decision | Zone layout places damaged device in Floor 01 Maintenance Hall; older introduction notes prefer Floor 02. Decide acquisition/activation sequence without assuming it. |
-| CONT-011 | Codex/Hunts mechanics | Relationship corrected; mechanics open | CAN-002 merges the system; detailed stages, chips, completion and reward tuning remain to be specified. |
+| CONT-009 | Floor 01 encounter placements | Corrected; production follow-up | CAN-003: EN-005 is the Forgotten Block F5 encounter. E-005 is its local alias. Encounter, zone, bestiary, floor anchor and reward registries agree. Detailed procedure, combat statistics and map labels remain pending. |
+| CONT-010 | Codex device introduction | Acquisition corrected; activation open | CAN-004: mandatory damaged Codex acquisition in Floor 01 Maintenance Hall; HA-3 expands context. Floor 02 preference retired. Define reliable acquisition delivery, activation/repair and first-use procedure in zone content passes. |
+| CONT-011 | Codex/Hunts mechanics | Relationship corrected; mechanics open | CAN-002 merges the system; evidence and chips unlock/advance entries, with Failed Directive 1/X a supported seed. Exact stages, counts, chip interaction and reward tuning remain to be specified; recalled fractions are not a universal threshold table. |
 | CONT-012 | Publication source and art freshness | Open — verification | CURRENT remains the existing source; inspect its visible placeholder, source/asset locks, rendered pages, and map labels before publication. |
 
 ## Protected open mysteries

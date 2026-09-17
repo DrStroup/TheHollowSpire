@@ -1,8 +1,8 @@
 # Current project state
 
-Updated: 2026-09-16
-Baseline reviewed: `9882bb145c04ffe61884b27922c30dac1c3db963`
-Change packet: `12_Exports/Continuity_Repair_2026-09-16/`
+Updated: 2026-09-17
+Baseline reviewed: `c1cd59f71db4eeb7a1418f2b9a0b229983ae4a43`
+Change packet: [Floor 01 reconciliation](Floor_001_Reconciliation_2026-09-17.md). Prior continuity repair PR #1 was merged into main.
 Decision record: [DECISIONS.md](DECISIONS.md)
 Authority: [CANON_INDEX.md](CANON_INDEX.md)
 
@@ -19,20 +19,21 @@ Chapter 00 publication polish remains on hold. Its remaining work depends on the
 - Moon Lantern around Floor 10; Seal I, Truth, on Floor 12.
 - Nib: Rotunda survivor; practical advice, limited knowledge.
 - Seven Seals: governed by Seven Seals Framework v2.0.
-- Hunts and Codex: one system; detailed integration still needs definition.
+- Hunts and Codex: one system; mandatory damaged device acquisition in Floor 01 Maintenance Hall; activation/repair and detailed integration remain open.
+- Broken Custodian: optional Forgotten Block F5; rare Memory Fragment recovery and Failed Directive 1/X seed.
 - Recurrence remains hidden; breach causation and creature identity retain their provisional status.
 
 ## Work preserved
 
-Floor 01 zone designs, encounters, NPC/bestiary records, discovery frameworks, maps, publication sources, and art assets exist. Their existence is not a blanket claim of publication readiness. Floor 01 encounter placement still needs reconciliation; map/art labels have not been visually re-audited in this packet.
+Floor 01 zone designs, encounters, NPC/bestiary records, discovery frameworks, maps, publication sources, and art assets exist. Their existence is not a blanket claim of publication readiness. The EN-005 placement conflict is reconciled. The [Floor 01 development sheet](../02_Core_Canon/Region_001/Development/Floor_001_Development_Sheet.md) consolidates the template and gaps; it is not a completed playable floor. Map/art labels have not been visually re-audited.
 
 ## Next work packet
 
-Reconcile the remaining Floor 01 encounter placements against the zone layout (CONT-009), then use that floor as the template for the regional spine. Continue independent regional outline work while open mechanical questions are recorded.
+Draft Zone 04 — Maintenance Hall: deliver mandatory damaged Codex acquisition, prison-system investigation, and the route to HA-3. Newly proposed activation/repair mechanics must remain draft. Use the Floor 01 development sheet as the continuity checklist; the full regional spine remains the larger milestone.
 
 ## Open decisions
 
-See [continuity issues](CONTINUITY_ISSUES.md), particularly encounter placement, Codex introduction/activation timing, detailed Hunts/Codex mechanics, and publication source verification.
+See [continuity issues](CONTINUITY_ISSUES.md), particularly Codex activation/repair, detailed Hunts/Codex mechanics, encounter procedure/statistics, and publication source verification.
 
 ## Resume procedure
 

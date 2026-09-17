@@ -13,9 +13,9 @@ automatically superseded: inspect their provenance and register conflicts.
 | Seven Seals | [seven_seals](../01_Frameworks/Seven_Seals_Framework_v2.0.md) | accepted | GM/designer | Virtue names, order, meaning |
 | Region 001 floor order | [region_001_floors](../02_Core_Canon/Region_001/Region_001_Design_Lock_v1.0.md) | accepted | designer | Numbered Floors 01–12 |
 | Nib | [nib](../05_NPCs/NPC-001_Nib.md) | accepted | GM | Role, introduction, knowledge |
-| Floor 01 zone layout | [floor_001_zones](../02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md) | accepted | GM/designer | Zone connections; encounter-placement conflicts remain CONT-009 |
+| Floor 01 zone layout | [floor_001_zones](../02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md) | accepted | GM/designer | Zone connections; Forgotten Block Custodian and mandatory Floor 01 Codex acquisition |
 | Floor 01 narrative framing | [floor_001_framing](../02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md) | accepted | GM/designer | Themes and hidden-lore boundaries; encounter list is a catalog |
-| Codex and Hunts | [codex_hunts](../02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md) | accepted | GM/designer | One system; detailed mechanics open |
+| Codex and Hunts | [codex_hunts](../02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md) | accepted | GM/designer | One system; mandatory Floor 01 acquisition; activation and detailed mechanics open |
 | Discovery tracking | [discovery](../02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md) | accepted | GM | Entry schema, shared award identity |
 | Discovery thresholds | [discovery_thresholds](../02_Core_Canon/Campaign_Systems/Discovery_Threshold_Framework_v1.0.md) | accepted | GM | Hidden thresholds and world expression |
 | Reward policy | [rewards](../01_Frameworks/Reward_Recovery_Frameworks.md) | accepted | designer | Meaningful rewards |
@@ -26,6 +26,8 @@ automatically superseded: inspect their provenance and register conflicts.
 | Book 01 finale threat | [finale](../02_Core_Canon/Book_01/Finale/Book01_FinaleThreat_Lock_v1.0.txt) | provisional | GM/designer | Confrontation, genuine rescue, unresolved revelation |
 | Current milestone | [next_task](PROJECT_STATE.md) | accepted | designer | Only current next-task pointer |
 | Publication source | [publication_source](../09_Homebrewery/Book_01/Source/Book_01_Homebrewery_Source_CURRENT.txt) | draft | mixed — review before player export | Existing assembly; not certified publication-ready |
+| Floor 01 Broken Custodian | [floor_001_custodian](../06_Encounters/EN-005_Broken_Custodian.md) | accepted | GM/designer | Forgotten Block F5 placement, rare Memory Fragment, Failed Directive seed; procedure incomplete |
+| Codex acquisition | [codex_acquisition](../02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md) | accepted | GM/designer | Mandatory damaged device in Floor 01 Maintenance Hall; activation procedure open |
 
 Use [decisions](DECISIONS.md) for provenance and [open issues](CONTINUITY_ISSUES.md)
 for unresolved conflicts. Archives and exports preserve evidence, not parallel authority.

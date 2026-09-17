@@ -81,6 +81,7 @@ Players discover:
 * Contradictions.
 * Environmental storytelling.
 * Optional discoveries and rewards.
+* Broken Custodian in F5 — Sealed Observation Room; Memory Fragment / Failed Directive seed (CAN-003).
 
 Zone 4 — Maintenance Hall
 
@@ -154,7 +155,7 @@ Lantern Stability Tutorial:
 Rotunda.
 
 Damaged Codex Acquisition:
-Maintenance Hall.
+Maintenance Hall, Floor 01 — mandatory core-system introduction (CAN-004). Exact activation/repair procedure remains open. The optional Forgotten Block does not gate this device.
 
 Archive Expansion:
 Hidden Records Vault.

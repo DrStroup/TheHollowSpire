@@ -1,10 +1,12 @@
 {
-  "baseline_commit": "9882bb145c04ffe61884b27922c30dac1c3db963",
+  "baseline_commit": "c1cd59f71db4eeb7a1418f2b9a0b229983ae4a43",
   "decision_log": "00_Project_Status/DECISIONS.md",
   "issues": "00_Project_Status/CONTINUITY_ISSUES.md",
   "managed_documents": [
+    "00_Project_Status/CANON_INDEX.md",
     "00_Project_Status/CONTINUITY_ISSUES.md",
     "00_Project_Status/DECISIONS.md",
+    "00_Project_Status/Floor_001_Reconciliation_2026-09-17.md",
     "00_Project_Status/Next_Task_Recommendation_v1.0.md",
     "00_Project_Status/PROJECT_STATE.md",
     "01_Frameworks/Canon_Export_Framework_v0.02.md",
@@ -15,13 +17,20 @@
     "02_Core_Canon/Campaign_Systems/Discovery_Architecture_v1.1.md",
     "02_Core_Canon/Campaign_Systems/Discovery_Registry_Framework_v1.0.md",
     "02_Core_Canon/Campaign_Systems/Encounter_Discovery_Registry_v1.0.md",
+    "02_Core_Canon/Region_001/Development/Floor_001_Development_Sheet.md",
+    "02_Core_Canon/Region_001/Floor_001/Floor001_Encounter_Registry_v1.0.md",
+    "02_Core_Canon/Region_001/Floor_001/Floor001_Loot_Registry_v1.0.md",
+    "02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md",
+    "02_Core_Canon/Region_001/Floor_001/Zone_03_Forgotten_Block_Content_Pass_v1.0.md",
     "02_Core_Canon/Region_001/Floor_01_Black_Cells_Core_Canon_v1.0.md",
     "02_Core_Canon/Region_001/Region_001_Core_Canon_Skeleton_v1.0.md",
     "02_Core_Canon/Region_001/Region_001_Floor_By_Floor_Canon_v1.0.md",
     "04_Bestiary/01_Frameworks/Reward_Recovery_Frameworks.md",
     "04_Bestiary/13_Audits/Publication_Audit_Rules_v1.1.md",
+    "04_Bestiary/BESTIARY-002_Broken_Custodian.md",
     "05_NPCs/NPC-001_Nib.md",
     "06_Encounters/EN-003_Meeting_Nib.md",
+    "06_Encounters/EN-005_Broken_Custodian.md",
     "07_Registries/Discovery_Archive_v0.01.md",
     "07_Registries/Master_Recovery_Registry_v0.02.md",
     "09_Homebrewery/Book_01/Table_Of_Contents_v1.1.md",
@@ -33,8 +42,7 @@
     "13_Audits/Floor_001/AUDIT_Floor_001_Canon_Conflict_v1.0.md",
     "13_Audits/Floor_001/AUDIT_Floor_001_Canon_Reconciliation_v1.0.md",
     "AGENTS.md",
-    "README.md",
-    "00_Project_Status/CANON_INDEX.md"
+    "README.md"
   ],
   "schema_version": 1,
   "superseded": [
@@ -49,6 +57,10 @@
     {
       "path": "04_Bestiary/13_Audits/Publication_Audit_Rules_v1.1.md",
       "replacement": "13_Audits/Publication_Audit_Rules_v1.1.md"
+    },
+    {
+      "path": "02_Core_Canon/Book_01/Region_001/Codex_Introduction_Notes_v1.0.txt",
+      "replacement": "02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md"
     }
   ],
   "topics": [
@@ -98,7 +110,7 @@
       "id": "floor_001_zones",
       "path": "02_Core_Canon/Region_001/Floor_001/Floor_001_Zone_Structure_v1.0.md",
       "provenance": "Existing source designation; indexed during documentation repair, not newly invented canon",
-      "scope": "Zone connections; encounter-placement conflicts remain CONT-009",
+      "scope": "Zone connections; Forgotten Block Custodian and mandatory Floor 01 Codex acquisition",
       "status": "accepted",
       "title": "Floor 01 zone layout"
     },
@@ -118,7 +130,7 @@
       "id": "codex_hunts",
       "path": "02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md",
       "provenance": "See decision source and limitations",
-      "scope": "One system; detailed mechanics open",
+      "scope": "One system; mandatory Floor 01 acquisition; activation and detailed mechanics open",
       "status": "accepted",
       "title": "Codex and Hunts"
     },
@@ -221,6 +233,26 @@
       "scope": "Existing assembly; not certified publication-ready",
       "status": "draft",
       "title": "Publication source"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "CAN-003",
+      "id": "floor_001_custodian",
+      "path": "06_Encounters/EN-005_Broken_Custodian.md",
+      "provenance": "Recovered locked Forgotten Block export and June 11 user decision; see CAN-003",
+      "scope": "Forgotten Block F5 placement, rare Memory Fragment, Failed Directive seed; procedure incomplete",
+      "status": "accepted",
+      "title": "Floor 01 Broken Custodian"
+    },
+    {
+      "audience": "GM/designer",
+      "decision": "CAN-004",
+      "id": "codex_acquisition",
+      "path": "02_Core_Canon/Campaign_Systems/Codex_Hunts_Integration.md",
+      "provenance": "June 10–11 user decisions and locked zone layout; see CAN-004",
+      "scope": "Mandatory damaged device in Floor 01 Maintenance Hall; activation procedure open",
+      "status": "accepted",
+      "title": "Codex acquisition"
     }
   ]
 }
