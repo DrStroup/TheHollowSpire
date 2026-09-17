@@ -5,6 +5,7 @@
 00_Project_Status/CONTINUITY_ISSUES.md
 00_Project_Status/DECISIONS.md
 00_Project_Status/Floor_001_Publication_Recovery_Audit_v0_01.md
+00_Project_Status/Floor_001_Reconciliation_2026-09-17.md
 00_Project_Status/Next_Task_Recommendation_v1.0.md
 00_Project_Status/PROJECT_STATE.md
 00_Project_Status/Project_Status_v0.02.md
@@ -79,6 +80,7 @@
 02_Core_Canon/Campaign_Systems/Guild_Research_Crafting_Framework_v1.0.md
 02_Core_Canon/Campaign_Systems/Loot_Registry_Amendment_v1.1.md
 02_Core_Canon/Campaign_Systems/Warden_Question_Framework_v1.0.md
+02_Core_Canon/Region_001/Development/Floor_001_Development_Sheet.md
 02_Core_Canon/Region_001/Development/Region_001_Playable_Development_Spine_Roadmap_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Escaped_Entity_Framework_v1.0.md
 02_Core_Canon/Region_001/Floor_001/Explorer_Map_Contradictions_v1.0.md
